@@ -17,7 +17,7 @@ jobs:
         with:
           hugo-version: '0.96.0'
           extended: true
-      - run: hugo build
+      - run: hugo
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
