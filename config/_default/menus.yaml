@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Charts
-    url: /post
+    url: /category/charts
     weight: 15
   - name: About
     url: about/
