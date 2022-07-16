@@ -8,6 +8,11 @@ body {
 .article-container {
   background-color: #fff;
   border-radius: 15px;
+  max-width: 1080px;
+}
+
+.article-style {
+  overflow: scroll;
 }
 
 .dark .article-container {

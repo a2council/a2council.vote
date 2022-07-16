@@ -27,8 +27,12 @@
     {{ range $col }}
     {{ if (findRE "^TRUE$" .) }}
     <td class="yes">✅️</td>
-    {{ else }}
+    {{ else if (findRE "^FALSE$" .) }}
     <td class="no">❌</td>
+    {{ else if (findRE "^absent$" .) }}
+    <td class="absent">—</td>
+    {{ else }}
+    <td>{{ . | markdownify | emojify }}</td>
     {{ end }}
     {{ end }}
   </tr>
