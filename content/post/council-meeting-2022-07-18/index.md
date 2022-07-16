@@ -27,6 +27,6 @@ image:
 projects: []
 ---
 
-This is a relatively light agenda. There are three nominations, twelve items on the Consent Agenda, two ordinance changes at their first reading, no public hearings or ordinances at their second reading, and two resolutions. One person resigned from Renters' Commission due to moving out of the city.
+This is a relatively light [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=914276&GUID=16115387-C2FF-426B-B745-16D83911AB1C&Options=&Search=). There are three nominations, twelve items on the Consent Agenda, two ordinance changes at their first reading, no public hearings or ordinances at their second reading, and two resolutions. One person resigned from Renters' Commission due to moving out of the city.
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}
