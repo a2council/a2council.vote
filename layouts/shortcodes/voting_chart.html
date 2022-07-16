@@ -1,0 +1,56 @@
+{{/* Table Shortcode for Wowchemy. */}}
+{{/* Load a CSV table from page dir falling back back to remote URL */}}
+{{/* Defaults to expecting a comma-separated CSV with a header row. */}}
+
+{{ $src := .Get "path" }}
+{{ $delimiter := .Get "delimiter" | default "," }}
+{{ $useHeaderRow := (eq (lower (.Get "header")) "true") | default true }}
+{{ $caption := .Get "caption" }}
+
+{{ $is_remote := strings.HasPrefix $src "http" }}
+{{ if not $is_remote }}
+{{ $src = path.Join "content" $.Page.File.Dir $src }}
+{{ end }}
+{{ $rows := getCSV $delimiter $src }}
+
+<table class="table table-bordered voting-chart">
+  {{ if $useHeaderRow }}
+  {{ $headerRow := after 3 (index $rows 0) }}
+  {{ $rows = after 1 $rows }}
+  <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+  {{ end }}
+  {{ range $rows }}
+  {{ $class := index . 1 }}
+  <tr class="{{ $class }}">
+    {{ $link := index . 0 }}
+    {{ $item := index . 2 }}
+    {{ $description := index . 3 }}
+    {{ $col := after 4 . }}
+    <td>
+      <strong>
+      {{ if $link }}
+        <a href="{{ $link }}" target="_blank">{{ $item | markdownify | emojify }}</a>
+      {{ else }}
+        {{ $item | markdownify | emojify }}
+      {{ end }}
+
+      </strong>
+      <p class="small">{{ $description | markdownify | emojify }}</p>
+    </td>
+    {{ range $col }}
+    {{ if (findRE "^TRUE$" .) }}
+    <td class="yes">✅️</td>
+    {{ else if (findRE "^FALSE$" .) }}
+    <td class="no">❌</td>
+    {{ else if (findRE "^absent$" .) }}
+    <td class="absent">—</td>
+    {{ else }}
+    <td>{{ . | markdownify | emojify }}</td>
+    {{ end }}
+    {{ end }}
+  </tr>
+  {{ end }}
+  {{ if $caption }}
+  <caption>{{ $caption | markdownify | emojify }}</caption>
+  {{ end }}
+</table>

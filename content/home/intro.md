@@ -18,6 +18,4 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
-
-Check out my [CV](/about/) and blog posts below 🌈
+🐈 Welcome to the **community-run** Ann Arbor City Council voting chart database! 🐈

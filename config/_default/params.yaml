@@ -15,13 +15,13 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Ann Arbor City Council Voting Charts Project'
+    twitter: 'a2councilbot'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-ZZ8TJ98PZC'
     baidu_tongji: ''
   verification:
     google: ''
@@ -31,7 +31,7 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: r
     show_logo: false
     show_language: false
