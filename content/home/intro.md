@@ -18,4 +18,4 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Welcome to the community-run Ann Arbor City Council voting chart database!
+🐈 Welcome to the **community-run** Ann Arbor City Council voting chart database! 🐈
