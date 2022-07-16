@@ -120,3 +120,16 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+table.voting-chart {
+  tr.pass {
+    background-color: rgb(203, 255, 203);
+  }
+  tr.fail {
+    background-color: rgb(249, 213, 213);
+  }
+
+  tr.amendment td:first-child {
+    padding-left: 1.5rem;
+  }
+}

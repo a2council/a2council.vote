@@ -13,17 +13,30 @@
 {{ end }}
 {{ $rows := getCSV $delimiter $src }}
 
-<table class="table table-bordered table-striped voting-chart">
+<table class="table table-bordered voting-chart">
   {{ if $useHeaderRow }}
-  {{ $headerRow := index $rows 0 }}
+  {{ $headerRow := after 3 (index $rows 0) }}
   {{ $rows = after 1 $rows }}
   <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
   {{ end }}
   {{ range $rows }}
-  <tr>
-    {{ $headerCol := index . 0 }}
-    {{ $col := after 1 . }}
-    <td class="small">{{ $headerCol | markdownify | emojify }}</td>
+  {{ $class := index . 1 }}
+  <tr class="{{ $class }}">
+    {{ $link := index . 0 }}
+    {{ $item := index . 2 }}
+    {{ $description := index . 3 }}
+    {{ $col := after 4 . }}
+    <td>
+      <strong>
+      {{ if $link }}
+        <a href="{{ $link }}" target="_blank">{{ $item | markdownify | emojify }}</a>
+      {{ else }}
+        {{ $item | markdownify | emojify }}
+      {{ end }}
+
+      </strong>
+      <p class="small">{{ $description | markdownify | emojify }}</p>
+    </td>
     {{ range $col }}
     {{ if (findRE "^TRUE$" .) }}
     <td class="yes">✅️</td>
