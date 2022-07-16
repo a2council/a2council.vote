@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: A2Council Voting Charts Project
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+# role: 数据科学家
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✅
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
-    url: ''
+  - name: Ann Arbor City Council
+    url: 'https://www.a2gov.org/departments/city-council/pages/home.aspx'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: The Ann Arbor City Council Voting Charts Project is a community-maintained source for voting history for the Ann Arbor City Council. It is not affiliated with the City of Ann Arbor, nor is it endorsed by any particular member of City Council.
 
 #interests:
 #- Artificial Intelligence
