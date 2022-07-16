@@ -23,7 +23,7 @@
   <tr>
     {{ $headerCol := index . 0 }}
     {{ $col := after 1 . }}
-    <td>{{ $headerCol | markdownify | emojify }}</td>
+    <td class="small">{{ $headerCol | markdownify | emojify }}</td>
     {{ range $col }}
     {{ if (findRE "^TRUE$" .) }}
     <td class="yes">✅️</td>

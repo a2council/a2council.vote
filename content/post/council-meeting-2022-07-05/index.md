@@ -2,13 +2,13 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Council Meeting July 5, 2022"
+title: "Ann Arbor City Council Voting Chart for the Meeting of July 5, 2022"
 subtitle: ""
-summary: ""
+summary: "This is an incomplete example showing how a council meeting's voting chart will render. One day we may backport previous meetings, but this is currently purely for illustrative purposes."
 authors: []
 tags: []
 categories: ["charts"]
-date: 2022-07-16T10:27:40-04:00
-lastmod: 2022-07-16T10:27:40-04:00
+date: 2022-07-05T19:00:00-04:00
 featured: false
 draft: false
 
@@ -27,5 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+This is an incomplete example showing how a council meeting's voting chart will render. One day we may backport previous meetings, but this is currently purely for illustrative purposes.
 
 {{< voting_chart path="ca.csv" header="true" caption="Consent Agenda" >}}
