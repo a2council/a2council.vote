@@ -21,7 +21,7 @@ marketing:
     description: 'Ann Arbor City Council Voting Charts Project'
     twitter: 'a2councilbot'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-ZZ8TJ98PZC'
     baidu_tongji: ''
   verification:
     google: ''
