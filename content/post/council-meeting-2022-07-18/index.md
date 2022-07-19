@@ -33,5 +33,7 @@ Of particular interest:
 
 * CA-11, a resolution to remove parking on Barton and install bike lanes, was postponed in 2019 to await the results of the Lower Town Mobility Study which has since completed.
 * C-2, an ordinance to alter minimum parking requirements.
+* DC-1, a resolution to continue doing checks for compliance with our prevailing wage ordinance.
+* DC-2,
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

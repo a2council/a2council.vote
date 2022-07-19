@@ -12,7 +12,7 @@ body {
 }
 
 .article-style {
-  overflow: scroll;
+  overflow: auto;
 }
 
 .dark .article-container {
@@ -128,7 +128,10 @@ table.voting-chart {
   tr.fail {
     background-color: rgb(249, 213, 213);
   }
-
+  tr.pulled {
+    background-color: rgb(183, 183, 183);
+    text-decoration: line-through;
+  }
   tr.amendment td:first-child {
     padding-left: 1.5rem;
   }
