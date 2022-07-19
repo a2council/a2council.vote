@@ -12,7 +12,7 @@ body {
 }
 
 .article-style {
-  overflow: auto;
+  overflow: visible; // required for sticky table header
 }
 
 .dark .article-container {
@@ -122,6 +122,11 @@ ul.network-icon .big-icon {
 }
 
 table.voting-chart {
+  thead {
+    background-color: #fff;
+
+  }
+
   tr.pass {
     background-color: rgb(203, 255, 203);
   }
@@ -130,6 +135,32 @@ table.voting-chart {
   }
   tr.pulled {
     background-color: rgb(183, 183, 183);
+  }
+}
+
+.dark table.voting-chart {
+  thead {
+    background-color: #292b32;
+  }
+  tr.pass {
+    background-color: rgb(5, 83, 5);
+  }
+  tr.fail {
+    background-color: rgb(117, 6, 6);
+  }
+  tr.pulled {
+    background-color: rgb(63, 63, 63);
+  }
+}
+
+
+table.voting-chart {
+  thead {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+  }
+  tr.pulled {
     text-decoration: line-through;
   }
   tr.amendment td:first-child {

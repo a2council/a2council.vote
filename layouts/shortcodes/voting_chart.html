@@ -4,7 +4,6 @@
 
 {{ $src := .Get "path" }}
 {{ $delimiter := .Get "delimiter" | default "," }}
-{{ $useHeaderRow := (eq (lower (.Get "header")) "true") | default true }}
 {{ $caption := .Get "caption" }}
 
 {{ $is_remote := strings.HasPrefix $src "http" }}
@@ -14,11 +13,11 @@
 {{ $rows := getCSV $delimiter $src }}
 
 <table class="table table-bordered voting-chart">
-  {{ if $useHeaderRow }}
   {{ $headerRow := after 3 (index $rows 0) }}
   {{ $rows = after 1 $rows }}
-  <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
-  {{ end }}
+  <thead>
+    <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+  </thead>
   {{ range $rows }}
   {{ $class := index . 1 }}
   <tr class="{{ $class }}">
