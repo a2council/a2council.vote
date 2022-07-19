@@ -12,7 +12,7 @@ body {
 }
 
 .article-style {
-  overflow: auto;
+  overflow: visible;
 }
 
 .dark .article-container {
@@ -122,6 +122,12 @@ ul.network-icon .big-icon {
 }
 
 table.voting-chart {
+  thead {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background-color: #fff;
+  }
   tr.pass {
     background-color: rgb(203, 255, 203);
   }
