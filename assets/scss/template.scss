@@ -142,6 +142,9 @@ table.voting-chart {
   thead {
     background-color: #292b32;
   }
+  td {
+    background-color: transparent !important;
+  }
   tr.pass {
     background-color: rgb(5, 83, 5);
   }
