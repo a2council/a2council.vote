@@ -1,8 +1,5 @@
-module github.com/wowchemy/starter-blog
+module github.com/bdimcheff/a2council.vote
 
-go 1.14
+go 1.18
 
-require (
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220423180919-17d5d3f0ca43 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220423180919-17d5d3f0ca43 // indirect
-)
+require github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.6.0 // indirect
