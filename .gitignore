@@ -5,3 +5,5 @@
 resources/
 public/
 assets/jsconfig.json
+
+.~lock.*
