@@ -27,7 +27,7 @@ image:
 projects: []
 ---
 
-This is a relatively light [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=914277&GUID=542A404E-8388-44AE-BA30-A7F0BD2AD6F0&Options=info|&Search=). There are three nominations, eleven items on the Consent Agenda, two ordinance changes at their first reading, no public hearings or ordinances at their second reading, and two resolutions. One person resigned from Renters' Commission due to moving out of the city. CM Eyer was absent, which is why there's no voting data for her.
+This is a relatively light [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=914277&GUID=542A404E-8388-44AE-BA30-A7F0BD2AD6F0&Options=info|&Search=). There are two nominations, eleven items on the Consent Agenda, no ordinances at their first reading, one public hearing for an ordinance at its second reading, and two resolutions. One person resigned from the AAATA Board, and one from Energy Commission.
 
 Of particular interest:
 
