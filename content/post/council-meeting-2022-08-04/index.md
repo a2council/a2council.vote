@@ -33,6 +33,7 @@ Jeff Hayner was absent.
 
 Of particular interest:
 
+* DC-3 was added late, to authorize the Attorney's office to sue Tribar over the hexavalent chromium spill.
 * PH-1 and B-1, a public hearing and second reading of an ordinance that will modify the setbacks in R2A (duplex zoning) to allow more duplexes to actually be built in those districts. Here is an excerpt from the [discussion](http://a2gov.legistar.com/View.ashx?M=F&ID=11007128&GUID=E83D703C-126B-4C81-A8F8-0B39477209FB) of the resolution:
   > The R2A district is intended to “create areas of essentially single-family residential character
     utilizing two single-family dwelling units that are attached either side to side or vertically,” and
