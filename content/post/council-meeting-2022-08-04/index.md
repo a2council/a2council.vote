@@ -29,6 +29,8 @@ projects: []
 
 This is a relatively light [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=914277&GUID=542A404E-8388-44AE-BA30-A7F0BD2AD6F0&Options=info|&Search=). There are two nominations, eleven items on the Consent Agenda, no ordinances at their first reading, one public hearing for an ordinance at its second reading, and two resolutions. One person resigned from the AAATA Board, and one from Energy Commission.
 
+Jeff Hayner was absent.
+
 Of particular interest:
 
 * PH-1 and B-1, a public hearing and second reading of an ordinance that will modify the setbacks in R2A (duplex zoning) to allow more duplexes to actually be built in those districts. Here is an excerpt from the [discussion](http://a2gov.legistar.com/View.ashx?M=F&ID=11007128&GUID=E83D703C-126B-4C81-A8F8-0B39477209FB) of the resolution:
