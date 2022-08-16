@@ -136,6 +136,9 @@ table.voting-chart {
   tr.pulled {
     background-color: rgb(183, 183, 183);
   }
+  tr.consent:not(.rollcall) {
+    background-color: rgb(227, 252, 227);
+  }
 }
 
 .dark table.voting-chart {
@@ -153,6 +156,9 @@ table.voting-chart {
   }
   tr.pulled {
     background-color: rgb(63, 63, 63);
+  }
+  tr.consent:not(.rollcall) {
+    background-color: rgb(10, 115, 10);
   }
 }
 
