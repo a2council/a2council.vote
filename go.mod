@@ -1,4 +1,4 @@
-module github.com/bdimcheff/a2council.vote
+module github.com/a2council/a2council.vote
 
 go 1.18
 

@@ -41,10 +41,10 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} a2council.vote contributors. This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
       allow_commercial: false
 
@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/bdimcheff/a2council.vote'
+    url: 'https://github.com/a2council/a2council.vote'
     content_dir: content
     branch: main
   avatar:
