@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/bdimcheff/a2council.vote'
+    url: 'https://github.com/a2council/a2council.vote'
     content_dir: content
     branch: main
   avatar:
