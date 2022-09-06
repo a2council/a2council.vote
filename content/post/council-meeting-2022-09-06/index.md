@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ann Arbor City Council Voting Chart for the Meeting of August 15, 2022"
+title: "Ann Arbor City Council Voting Chart for the Meeting of September 6, 2022"
 subtitle: ""
 summary: ""
 authors: []
