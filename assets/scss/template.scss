@@ -130,6 +130,9 @@ table.voting-chart {
   tr.pass {
     background-color: rgb(203, 255, 203);
   }
+  tr.postponed {
+    background-color: rgb(249, 216, 158);
+  }
   tr.fail {
     background-color: rgb(249, 213, 213);
   }
@@ -150,6 +153,9 @@ table.voting-chart {
   }
   tr.pass {
     background-color: rgb(5, 83, 5);
+  }
+  tr.postponed {
+    background-color: rgb(191, 122, 2);
   }
   tr.fail {
     background-color: rgb(117, 6, 6);
