@@ -27,6 +27,6 @@ image:
 projects: []
 ---
 
-Today's [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=914282&GUID=6EA18D53-BC4C-4691-AD68-0E655A59661D&Options=info%7C&Search=) is a light agenda, with no public hearings and only two items on the regular agenda.
+Today's [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=914282&GUID=6EA18D53-BC4C-4691-AD68-0E655A59661D&Options=info%7C&Search=) is a light agenda, with no public hearings and only two items on the regular agenda. [DC-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5886800&GUID=46464B30-F7BD-420C-923E-D2FB9C0FD736&Options=&Search=) is an attempt to encourage Blue Cross to stop donating to politicians who are attempting to disenfranchise voters of color.
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}
