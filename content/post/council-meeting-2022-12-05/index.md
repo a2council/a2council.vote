@@ -34,4 +34,6 @@ Today's [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=914285&GUID=C49
 * [DC-5](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5950251&GUID=8012EC81-7710-4533-ACBF-2420591260FD&Options=&Search=) is some tweaks to TC-1 to increase setbacks a bit and allow certain automotive uses, such as car rentals (zipcar, traditional rentals).
 * [DC-6](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5953546&GUID=E614F3B6-5532-4665-A669-4999EF1392E8&Options=&Search=) is a motion to bring back a previous resolution looking into taking over State trunklines: Washtenaw, Huron, Jackson, and N. Main. The state would pay the city to take them over, and the city would receive more revenue share for maintenance. This agenda item is a budget allocation for a feasibility study.
 
+**Correction December 6, 2022:** Removed [erroneous](https://github.com/a2council/a2council.vote/issues/41) nomination votes.
+
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}
