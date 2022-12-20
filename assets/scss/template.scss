@@ -136,11 +136,14 @@ table.voting-chart {
   tr.fail {
     background-color: rgb(249, 213, 213);
   }
+  tr.consent {
+    background-color: rgb(227, 252, 227);
+  }
+  tr.rollcall {
+    background-color: rgb(203, 255, 203);
+  }
   tr.pulled {
     background-color: rgb(183, 183, 183);
-  }
-  tr.consent:not(.rollcall) {
-    background-color: rgb(227, 252, 227);
   }
 }
 
@@ -160,12 +163,16 @@ table.voting-chart {
   tr.fail {
     background-color: rgb(117, 6, 6);
   }
+  tr.consent {
+    background-color: rgb(10, 115, 10);
+  }
+  tr.rollcall {
+    background-color: rgb(5, 83, 5);
+  }
   tr.pulled {
     background-color: rgb(63, 63, 63);
   }
-  tr.consent:not(.rollcall) {
-    background-color: rgb(10, 115, 10);
-  }
+
 }
 
 
