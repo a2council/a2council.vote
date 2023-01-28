@@ -7,3 +7,5 @@ public/
 assets/jsconfig.json
 
 .~lock.*
+.devenv
+.direnv
