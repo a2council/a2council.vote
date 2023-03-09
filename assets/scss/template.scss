@@ -145,6 +145,10 @@ table.voting-chart {
   tr.postponed {
     background-color: rgb(249, 216, 158);
   }
+  tr.referred {
+    background-color: rgb(249, 237, 158);
+  }
+
 }
 
 .dark table.voting-chart {
@@ -171,6 +175,9 @@ table.voting-chart {
   }
   tr.postponed {
     background-color: rgb(191, 122, 2);
+  }
+  tr.referred {
+    background-color: rgb(160, 150, 17);
   }
 
 }
