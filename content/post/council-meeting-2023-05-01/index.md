@@ -37,4 +37,6 @@ There's one ordinance first reading this evening. [C-1](https://a2gov.legistar.
 
 There are three more resolutions on the agenda tonight. [DC-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6172879&GUID=CA9AD0D0-616B-4CDD-9837-5EB8737C7733&Options=&Search=) is a resolution updating the updating Council's Policy Agenda Committee. [DC-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6187805&GUID=11B66D8D-4018-4117-A5CE-C269D9C3A525&Options=&Search=) is a resolution to approve a farm lease on the Maisel Property. [DB-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6175874&GUID=E945C440-FB09-4237-9E62-C795DA36C57D&Options=&Search=) is a resolution to dissolve the Brownfield Review Committee in favor of having staff handle brownfield requests to be approved by council.
 
+Councilmember Ghazi-Edwin was absent.
+
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}
