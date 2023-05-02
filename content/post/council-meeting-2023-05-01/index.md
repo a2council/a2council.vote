@@ -29,7 +29,7 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062172&GUID=D4D03A3F-E36B-4793-B34E-6EFB3400D073&Options=&Search=). 
 
-The evening kicks off with an, 11-item consent agenda. It's basically road construction contracts all the way down with two collections of delinquent fees and taxes.
+The evening kicks off with an 11-item consent agenda. It's basically road construction contracts all the way down with two collections of delinquent fees and taxes.
 
 There are 5 public hearings on the agenda this evening. [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6122673&GUID=A5D97CFF-B226-417A-9440-D6301D5F0E39&Options=&Search=) and [PH-2/B-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6122674&GUID=B86C7EFD-570D-4D6A-9631-9B1C10880908&Options=&Search=) are on changes to the water rate and stormwater rate. [PH-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6175872&GUID=50D3BCAE-8DEE-4951-AEB9-680304A18CD2&Options=&Search=) is on updates to public services fees. [PH-4](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6175873&GUID=7947583E-51A4-49C3-AFBD-8F925BEF8465&Options=&Search=) is on a resolution to approve fee adjustments. [PH-5](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6175884&GUID=1E292595-1C5B-4978-8A5C-E22D9F7EC508&Options=&Search=) is the big one, it's on the resolution to approve the budget.
 
