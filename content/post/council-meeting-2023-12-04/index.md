@@ -29,7 +29,7 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062186&GUID=E4F826E3-059E-4EBB-B09E-BBF7D4E4FBA8&Options=&Search=).
 
-The evening kicks off with a modest, 7-item consent agenda. Of note, [CA-5](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6430466&GUID=4943203F-DFEE-43CC-BD7A-3B6E873ADDA8&Options=&Search=) is accepting a $182,360 to make the Bryant Community Center carbon neutral.
+The evening kicks off with a 7-item consent agenda. Of note, [CA-5](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6430466&GUID=4943203F-DFEE-43CC-BD7A-3B6E873ADDA8&Options=&Search=) is accepting a $182,360 to make the Bryant Community Center carbon neutral.
 
 There are 5 public hearings on the docket this evening. [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6393397&GUID=0A7A0C42-23B7-498D-8958-497684B6C938&Options=&Search=) is the second reading of a change to the Lockwood PUD that would allow a 4-foot modification to their setbacks due to an error.
 
