@@ -53,7 +53,7 @@ The following amendments passed:
 -   Change a level 1 planner to a level 5 planner. The budget called for three new junior planners. Two of them have already been hired. For the last one, we will hire an experienced planner instead of a junior one. They expect this to be revenue neutral because an experienced planner will get more planning done, so the city will get more revenue from permit fees and so forth.
 -   $500k from marijuana tax for eviction prevention and low income youth services.
 -   $500k from marijuana tax to continue funding for the _Rising Hope for Housing_ program for returning citizens; a project of _A Brighter Way_.
--   $100k to send out a mailer of factual information. The idea is to help out people who have a hard time using the internet. Let them know who their council members are, and about city programs people can take advantage of, and have phone numbers of who to call for what. The money just covers printing and mailing. The council intends to write this themselves, at the "Administration Committee". They haven't decided exactly what will go in it yet.
+-   $100k to send out a mailer of factual information. The idea is to help out people who have a hard time using the internet. Let them know who their council members are, and about city programs people can take advantage of, and have phone numbers of who to call for what. The money just covers printing and mailing. The council intends to write this themselves, at the Administration Committee. They haven't decided exactly what will go in it yet.
 
 One more amendment, to prioritize flashing warning lights at an individual crosswalk on Stone School rather than have it go through the normal prioritization process, failed.
 
