@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ann Arbor City Council Voting Chart for the Meeting of June 3, 2024"
+title: "Ann Arbor City Council Voting Chart for the Meeting of June 18, 2024"
 subtitle: ""
 summary: ""
 authors: []
