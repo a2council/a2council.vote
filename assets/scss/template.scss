@@ -124,7 +124,6 @@ ul.network-icon .big-icon {
 table.voting-chart {
   thead {
     background-color: #fff;
-
   }
 
   tr.pass {
@@ -180,12 +179,17 @@ table.voting-chart {
   }
 }
 
-
 table.voting-chart {
   thead {
     position: sticky;
     top: 0;
     z-index: 20;
+  }
+  th:not(:first-child) {
+    @media (max-width: 801px) {
+      text-orientation: mixed;
+      writing-mode: vertical-rl;
+    }
   }
   tr.pulled {
     text-decoration: line-through;
