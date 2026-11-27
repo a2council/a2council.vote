@@ -10,14 +10,12 @@
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
 
-{{/* Get summary (strip voting_chart tables rendered into .Summary in Hugo >=0.134). */}}
+{{/* Get summary (only when explicitly set in front matter; omit auto .Summary). */}}
 {{ $summary := "" }}
 {{ if $item.Params.summary }}
   {{ $summary = $item.Params.summary | markdownify | emojify }}
 {{ else if $item.Params.abstract }}
   {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
-{{ else if $item.Summary }}
-  {{ $summary = ($item.Summary | string) | replaceRE `(?s)<table[^>]*voting-chart[^>]*>.*$` "" | safeHTML }}
 {{ end }}
 
 <div class="card-simple view-card">
