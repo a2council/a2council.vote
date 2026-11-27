@@ -32,4 +32,30 @@ Here's the [agenda](https://a2gov.legistar.com/View.ashx?M=A&ID=1368501&GUID=03
 
 Here's the [YouTube video](https://www.youtube.com/watch?v=zjOmif3nU7Y) of the meeting.
 
+### Public Comment
+
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3004s)) — 9 speakers:
+* [Adam Jiskiewicz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3036s)
+* [Kathy Griswold](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3152s)
+* [Henry Herskovitz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3177s)
+* [Susan Lutz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3364s)
+* [Ramon Harris](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3561s)
+* [Anthony Winters](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3752s)
+* [Courtland Travis Bursey](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3925s)
+* [Eric Brown](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=4160s)
+* [Lynn Landy](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=4245s)
+
+**Public Hearing (`PH-1` / `B-1`: Downtown Development Authority Ordinance)** ([start](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=4942s)) — 9 speakers:
+* [Jeff Crockett](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=4970s)
+* [Diana Marsh](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5146s)
+* [Adam Jiskiewicz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5314s)
+* [Andy O'Neal](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5383s)
+* [Curtis Davis](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5460s)
+* [Angela Davis](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5623s)
+* [Nick Leimer](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5828s)
+* [Luis Vazquez](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5970s)
+* [Karen Delhey](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=6030s)
+
+**General Public Comment (End of Meeting)** ([start](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=9276s)) — no speakers.
+
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}
