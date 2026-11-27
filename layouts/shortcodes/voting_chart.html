@@ -15,6 +15,7 @@
 {{ end }}
 {{ $rows := $res | transform.Unmarshal (dict "delimiter" $delimiter) }}
 
+<div class="voting-chart-wrapper">
 <table class="table table-bordered voting-chart">
   {{ $headerRow := after 3 (index $rows 0) }}
   {{ $rows = after 1 $rows }}
@@ -56,3 +57,4 @@
   <caption>{{ $caption | markdownify | emojify }}</caption>
   {{ end }}
 </table>
+</div>

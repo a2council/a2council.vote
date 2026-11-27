@@ -26,14 +26,20 @@ article > main {
   max-width: none !important;
 }
 
+.voting-chart-wrapper {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
 table.voting-chart {
   border-collapse: collapse;
   width: 100%;
+  font-size: 0.875rem;
 
   th,
   td {
     border: 1px solid #dee2e6;
-    padding: 0.5rem;
+    padding: 0.35rem 0.45rem;
   }
 
   thead {
