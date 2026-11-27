@@ -5,6 +5,7 @@
 resources/
 public/
 assets/jsconfig.json
+hugo_stats.json
 
 .~lock.*
 .devenv
