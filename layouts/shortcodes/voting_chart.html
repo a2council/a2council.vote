@@ -20,7 +20,7 @@
   {{ $headerRow := after 3 (index $rows 0) }}
   {{ $rows = after 1 $rows }}
   <thead>
-    <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+    <tr> {{ range $headerRow }} <th>{{ . | replaceRE ` \(Ward ` `<br>(Ward ` | safeHTML }}</th> {{ end }} </tr>
   </thead>
   {{ range $rows }}
   {{ $class := index . 1 }}
