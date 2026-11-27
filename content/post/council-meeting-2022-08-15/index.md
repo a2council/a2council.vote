@@ -29,6 +29,8 @@ projects: []
 
 Today's [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=914278&GUID=3FEB680C-08E8-4E76-A1F6-5F13A3828049&Options=&Search=) has several items of interest. There are two nominations, nineteen items on the Consent Agenda, one ordinance at its first reading for a new PUD zoning, two public hearing for an ordinances at their second reading, and one resolution that's not otherwise described above. One person resigned from the AAATA Board.
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=tiNmM2CDpPM) of the meeting.
+
 Of particular interest:
 
 * [CA-4](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5747326&GUID=C05BC862-E997-45BC-8E6A-DCACECB5E7A8&Options=&Search=) is a contract to redesign the city's website.

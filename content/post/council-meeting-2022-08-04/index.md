@@ -29,6 +29,8 @@ projects: []
 
 This is a relatively light [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=914277&GUID=542A404E-8388-44AE-BA30-A7F0BD2AD6F0&Options=info|&Search=). There are two nominations, eleven items on the Consent Agenda, no ordinances at their first reading, one public hearing for an ordinance at its second reading, and two resolutions. One person resigned from the AAATA Board, and one from Energy Commission.
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=2X7WjvPMfQs) of the meeting.
+
 Jeff Hayner was absent.
 
 Of particular interest:

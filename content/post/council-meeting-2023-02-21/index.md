@@ -28,6 +28,8 @@ projects: []
 ---
 Tonight is a special Tuesday-edition of City council, due to President's Day. Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062166&GUID=C64EF447-48AE-43E1-AC80-206EE62C7E70&Options=&Search=). 
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=UwAjrAjXLFg) of the meeting.
+
 The evening kicks off with a substantial, 17-item consent agenda. [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6020555&GUID=D3830602-6DBB-40DB-87FB-4D7553CA73B9&Options=&Search=) is closing Monroe St for the 2023 Monroe St Fair. The police and fire departments are opposed to this because the the event would coincide with the University's spring football game. It was pulled for additional discussion, and ultimately postponed in order to find a more suitable location. 
 
 There are two public hearings on tonight's docket. [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6016560&GUID=751C5B1D-6653-4F9B-9A9C-BAEF77F3E75B&Options=&Search=) is the second reading of the amendment to the Tax Exemption for Housing Projects ordinance. [PH-2/B-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6008862&GUID=FBC92F25-79E8-42DF-A260-8A2841E4400C&Options=&Search=) is the second reading of an ordinance to amend the city's discrimination ordinance. Neither elicited resident input.

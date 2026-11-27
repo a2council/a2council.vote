@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141235&GUID=FDFFDD45-951C-49DA-B04C-A636AC6B08D5&Options=&Search=).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=-uN986pTiCA) of the meeting.
+
 The evening kicks off with a modest, 14-item consent agenda. [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6586156&GUID=16899523-B740-4172-A7DF-56DE79526D25&Options=&Search=), [CA-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6586158&GUID=2C924C81-C131-49BE-9B9B-D159A18971A0&Options=&Search=), and [CA-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6586157&GUID=ECF7EA70-225F-49D7-9A8B-99438F56F721&Options=&Search=) are street closures for the Dexter Ann Arbor run, The Event of Main, and Arbtoberfest, respectively. [CA-9](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6586141&GUID=CBD1636E-807E-487D-969A-C63229577DC9&Options=&Search=) is to accept a hazard mitigation grant from FEMA to Purchase and Demolish 124 Felch Street and 112 E Summit.
 
 There is one ordinance second reading on the docket tonight. [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6551472&GUID=4D77DEE9-94F7-42DA-B405-3018DC6F9078&Options=&Search=) is the second reading of changes to the Open Space and Parkland Preservation ordinance AKA the Greenbelt. This would, among other things, include some areas of Ypsilanti Township within the Greenbelt and also change some of the rules governing conservation easements.

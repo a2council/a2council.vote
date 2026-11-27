@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141232&GUID=16540AE6-CE61-473A-BA09-7A98513BFE03&Options=&Search=). 
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=7Y00CIIktIU) of the meeting.
+
 The evening kicks off with a modest, 10-item consent agenda. Of note, [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6509126&GUID=99DD9915-A0C1-4A85-AD6D-454D6B2D47D0&Options=&Search=), $800k for gas-powered golf cart leases. [CA-6](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6509124&GUID=63E4F9A7-D2F9-477D-BFD1-EFF2F235C076&Options=&Search=) is $140,000 for a grant for the Pauline-Runnymede Path. And the E. Medical Center Drive returns in [CA-8](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6509125&GUID=55F89262-A18E-4527-802C-B08A334A3312&Options=&Search=).
 
 There is one public hearing on the agenda tonight. [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6476016&GUID=CB2F4676-CB8B-4E82-A17D-86C4C6F4457E&Options=&Search=) is for an ordinance second reading for changes to the rules on Conflicting Land Use Buffers.

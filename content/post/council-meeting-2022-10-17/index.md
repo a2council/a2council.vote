@@ -29,4 +29,6 @@ projects: []
 
 Today's [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=914282&GUID=6EA18D53-BC4C-4691-AD68-0E655A59661D&Options=info%7C&Search=) is a light agenda, with no public hearings and only two items on the regular agenda. [DC-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5886800&GUID=46464B30-F7BD-420C-923E-D2FB9C0FD736&Options=&Search=) is an attempt to create a policy that would prioritize doing business with companies who conform with reasonable corporate values.
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=SaBmtEs_rJc) of the meeting.
+
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

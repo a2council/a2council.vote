@@ -29,6 +29,8 @@ projects: []
 
 Today's [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=914285&GUID=C4934EEC-9F4C-49F9-8F96-FC565743EC41&Options=&Search=) is short. A few items of note:
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=EgXoaFI4x50) of the meeting.
+
 * [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5946066&GUID=1C62CBAE-695B-4B90-843C-62F424368452&Options=&Search=) is progress towards connecting Barton Nature Area and Bandemer Park.
 * [DC-3](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5950249&GUID=61057FAC-4331-4972-BD45-DBCC2039EC73&Options=&Search=) is council committee appointments for this term.
 * [DC-5](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5950251&GUID=8012EC81-7710-4533-ACBF-2420591260FD&Options=&Search=) is some tweaks to TC-1 to increase setbacks a bit and allow certain automotive uses, such as car rentals (zipcar, traditional rentals).

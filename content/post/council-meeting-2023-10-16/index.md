@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062183&GUID=58835868-1CF4-436A-8905-749C31219C93&Options=&Search=). 
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=TKbLDWzYM3w) of the meeting.
+
 The evening kicks off with a 13-item consent agenda. There's just one road closure, [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6372496&GUID=E1FACF55-8518-4962-91C0-B98D4B76D87A&Options=&Search=), for the Turkey Trot. [CA-7](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6372489&GUID=2196957F-A0EE-4287-8EA2-13F72B38350D&Options=&Search=) is traffic calming for Grandview from Jackson to Dexter.
 
 There are two public hearings on the agenda tonight. [PH-1/DB-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6372500&GUID=51B0AADD-8FA2-484E-B9B3-F31A495D27E0&Options=&Search=) is for a township island annexation at  3701 - 3713 Riverside Drive. [PH-2/DS-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6372469&GUID=72F6692B-7DF0-4E3D-B983-402E8D49EDB5&Options=&Search=) is accepting a grant to help with opioid harm reduction. 

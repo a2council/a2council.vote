@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062184&GUID=AE424CFF-F79D-47B9-A9CB-BB279C12014F&Options=&Search=).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=tuWvBwIZ7kU) of the meeting.
+
 The evening kicks off with a 20-item consent agenda. Of note, [CA-17](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6393379&GUID=FDA13D76-A7B9-49F3-AE48-1318791FF4AE&Options=&Search=), accepting the donation of a park at 1420 Maple. There's also [CA-18](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6372828&GUID=BD69C13A-5756-4F5A-82C2-D0B0B2AF38C5&Options=&Search=), a contract for installing public restrooms in and near Downtown.
 
 There are no public hearings on the docket, but there are 4 ordinance first readings. [C-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6393397&GUID=0A7A0C42-23B7-498D-8958-497684B6C938&Options=&Search=) is an amendment to the Lockwood PUD. [C-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6393400&GUID=8E2B562A-B0F8-4F01-90E1-28BFF2BC4104&Options=&Search=) is rezoning the some of the Briarwood Parking Lot from Parking to C2B (business services) to allow for construction in place of some surface parking. [C-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6393398&GUID=EECA0B9F-3593-4CD4-B080-55614B761C83&Options=&Search=) is a fix to the city's downtown premiums for the D1 and D2 zone. These premiums have been in place since 2019, but have produced no affordable housing, and have thus been ineffective at achieving that goal. [C-4](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6393399&GUID=0A64E817-8471-4AC5-A8C3-68FA299DEFB0&Options=&Search=) is changes to setback rules in the transit corridor district.

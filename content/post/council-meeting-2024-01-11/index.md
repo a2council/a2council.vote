@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1141229&GUID=D3B804BB-C297-4866-9CA3-FD5B424BC41E&Options=info|&Search=). Note: this meeting was moved from Monday, January 8 to Thursday January 11 during a special session of council, in order to avoid conflict with the CFB National Championship Game.
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=VrhfeJ0wjhE) of the meeting.
+
 The meeting kicks off with an 16-item consent agenda. There are street closings for Festifools, Fool Moon, Tech Trek, and the Big House 5k.
 
 There are no public hearings on the agenda.

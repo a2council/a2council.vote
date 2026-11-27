@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141237&GUID=D829935B-65FC-47F0-AF06-05E74B934FCF&Options=&Search=).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=0mQUS7yKvSA) of the meeting.
+
 The evening kicks off with a 26-item consent agenda. The first 4 items are all street closures. [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6647521&GUID=8548B812-119E-4F7B-81F8-83E9D51D100F&Options=&Search=) is for the Bicentennial Birthday Celebration. [CA-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6646479&GUID=51DA5F74-7A5F-4A2F-9F6C-B3079D2C0F28&Options=&Search=) is for Top of the Park. [CA-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6646481&GUID=0FF35578-21ED-4BB9-A25E-36A89CBBE112&Options=&Search=) is for the YMCA Community Block Party. And [CA-4](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6646480&GUID=A9E69763-D49F-4DE5-8C9D-CF1C12D410A2&Options=&Search=) is for Sonic Lunch. There is also [CA-12](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6643534&GUID=589304DF-5BE8-4CA1-89DC-FD64BC958D3A&Options=&Search=) which is a special assessment for closing the Stone School sidewalk gap. 
 
 There are nine (9) public hearings on the docket this evening! [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6586223&GUID=BFA362E0-6389-4D99-8E01-574AC5AA1EE6&Options=&Search=) is the second reading of changing the way the city assess traffic associated with large building projects. This change will replace standard traffic studies (which, tend to favor automobile traffic over all other modes of transportation) with more holistic multimodal transportation impact analyses.

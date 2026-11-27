@@ -29,6 +29,8 @@ projects: []
 
 Today's [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1062164&GUID=8A38ED22-2780-41A0-BA8E-20C319D63399&Options=info|&Search=) is relatively short, but [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5968442&GUID=DB23C102-1FBB-4BF4-8E5D-2DC77407BD93&Options=&Search=) provoked a lot of discussion, as it pertains to the controversial East Medical Center Drive bridge expansion. It was postponed until the next meeting. [C-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5992467&GUID=1CD4C7AF-B1FF-4628-A114-08A1CAC0BA29&Options=&Search=) establishes a one-house Robert and Erma Hayden House historical district.
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=I1fZlvYXF8k) of the meeting.
+
 Full agenda below:
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

@@ -28,6 +28,8 @@ projects: []
 ---
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062167&GUID=E0772E97-A597-4D8B-B24E-C24ACE3A7CBB&Options=info|&Search=) for tonight's meeting.
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=2LRcNmP-ysI) of the meeting.
+
 The meeting kicks off with a modest, 12-item consent agenda. We've got street closures for the Burns Park Run (CA-1) and for restaurants and retail (CA-2). The city is also going to purchase a bike lane sweeper (CA-9)!
 
 There are three pubic hearings on the docket this evening. All of them have to do with the Village of Ann Arbor development on the city's northside. [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6005255&GUID=7531C6E2-3442-4270-B34A-2F3E834CF3CF&Options=&Search=) is the rezoning, [PH-2/DB-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6035853&GUID=57F722C7-26DD-431C-8EA8-398C91F130ED&Options=&Search=) is the site plan, and [PH-3/DB-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6035866&GUID=C9928A56-731A-4BE6-BBD0-C19CBFF591BD&Options=&Search=) is the brownfield plan. This is a pretty big rezoning (~68 acres) of a former township island to R4A.

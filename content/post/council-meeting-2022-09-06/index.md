@@ -29,6 +29,8 @@ projects: []
 
 Today's [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=914279&GUID=D49A2429-F5B7-484F-ABEB-7926E11E0A6C&Options=&Search=) has several items of interest. There are two nominations, thirteen items on the Consent Agenda, one ordinance at its first reading for long-awaited right to renew, no public hearings for ordinances at their second reading, and a feasibility study for a [traditional municipal electric utility](https://annarborpublicpower.org/) and different structure called a [Sustainable Energy Utility](https://www.a2gov.org/departments/sustainability/Sustainability-Me/Pages/Ann-Arbor's-Sustainable-Energy-Utility-(SEU).aspx).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=STACL2Ab50A) of the meeting.
+
 Of particular interest:
 
 * [CA-7](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5764879&GUID=1E657DA0-B160-48BD-A30D-916151524B4A&Options=&Search=) authorizes the city to apply for USDOT Safe Streets grants.

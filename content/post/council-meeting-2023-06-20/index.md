@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062175&GUID=12D68442-3C05-49C4-B7C4-BA812403BD29&Options=&Search=).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=5-Ua4ns3Xe8) of the meeting.
+
 The evening kicks off with a 30-item consent agenda. [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6252829&GUID=DC0BDDEC-ED36-4324-AB83-FAD5C201B89E&Options=&Search=) and [CA-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6252830&GUID=32103C40-16F1-4884-8BB5-FFCDE93512B3&Options=&Search=) are street closures for Firefighter Spray Park and A2 Artoberfest.
 
 There are 5 public hearings on the docket this evening. [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6228962&GUID=90B70A34-0D86-4414-85AB-DB2B1FC0B3F9&Options=&Search=) is the second reading of an ordinance to allow the city to donate abandoned bikes on city property to local non-profits. [PH-2/B-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6228983&GUID=BD17A62B-2FE3-4B09-8478-735B2F451914&Options=&Search=) is the second reading of the ordinance removing the requirement that landlords give tenants information on their rights as tenants and how to vote. Other cities have been sued by landlords recently, who are arguing that these sorts of ordinances are a violation of their first amendment rights. [PH-3/B-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6244694&GUID=81E9044D-55B6-4C16-9B6F-7F78E4A47D04&Options=&Search=) is the second reading of the Humane Pet Adoption ordinance.

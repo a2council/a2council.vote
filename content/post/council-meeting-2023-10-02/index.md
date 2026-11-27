@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062182&GUID=8756E7EB-BA11-4DAA-95B5-A9FE27ABEDFD&Options=&Search=). 
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=8Jo_TPEksGA) of the meeting.
+
 The evening kicks off with a 19-item consent agenda. We've got one street closure. [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6358445&GUID=7A99DD55-5C86-4477-9603-CD0C416FD8D4&Options=&Search=) is for the 2023 Spook-a-Thon on October 28. [CA-7](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6358415&GUID=B411EFDD-6EE0-41A2-8803-332345297491&Options=&Search=) is a special assessment for a sidewalk gap along Stone School. [CA-15](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6358442&GUID=16F10D49-D7EA-4DC4-9A08-235556BA3251&Options=&Search=) is purchasing a easement to fill the South Main sidewalk gap along the East side of the street adjacent to the golf course. 
 
 There are no public hearings nor ordinance first readings on the agenda this evening. There's just one resolution on the agenda tonight. [DC-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6368539&GUID=5880E460-433D-46D5-9D3F-05C0BB4624F4&Options=&Search=) is a resolution to encourage DTE to Develop a Process for Burying Power Lines.

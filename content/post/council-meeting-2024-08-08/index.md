@@ -29,4 +29,6 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141279&GUID=EEF6DE3F-0874-4C20-B627-F53262B61E3F). 
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=a0zF4ZovUSE) of the meeting.
+
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

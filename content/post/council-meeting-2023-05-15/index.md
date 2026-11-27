@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062173&GUID=74EEC7D8-359A-4593-ABC9-46B99E70F86B&Options=&Search=).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=ZsGjWPzxm0k) of the meeting.
+
 The meeting kicks off with a 5-item consent agenda. [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6195020&GUID=98E6BF7F-236C-40D8-9D62-862B7D997C07&Options=&Search=), [CA-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6195021&GUID=CBF1D05D-4D98-4318-87A8-11FDEB446580&Options=&Search=), [CA-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6195011&GUID=3464DFFF-9672-4B43-81DC-A071688B42F9&Options=&Search=), and [CA-4](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6195018&GUID=34AAF8A2-BDD2-4B3E-8A12-16C7C1783F99&Options=&Search=) are closures for the African-American Festival, Jaycees Summer Carnival, Townie Party Run, and Townie Street Party, respectively.
 
 There are no public hearings on the docket, and there is one ordinance first reading tonight. [C-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6197112&GUID=C7FFD08D-0E4C-4494-840A-23DF6FA6C13D&Options=&Search=) is the first reading for the 721 South Forest PUD. It replaces a mid-rise apartment with an all electric mixed-use high-rise that would contribute $4.7M to the affordable housing fund.
