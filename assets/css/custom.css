@@ -39,7 +39,8 @@ article > main {
 }
 
 table.voting-chart {
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   width: 100%;
   font-size: 0.875rem;
 
@@ -52,7 +53,7 @@ table.voting-chart {
   thead {
     background-color: #fff;
     position: sticky;
-    top: var(--navbar-height, 0px);
+    top: 0;
     z-index: 20;
   }
 
