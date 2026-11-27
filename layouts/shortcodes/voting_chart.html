@@ -7,10 +7,13 @@
 {{ $caption := .Get "caption" }}
 
 {{ $is_remote := strings.HasPrefix $src "http" }}
-{{ if not $is_remote }}
-{{ $src = path.Join "content" $.Page.File.Dir $src }}
+{{ $res := "" }}
+{{ if $is_remote }}
+  {{ $res = resources.GetRemote $src }}
+{{ else }}
+  {{ $res = $.Page.Resources.GetMatch $src }}
 {{ end }}
-{{ $rows := getCSV $delimiter $src }}
+{{ $rows := $res | transform.Unmarshal (dict "delimiter" $delimiter) }}
 
 <table class="table table-bordered voting-chart">
   {{ $headerRow := after 3 (index $rows 0) }}

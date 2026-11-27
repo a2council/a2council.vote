@@ -12,7 +12,7 @@ baseURL: 'https://a2council.vote/' # Website URL
 
 cascade:
   # Blog post options
-  - _target:
+  - target:
       path: /post/**
     pager: true
     editable: true
@@ -63,8 +63,13 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
   anchor: smart
+  jpeg:
+    quality: 75
+  webp:
+    quality: 75
+  avif:
+    quality: 75
 timeout: 600000
 taxonomies:
   tag: tags
