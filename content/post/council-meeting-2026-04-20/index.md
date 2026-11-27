@@ -28,9 +28,9 @@ projects: []
 youtube_id: "zjOmif3nU7Y"
 ---
 
-Here's the [agenda](https://a2gov.legistar.com/View.ashx?M=A&ID=1368501&GUID=035F6E9A-FA66-42CE-9414-0EEE649A5E7F). 
+Here's the [agenda](https://a2gov.legistar.com/View.ashx?M=A&ID=1368501&GUID=035F6E9A-FA66-42CE-9414-0EEE649A5E7F) and the [YouTube video](https://www.youtube.com/watch?v=zjOmif3nU7Y) of the meeting.
 
-Here's the [YouTube video](https://www.youtube.com/watch?v=zjOmif3nU7Y) of the meeting.
+The meeting opened with three introductions: a [proclamation celebrating the 25th anniversary of Therapaws of Michigan](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=463s) (`INT-1`), an [AAATA update from CEO Matt Carpenter](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=760s) (`INT-2`) covering downtown terminal construction and TheRide's response to federal agents, and City Administrator Milton Dohoney Jr.'s [presentation of the proposed FY2027 budget](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=1184s) (`INT-3`). Later in the evening, Council held a public hearing and extended discussion on expanding the Downtown Development Authority (`PH-1`/`B-1`), reviewed temporary and seasonal staffing (`DC-3`), supported a local state of emergency following the tornado (`DC-4`), and approved selling air rights over the Library Lot to the Ann Arbor District Library (`DC-5`).
 
 ### Public Comment
 
