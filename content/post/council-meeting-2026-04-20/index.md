@@ -34,26 +34,29 @@ Here's the [YouTube video](https://www.youtube.com/watch?v=zjOmif3nU7Y) of the m
 
 ### Public Comment
 
-**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3004s)) — 8 speakers (3 signed up were not present):
-* [Adam Jaskiewicz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3036s)
-* [Henry Herskovitz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3177s)
-* [Susan Lutz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3364s)
-* [Ramon Harris](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3561s)
-* [Anthony Winters](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3752s)
-* [Blaine Coleman](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3958s)
-* [Andre Watson](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=4189s)
-* [Lynne Lande](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=4245s)
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3004s)) — 8 speakers (3 no-shows):
+1. [Adam Jaskiewicz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3043s) (1m 46s)
+2. Kathy Griswold (no-show)
+3. [Henry Herskovitz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3186s) (2m 56s)
+4. [Susan Lutz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3377s) (3m 04s)
+5. [Ramon Harris](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3561s) (3m 10s)
+6. [Anthony Winters](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3758s) (2m 44s)
+7. Cortland Travis Bersee (no-show)
+8. [Blaine Coleman](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=3958s) (3m 16s)
+9. Erick Brown (no-show)
+10. [Andre Watson](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=4189s) (0m 53s)
+11. [Lynne Lande](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=4257s) (3m 17s)
 
 **Public Hearing (`PH-1` / `B-1`: Downtown Development Authority Ordinance)** ([start](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=4942s)) — 9 speakers:
-* [Jeff Crockett](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=4970s)
-* [Diana Marsh](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5146s)
-* [Adam Jaskiewicz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5314s)
-* [Joe O'Neal](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5383s)
-* [Curtis Davis](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5460s)
-* [Angela Davis](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5623s)
-* [Nick Lemmer](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5828s)
-* [Luiz Vazquez](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5970s)
-* [Karen Delhey](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=6030s)
+1. [Jeff Crockett](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=4970s) (2m 47s)
+2. [Diana Marsh](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5146s) (2m 38s)
+3. [Adam Jaskiewicz](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5314s) (0m 58s)
+4. [Joe O'Neal](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5383s) (1m 08s)
+5. [Curtis Davis](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5460s) (2m 24s)
+6. [Angela Davis](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5623s) (2m 57s)
+7. [Nick Lemmer](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5828s) (2m 05s)
+8. [Luiz Vazquez](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=5970s) (0m 48s)
+9. [Karen Delhey](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=6030s) (1m 57s)
 
 **General Public Comment (End of Meeting)** ([start](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=9276s)) — no speakers.
 
