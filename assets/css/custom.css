@@ -18,6 +18,13 @@ article > main {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
 }
 
+.hb-sidebar-container,
+.hb-toc {
+  @media (min-width: 1024px) {
+    display: none !important;
+  }
+}
+
 .dark article > main {
   background-color: rgb(31, 39, 51);
 }
