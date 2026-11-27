@@ -6,8 +6,6 @@ hugoblox:
     organization: "a2council.vote contributors"
     type: organization
     description: "Ann Arbor City Council Voting Charts Project"
-    social:
-      twitter: "bdimcheff"
 
   theme:
     mode: system

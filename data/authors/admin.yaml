@@ -13,9 +13,9 @@ links:
   - icon: at-symbol
     url: mailto:brandon@dimcheff.com
     label: Email
-  - icon: brands/x
-    url: https://twitter.com/bdimcheff
-    label: Twitter
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/a2councilbot.bsky.social
+    label: Bluesky
   - icon: brands/github
     url: https://github.com/a2council/a2council.vote
     label: GitHub
