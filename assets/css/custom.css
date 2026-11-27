@@ -33,6 +33,12 @@ article > main {
   max-width: none !important;
 }
 
+article > main > .container.prose {
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .voting-chart-wrapper {
   max-width: 100%;
   overflow-x: auto;
