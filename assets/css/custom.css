@@ -1,5 +1,31 @@
 @import "tailwindcss";
 
+body {
+  background-color: rgb(247, 250, 252);
+}
+
+.dark body {
+  background-color: rgb(26, 32, 44);
+}
+
+article > main {
+  background-color: #fff;
+  border-radius: 15px;
+  max-width: 1280px !important;
+  padding: 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.dark article > main {
+  background-color: rgb(31, 39, 51);
+}
+
+.prose {
+  max-width: none !important;
+}
+
 table.voting-chart {
   border-collapse: collapse;
   width: 100%;
@@ -13,7 +39,7 @@ table.voting-chart {
   thead {
     background-color: #fff;
     position: sticky;
-    top: 0;
+    top: var(--navbar-height, 0px);
     z-index: 20;
   }
 

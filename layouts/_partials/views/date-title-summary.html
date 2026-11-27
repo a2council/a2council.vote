@@ -1,27 +1,12 @@
 {{ $item := .item }}
 {{ $displayDate := .item.Params.event_start | default .item.Date }}
-<article class="md:grid md:grid-cols-4 md:items-baseline">
-  <div class="md:col-span-3 group relative flex flex-col items-start">
-    <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
-      <div
-        class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
-      <a href="{{$item.RelPermalink}}"><span
-        class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">{{$item.Title}}</span></a>
-    </h2>
-    <time
-      class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-1"
-      datetime="{{ time.Format "2006-01-02" $displayDate }}">
-      {{ time.Format (site.Params.hugoblox.locale.date_format | default ":date_long") $displayDate }}
+<article class="card-simple bg-white dark:bg-[#1f2733] rounded-[15px] shadow-sm border border-slate-200/70 dark:border-slate-700/60 px-6 py-4 mb-4 transition hover:shadow-md">
+  <h2 class="text-lg font-semibold tracking-tight text-slate-900 dark:text-slate-100 m-0">
+    <a href="{{ $item.RelPermalink }}" class="hover:underline text-inherit">{{ $item.Title }}</a>
+  </h2>
+  <div class="mt-1 text-sm text-slate-500 dark:text-slate-400">
+    <time datetime="{{ time.Format "2006-01-02" $displayDate }}">
+      {{ time.Format (site.Params.hugoblox.locale.date_format | default "Jan 2, 2006") $displayDate }}
     </time>
-    <div aria-hidden="true" class="relative z-10 mt-2 flex items-center text-sm font-medium text-primary-500">
-      {{ T "read_more" | default "Read more" }}
-      <svg aria-hidden="true" class="ml-1 h-4 w-4 stroke-current" fill="none" viewBox="0 0 16 16">
-        <path d="M6.75 5.75 9.25 8l-2.5 2.25" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
-      </svg>
-    </div>
   </div>
-  <time
-    class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500"
-    datetime="{{ time.Format "2006-01-02" $displayDate }}">{{ time.Format (site.Params.hugoblox.locale.date_format | default ":date_long") $displayDate }}
-  </time>
 </article>
