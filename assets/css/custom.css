@@ -79,9 +79,9 @@ table.voting-chart {
 
   th:not(:first-child),
   td:not(:first-child) {
-    width: 4.75rem;
-    min-width: 4.75rem;
-    max-width: 4.75rem;
+    width: 5.75rem;
+    min-width: 5.75rem;
+    max-width: 5.75rem;
     text-align: center;
   }
 
