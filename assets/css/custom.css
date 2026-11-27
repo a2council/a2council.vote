@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+table.voting-chart {
+  border-collapse: collapse;
+  width: 100%;
+
+  th,
+  td {
+    border: 1px solid #dee2e6;
+    padding: 0.5rem;
+  }
+
+  thead {
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+  }
+
+  th:not(:first-child) {
+    @media (max-width: 801px) {
+      text-orientation: mixed;
+      writing-mode: vertical-rl;
+    }
+  }
+
+  tr.pass {
+    background-color: rgb(203, 255, 203);
+  }
+  tr.consent {
+    background-color: rgb(227, 252, 227);
+  }
+  tr.rollcall {
+    background-color: rgb(203, 255, 203);
+  }
+  tr.pulled {
+    background-color: rgb(183, 183, 183);
+    text-decoration: line-through;
+  }
+  tr.postponed {
+    background-color: rgb(249, 216, 158);
+  }
+  tr.referred {
+    background-color: rgb(249, 237, 158);
+  }
+  tr.fail {
+    background-color: rgb(249, 213, 213);
+  }
+  tr.amendment td:first-child {
+    padding-left: 1.5rem;
+  }
+}
+
+.dark table.voting-chart {
+  th,
+  td {
+    border-color: #3a4252;
+  }
+  thead {
+    background-color: #292b32;
+  }
+  td {
+    background-color: transparent !important;
+  }
+  tr.pass {
+    background-color: rgb(5, 83, 5);
+  }
+  tr.consent {
+    background-color: rgb(10, 115, 10);
+  }
+  tr.rollcall {
+    background-color: rgb(5, 83, 5);
+  }
+  tr.pulled {
+    background-color: rgb(63, 63, 63);
+  }
+  tr.postponed {
+    background-color: rgb(191, 122, 2);
+  }
+  tr.referred {
+    background-color: rgb(160, 150, 17);
+  }
+  tr.fail {
+    background-color: rgb(117, 6, 6);
+  }
+}
+
+.meeting-calendar {
+  .calendar-year-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+  }
+
+  .calendar-month {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 0.6rem 0.75rem;
+    background-color: #f8fafc;
+  }
+
+  .calendar-month-name {
+    font-weight: 700;
+    font-size: 0.9rem;
+    margin-bottom: 0.35rem;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 0.2rem;
+  }
+
+  .calendar-meeting-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.85rem;
+    line-height: 1.5;
+  }
+}
+
+.dark .meeting-calendar {
+  .calendar-month {
+    border-color: #3a4252;
+    background-color: #292b32;
+  }
+
+  .calendar-month-name {
+    border-bottom-color: #3a4252;
+  }
+}

@@ -9,3 +9,4 @@ assets/jsconfig.json
 .~lock.*
 .devenv
 .direnv
+node_modules/

@@ -1,100 +1,72 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+hugoblox:
+  schema: "2.0"
 
-# Appearance
+  identity:
+    name: "a2council.vote"
+    organization: "a2council.vote contributors"
+    type: organization
+    description: "Ann Arbor City Council Voting Charts Project"
+    social:
+      twitter: "bdimcheff"
 
-appearance:
-  theme_day: custom
-  theme_night: custom
-  font: minimal
-  font_size: L
+  theme:
+    mode: system
+    pack: "default"
 
-# SEO
+  typography:
+    pack: "humanist"
 
-marketing:
-  seo:
-    site_type: Project
-    local_business_type: ''
-    org_name: ''
-    description: 'Ann Arbor City Council Voting Charts Project'
-    twitter: 'bdimcheff'
-  analytics:
-    google_analytics: 'G-ZZ8TJ98PZC'
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+  layout:
+    radius: "md"
+    spacing: "comfortable"
+    avatar_shape: circle
 
-# Site header
-
-header:
-  navbar:
+  header:
     enable: true
-    align: r
-    show_logo: false
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    style: navbar
+    sticky: true
+    align: right
+    search: true
+    theme_toggle: true
+    theme_picker: false
+    language_switcher: false
 
-footer:
+  footer:
+    style: minimal
+    language_switcher: false
+
   copyright:
-    notice: '© {year} a2council.vote contributors. This work is licensed under {license}'
+    notice: "© {year} {name}. This work is licensed under {license}"
     license:
-      enable: true
+      type: cc
       allow_derivatives: true
       share_alike: true
       allow_commercial: false
 
-# Localization
+  content:
+    math:
+      enable: false
+    toc:
+      enable: false
+    reading_time:
+      enable: false
 
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-
-# Site features
-
-features:
-  syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/a2council/a2council.vote'
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
   search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
+    enable: true
 
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
+  comments:
     enable: false
+
+  repository:
+    enable: true
+    url: "https://github.com/a2council/a2council.vote"
+    branch: main
+    content_dir: content
+
+  locale:
+    date_format: "Jan 2, 2006"
+    time_format: "3:04 PM"
+    address_format: en-us
+
+  pro:
+    hide_attribution: false

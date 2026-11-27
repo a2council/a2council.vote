@@ -1,0 +1,15 @@
+{
+  "name": "a2council-vote",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ann Arbor City Council Voting Charts Project",
+  "scripts": {
+    "dev": "hugo server --disableFastRender",
+    "build": "hugo --gc --minify"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "@tailwindcss/typography": "^0.5.10",
+    "tailwindcss": "^4.1.12"
+  }
+}
