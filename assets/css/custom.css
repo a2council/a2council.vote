@@ -33,7 +33,9 @@ article > main {
   max-width: none !important;
 }
 
-article > main > .container.prose {
+article > main > .container.prose,
+article > main > .container.prose .max-w-prose {
+  max-width: none !important;
   width: 100%;
   padding-left: 0;
   padding-right: 0;
