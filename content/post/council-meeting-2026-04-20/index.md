@@ -60,4 +60,6 @@ Here's the [YouTube video](https://www.youtube.com/watch?v=zjOmif3nU7Y) of the m
 
 **General Public Comment (End of Meeting)** ([start](https://www.youtube.com/watch?v=zjOmif3nU7Y&t=9276s)) — no speakers.
 
+### Votes
+
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}
