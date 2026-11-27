@@ -8,11 +8,15 @@ body {
   background-color: rgb(26, 32, 44);
 }
 
+.mx-auto.flex.max-w-screen-xl {
+  max-width: 1400px !important;
+}
+
 article > main {
   background-color: #fff;
   border-radius: 15px;
-  max-width: 1280px !important;
-  padding: 2rem;
+  max-width: 1400px !important;
+  padding: 1.5rem 2rem;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
