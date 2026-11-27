@@ -1,23 +1,15 @@
-# Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-title: a2council.vote # Website name
-baseURL: 'https://a2council.vote/' # Website URL
-
-############################
-## PAGE OPTIONS
-############################
+title: a2council.vote
+baseURL: 'https://a2council.vote/'
 
 cascade:
-  # Blog post options
-  - _target:
+  - target:
       path: /post/**
+      kind: page
     pager: true
     editable: true
-    reading_time: true
-    commentable: true
+    show_date: true
+    reading_time: false
+    commentable: false
     show_related: true
     show_breadcrumb: true
     share: true
@@ -25,34 +17,21 @@ cascade:
       navbar:
         enable: true
 
-############################
-## LANGUAGE
-############################
-
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-############################
-## MODULES
-############################
-
-module:
-  imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
-
-############################
-## ADVANCED
-############################
-
+build:
+  writeStats: true
 enableGitInfo: true
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles: [.ipynb$, .ipynb_checkpoints$, .Rmd$, .Rmarkdown$, _cache$]
 permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
@@ -63,8 +42,15 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
   anchor: smart
+  jpeg:
+    quality: 75
+  webp:
+    quality: 75
+    hint: picture
+  avif:
+    quality: 75
+    hint: picture
 timeout: 600000
 taxonomies:
   tag: tags
@@ -83,5 +69,15 @@ related:
       weight: 70
 security:
   _merge: deep
+  exec:
+    allow:
+      - '^(dart-)?sass$'
+      - '^go$'
+      - '^git$'
+      - '^node$'
+      - '^postcss$'
+      - '^tailwindcss$'
 sitemap:
+  _merge: deep
+minify:
   _merge: deep

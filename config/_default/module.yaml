@@ -1,0 +1,8 @@
+imports:
+  - path: github.com/HugoBlox/kit/modules/blox
+
+mounts:
+  - source: layouts
+    target: layouts
+  - source: assets
+    target: assets

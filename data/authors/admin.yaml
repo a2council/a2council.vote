@@ -1,0 +1,21 @@
+schema: hugoblox/author/v1
+slug: admin
+is_owner: true
+name:
+  display: A2Council Voting Charts Project
+status:
+  icon: "✅"
+bio: The Ann Arbor City Council Voting Charts Project is a community-maintained source for voting history for the Ann Arbor City Council. It is not affiliated with the City of Ann Arbor, nor is it endorsed by any particular member of City Council.
+affiliations:
+  - name: Ann Arbor City Council
+    url: https://www.a2gov.org/departments/city-council/pages/home.aspx
+links:
+  - icon: at-symbol
+    url: mailto:brandon@dimcheff.com
+    label: Email
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/a2councilbot.bsky.social
+    label: Bluesky
+  - icon: brands/github
+    url: https://github.com/a2council/a2council.vote
+    label: GitHub

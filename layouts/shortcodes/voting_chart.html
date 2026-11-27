@@ -7,16 +7,20 @@
 {{ $caption := .Get "caption" }}
 
 {{ $is_remote := strings.HasPrefix $src "http" }}
-{{ if not $is_remote }}
-{{ $src = path.Join "content" $.Page.File.Dir $src }}
+{{ $res := "" }}
+{{ if $is_remote }}
+  {{ $res = resources.GetRemote $src }}
+{{ else }}
+  {{ $res = $.Page.Resources.GetMatch $src }}
 {{ end }}
-{{ $rows := getCSV $delimiter $src }}
+{{ $rows := $res | transform.Unmarshal (dict "delimiter" $delimiter) }}
 
+<div class="voting-chart-wrapper">
 <table class="table table-bordered voting-chart">
   {{ $headerRow := after 3 (index $rows 0) }}
   {{ $rows = after 1 $rows }}
   <thead>
-    <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+    <tr> {{ range $headerRow }} <th>{{ . | replaceRE ` \(Ward ` `<br>(Ward ` | safeHTML }}</th> {{ end }} </tr>
   </thead>
   {{ range $rows }}
   {{ $class := index . 1 }}
@@ -53,3 +57,4 @@
   <caption>{{ $caption | markdownify | emojify }}</caption>
   {{ end }}
 </table>
+</div>

@@ -1,0 +1,12 @@
+{{ $item := .item }}
+{{ $displayDate := .item.Params.event_start | default .item.Date }}
+<article class="card-simple bg-white dark:bg-[#1f2733] rounded-[15px] shadow-sm border border-slate-200/70 dark:border-slate-700/60 px-6 py-4 mb-4 transition hover:shadow-md">
+  <h2 class="text-lg font-semibold tracking-tight text-slate-900 dark:text-slate-100 m-0">
+    <a href="{{ $item.RelPermalink }}" class="hover:underline text-inherit">{{ $item.Title }}</a>
+  </h2>
+  <div class="mt-1 text-sm text-slate-500 dark:text-slate-400">
+    <time datetime="{{ time.Format "2006-01-02" $displayDate }}">
+      {{ time.Format (site.Params.hugoblox.locale.date_format | default "Jan 2, 2006") $displayDate }}
+    </time>
+  </div>
+</article>

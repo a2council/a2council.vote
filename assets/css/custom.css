@@ -1,0 +1,194 @@
+@import "tailwindcss";
+
+body {
+  background-color: rgb(247, 250, 252);
+}
+
+.dark body {
+  background-color: rgb(26, 32, 44);
+}
+
+.mx-auto.flex.max-w-screen-xl {
+  max-width: 1400px !important;
+}
+
+article > main {
+  background-color: #fff;
+  border-radius: 15px;
+  max-width: 1400px !important;
+  padding: 1.5rem 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.hb-sidebar-container,
+.hb-toc {
+  @media (min-width: 1024px) {
+    display: none !important;
+  }
+}
+
+.dark article > main {
+  background-color: rgb(31, 39, 51);
+}
+
+.prose {
+  max-width: none !important;
+}
+
+article > main > .container.prose,
+article > main > .container.prose .max-w-prose {
+  max-width: none !important;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.voting-chart-wrapper {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+table.voting-chart {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  font-size: 0.875rem;
+
+  th,
+  td {
+    border: 1px solid #dee2e6;
+    padding: 0.35rem 0.45rem;
+  }
+
+  thead {
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+  }
+
+  th:not(:first-child) {
+    @media (max-width: 801px) {
+      text-orientation: mixed;
+      writing-mode: vertical-rl;
+    }
+  }
+
+  th:first-child,
+  td:first-child {
+    min-width: 220px;
+  }
+
+  th:not(:first-child),
+  td:not(:first-child) {
+    width: 5.75rem;
+    min-width: 5.75rem;
+    max-width: 5.75rem;
+    text-align: center;
+  }
+
+  tr.pass {
+    background-color: rgb(203, 255, 203);
+  }
+  tr.consent {
+    background-color: rgb(227, 252, 227);
+  }
+  tr.rollcall {
+    background-color: rgb(203, 255, 203);
+  }
+  tr.pulled {
+    background-color: rgb(183, 183, 183);
+    text-decoration: line-through;
+  }
+  tr.postponed {
+    background-color: rgb(249, 216, 158);
+  }
+  tr.referred {
+    background-color: rgb(249, 237, 158);
+  }
+  tr.fail {
+    background-color: rgb(249, 213, 213);
+  }
+  tr.amendment td:first-child {
+    padding-left: 1.5rem;
+  }
+}
+
+.dark table.voting-chart {
+  th,
+  td {
+    border-color: #3a4252;
+  }
+  thead {
+    background-color: #292b32;
+  }
+  td {
+    background-color: transparent !important;
+  }
+  tr.pass {
+    background-color: rgb(5, 83, 5);
+  }
+  tr.consent {
+    background-color: rgb(10, 115, 10);
+  }
+  tr.rollcall {
+    background-color: rgb(5, 83, 5);
+  }
+  tr.pulled {
+    background-color: rgb(63, 63, 63);
+  }
+  tr.postponed {
+    background-color: rgb(191, 122, 2);
+  }
+  tr.referred {
+    background-color: rgb(160, 150, 17);
+  }
+  tr.fail {
+    background-color: rgb(117, 6, 6);
+  }
+}
+
+.meeting-calendar {
+  .calendar-year-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+  }
+
+  .calendar-month {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 0.6rem 0.75rem;
+    background-color: #f8fafc;
+  }
+
+  .calendar-month-name {
+    font-weight: 700;
+    font-size: 0.9rem;
+    margin-bottom: 0.35rem;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 0.2rem;
+  }
+
+  .calendar-meeting-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.85rem;
+    line-height: 1.5;
+  }
+}
+
+.dark .meeting-calendar {
+  .calendar-month {
+    border-color: #3a4252;
+    background-color: #292b32;
+  }
+
+  .calendar-month-name {
+    border-bottom-color: #3a4252;
+  }
+}
