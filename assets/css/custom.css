@@ -70,6 +70,19 @@ table.voting-chart {
     }
   }
 
+  th:first-child,
+  td:first-child {
+    min-width: 220px;
+  }
+
+  th:not(:first-child),
+  td:not(:first-child) {
+    width: 4.75rem;
+    min-width: 4.75rem;
+    max-width: 4.75rem;
+    text-align: center;
+  }
+
   tr.pass {
     background-color: rgb(203, 255, 203);
   }
