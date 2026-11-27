@@ -10,6 +10,9 @@ main:
   - name: Charts
     url: /category/charts
     weight: 15
+  - name: Calendar
+    url: /calendar/
+    weight: 17
   - name: About
     url: about/
     weight: 20
