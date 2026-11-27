@@ -21,7 +21,7 @@ sections:
         folders:
           - post
     design:
-      view: card
+      view: date-title-summary
       spacing:
         padding: ["1rem", 0, "4rem", 0]
 ---
