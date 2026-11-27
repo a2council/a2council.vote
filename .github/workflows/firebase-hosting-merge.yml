@@ -21,8 +21,8 @@ jobs:
           extended: true
       - name: Setup Dart Sass
         run: |
-          curl -sL https://github.com/sass/dart-sass/releases/download/1.83.4/dart-sass-1.83.4-linux-x64.tar.gz | tar -xz -C /usr/local
-          echo "/usr/local/dart-sass" >> $GITHUB_PATH
+          curl -sL https://github.com/sass/dart-sass/releases/download/1.83.4/dart-sass-1.83.4-linux-x64.tar.gz | tar -xz -C "$RUNNER_TEMP"
+          echo "$RUNNER_TEMP/dart-sass" >> "$GITHUB_PATH"
       - run: hugo --gc --minify --buildFuture
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
