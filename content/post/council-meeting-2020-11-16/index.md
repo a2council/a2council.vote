@@ -33,26 +33,26 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10282&GI
 ### Public Comment
 
 **Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1375s)):
-- **Mozhgan Savabieasfahani** (*Resolution Accepting the Results of the 2020 November Elections and Recognizing President-elect Joseph Biden and Vice President-elect Kamala Harris (DC-3)*): Mozhgan Savabieasfahani, resident, spoke about the City's response to COVID-19. She also expressed concerns about the recent election and the nation's response.
-- **Blaine Coleman** (*Resolution Accepting the Results of the 2020 November Elections and Recognizing President-elect Joseph Biden and Vice President-elect Kamala Harris (DC-3)*): Blaine Coleman, resident, spoke about DC-3, the resolution to accept the results of the 2020 election of Joe Biden and Kamala Harris. He stated if the City can get involved in this issue, they should also be able to pass a resolution of support for Palestine.
-- **[Glen Nelson](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1375s)** (*Resolution to Accept and Appropriate Michigan Supreme Court State Court Administrative Office Mental Health Court Grant Award and Approve Grant Contract (CA-5)*): Glen Nelson, resident, spoke about mental health and the City's use of the rebate funds for the County Mental Health and Public Safety millage.
-- **Tom Stulberg** (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-2)*): Tom Stulberg, resident, spoke about development issues.
-- **Ralph McKee** (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-2) and Resolution Directing the Planning Commission to Study and Update the South State Street Corridor Plan (DC-4)*): Ralph McKee, resident, spoke in opposition to DC-2 and DC-4, regarding development and transit supported development districts.
-- **Michelle Hughes** (*Resolution to Approve the Purchase of Police Vehicles from Signature Ford (CA-6)*): Michelle Hughes, resident, spoke in support of de-funding the police.
+1. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1450s) (*Resolution Accepting the Results of the 2020 November Elections and Recognizing President-elect Joseph Biden and Vice President-elect Kamala Harris (DC-3)*)
+2. [Blaine Coleman](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1683s) (*Resolution Accepting the Results of the 2020 November Elections and Recognizing President-elect Joseph Biden and Vice President-elect Kamala Harris (DC-3)*)
+3. [Glen Nelson](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1885s) (*Resolution to Accept and Appropriate Michigan Supreme Court State Court Administrative Office Mental Health Court Grant Award and Approve Grant Contract (CA-5)*)
+4. [Tom Stulberg](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=2160s) (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-2)*)
+5. [Ralph McKee](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=2379s) (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-2) and Resolution Directing the Planning Commission to Study and Update the South State Street Corridor Plan (DC-4)*)
+6. [Michelle Hughes](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=2554s) (*Resolution to Approve the Purchase of Police Vehicles from Signature Ford (CA-6)*)
 
 ### Public Hearings
 
 There were no public hearings on the agenda.
 
-**General Public Comment**:
-- Ralph McKee, resident, spoke about transit-oriented development policies.
-- Joe Spaulding, Oakland, California resident, spoke about housing affordability.
-- Kai Petainen, resident, offered his congratulations to the new Councilmembers.
-- Edward Vielmetti, resident, thanked Councilmember Eyer for calling the question after a lengthy debate.
-- Zachary Storey, resident, expressed concerns with the AAPD.
-- Alan Haber, resident, welcomed the new members to City Council.
-- Michelle Hughes, resident, spoke in support of transit-oriented development policies.
-- Eric Sturgis, resident, thanked Council for their vote on DC-3, and welcomed the new members.
+**General Public Comment** ([start](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=13613s)):
+1. [Ralph McKee](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=13686s)
+2. [Joe Spaulding](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=13853s)
+3. [Kai Petainen](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14018s)
+4. [Edward Vielmetti](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=13723s)
+5. [Zachary Storey](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14269s)
+6. [Alan Haber](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14511s)
+7. [Michelle Hughes](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14675s)
+8. [Eric Sturgis](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14744s)
 
 ### Votes
 

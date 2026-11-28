@@ -33,31 +33,31 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10061&GI
 ### Public Comment
 
 **Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=d8335e-caAI&t=441s)):
-- **Ralph McKee** (*Short Term Rentals (CA-18)*): Ralph McKee, 1116 Red Oak, spoke in support of CA-18 and Option 3 for Short Term Rental regulations. Mr. McKee stated short-term rentals are hurting affording housing efforts.
-- **[Noah Hoffman](https://www.youtube.com/watch?v=d8335e-caAI&t=661s)** (*Short Term Rentals (CA-18)*): Noah Hoffman, 1765 Northbrook, spoke in opposition to CA-18 and option 3. He stated option 1 and less regulation is preferred.
-- **Carol Skala** (*Short Term Rentals (CA-18)*): Carol Skala spoke in opposition to CA-18 and questioned the outcomes of the Carlisle Wortman report.
-- **Shannon Hautamaki** (*Short Term Rentals (CA-18)*): Shannon Hautamaki, 1110 Brooklyn, spoke in support of regulation for short-term rentals.
-- **Cathy Strachan** (*Short Term Rentals (CA-18)*): Cathy Strachan, resident, stated existing short-term rental units should be grandfathered and not subject to new zoning regulations.
-- **Kathy Stroud** (*Short Term Rentals (CA-18)*): Kathy Stroud, 2271 Placid Way, spoke in support of CA-18.
-- **Mozhgan Savabieasfahani** (*Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site (DC-1)*): Mozhgan Savabieasfahani, resident, spoke about the Gelman plume and conflict in the Middle East.
-- **David Halman** (*Resolution to Approve November 21, 2019 Recommendations of the Board of Insurance Administration (CA-1)*): David Halman requested that City Council pull CA-1 from the Consent Agenda and discuss individually. He stated he has a claim on the November 21 Board of Insurance Administration minutes.
-- **Lauren Tatarsky- Police Department Budget (CA-20)**: Lauren Tatarsky, former Police Task Force member, expressed concern about CA-20, and the request for additional police staff. She stated the ICPOC members need access to more information.
-- **Henry Herskovitz** (*Political Protests at Beth Israel*): Henry Herskovitz, resident, spoke about his group's protests outside Beth Israel and the reasons for this choice of location.
+1. [Ralph McKee](https://www.youtube.com/watch?v=d8335e-caAI&t=470s) (*Short Term Rentals (CA-18)*)
+2. [Noah Hoffman](https://www.youtube.com/watch?v=d8335e-caAI&t=661s) (*Short Term Rentals (CA-18)*)
+3. [Carol Skala](https://www.youtube.com/watch?v=d8335e-caAI&t=855s) (*Short Term Rentals (CA-18)*)
+4. [Shannon Hautamaki](https://www.youtube.com/watch?v=d8335e-caAI&t=1045s) (*Short Term Rentals (CA-18)*)
+5. [Cathy Strachan](https://www.youtube.com/watch?v=d8335e-caAI&t=1248s) (*Short Term Rentals (CA-18)*)
+6. [Kathy Stroud](https://www.youtube.com/watch?v=d8335e-caAI&t=1423s) (*Short Term Rentals (CA-18)*)
+7. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=d8335e-caAI&t=1535s) (*Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site (DC-1)*)
+8. [David Halman](https://www.youtube.com/watch?v=d8335e-caAI&t=1729s) (*Resolution to Approve November 21, 2019 Recommendations of the Board of Insurance Administration (CA-1)*)
+9. [Lauren Tatarsky](https://www.youtube.com/watch?v=d8335e-caAI&t=1918s) (*Police Department Budget (CA-20)*)
+10. [Henry Herskovitz](https://www.youtube.com/watch?v=d8335e-caAI&t=2808s) (*Political Protests at Beth Israel*)
 
 ### Public Hearings
 
 There were no public hearings on the agenda.
 
 **General Public Comment** ([start](https://www.youtube.com/watch?v=d8335e-caAI&t=12171s)):
-- An unidentified short-term rental host spoke in opposition to the City's proposed regulation of short-term rental units. She urged the City to "grandfather" existing properties that have operated legally under existing rules.
-- Grant Shafer, Ypsilanti, spoke in opposition to the City's deer cull.
-- An unidentified short-term rental host spoke in opposition to the proposed "Option 3" of the short-term rental regulations. She also stated student rentals should not be treated differently.
-- An unidentified short-term rental host spoke in opposition to regulation of short-term rentals. He stated most Airbnbs are not owner-occupied so the proposed regulation would affectively ban short-term rental in Ann Arbor.
-- Dwight Smith spoke in opposition to the City's deer cull.
-- An owner of a short-term rental business spoke about the benefits of short-term rentals, including job opportunities.
-- An unidentified speaker talked about the benefits of short-term rentals.
-- An unidentified speaker talked about affordable housing and his personal housing situation. He also spoke about the deer cull and the need to reintroduce wolves into the ecosystem.
-- An unidentified short-term rental host spoke about Airbnb, stating the community supports and wants them. He stated banning short-term rentals would not fix the affordability issues in Ann Arbor.
+1. [An unidentified short-term rental host](https://www.youtube.com/watch?v=d8335e-caAI&t=12199s)
+2. [Grant Shafer](https://www.youtube.com/watch?v=d8335e-caAI&t=12546s)
+3. [An unidentified short-term rental host](https://www.youtube.com/watch?v=d8335e-caAI&t=12643s)
+4. [An unidentified short-term rental host](https://www.youtube.com/watch?v=d8335e-caAI&t=12727s)
+5. [Dwight Smith](https://www.youtube.com/watch?v=d8335e-caAI&t=12802s)
+6. [An owner of a short-term rental business](https://www.youtube.com/watch?v=d8335e-caAI&t=13627s)
+7. [An unidentified speaker](https://www.youtube.com/watch?v=d8335e-caAI&t=13789s)
+8. [An unidentified speaker](https://www.youtube.com/watch?v=d8335e-caAI&t=13943s)
+9. [An unidentified short-term rental host](https://www.youtube.com/watch?v=d8335e-caAI&t=14084s)
 
 ### Votes
 

@@ -33,21 +33,54 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10275&GI
 ### Public Comment
 
 **Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=459s)):
-- **Blaine Coleman** (*We are against military aid to Israel*): Blaine Coleman, resident, urged City Council to stand up for human rights and boycott Israel.
-- **Mozhgan Savabiesfahani** (*We are against military aid to Israel*): Mozhgan Savabiesfahani, resident, expressed concern about the results of the City's primary election.
-- **Henry Herskovitz** (*Exposing Israel's racism.*): Henry Herskovitz, 205 Highlake, spoke about the racist state of Israel.
-- **Michelle Hughes** (*Rank Choice Voting*): Michelle Hughes, 214 Charles, spoke in support of Ranked Choice Voting, stating this method of tabulation would eliminate candidates being labeled as "spoilers."
-- **Henry MacConnell** (*Enforcement of Mask Policies in Downtown*): Henry MacConnell, resident, spoke about the COVID-19 pandemic and urged Council to pass a local mask order.
+1. [Blaine Coleman](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=543s) (*We are against military aid to Israel*)
+2. [Mozhgan Savabiesfahani](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=726s) (*We are against military aid to Israel*)
+3. [Henry Herskovitz](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=1293s) (*Exposing Israel's racism.*)
+4. [Michelle Hughes](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=794s) (*Rank Choice Voting*)
+5. [Henry MacConnell](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=1297s) (*Enforcement of Mask Policies in Downtown*)
 
 ### Public Hearings ([start](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=2142s))
-- **[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4577840&GUID=95FA1E59-28C8-4A54-B953-D2939B8359CE&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Section 1:265 of Chapter 11 (Risk Fund) of Title I of the Code of the City of Ann Arbor (Ordinance No. ORD-20-22)** ([video](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=2211s)) — There being no one present for comment, the Mayor declared the hearing closed.
-- **[`PH-2`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4589957&GUID=7ACF876A-8A8A-407A-8023-314BB78026F5&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Title VII (Businesses and Trades) of the Code of the City of Ann Arbor by Adding a New Chapter Which Shall be Designated as Chapter 97 (Short-Term Rentals) (Ordinance No. ORD-20-24)** ([video](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=2281s)) — The following persons were present to speak in opposition at the hearing: Kevin Grakowski expressed concerns about the proposed ordinance, stated it is too restrictive. A Ward 4 property urged Council to postpone action, stating owners cannot simply convert to long-term rental. An owner of a short-term rental An owner of a short-term rental urged Council to have staff further review options before voting on this proposal. A local realtor urged Council to postpone action and to consider all sides. Bridget O'Connor, Ward 5, expressed concern that there are racial undertones to the ordinance. A property owner on White Street, urged Council to "grandfather" existing businesses. The owner of 1214 Brooklyn stated property owners will pursue litigation to protect their rights. Katie Dortch, property owner and resident, urged Council to grandfather existing short-term rental properties. Pat Lennon, representing Noah Hoffman, stated the current proposal takes away existing property rights. A Ward 5 resident An attorney representing short-term rental property owners stated the proposed ordinance is illegal. Ruth Niedler spoke in support of short-term rentals, stating owners of these properties have cleaned up previous eye sores. A resident and property owner stated they want to use property for short-term rental and for family, but not for long-term rental leases. A short-term rental owner urged Council to grandfather existing properties. A short-term rental owner A short-term rental owner whose property is also owner occupied stated most current rental property is long-term rental. An unidentified speaker The following persons were present to speak in support of the proposed ordinance: Wendy Carman, resident, spoke in opposition to short-term rentals, stating no existing properties were authorized by the City. Michael Stearns, Newport Road, spoke in opposition to short-term rental, stating a hotel has opened up next door to him. Shannon Hautamaki, resident, spoke in support of the ordinance and the restriction of short-term rental in neighborhoods. Ralph McKee, Red Oak Drive Zachary Storey, Fourth Avenue, stated short-term rental should be converted to long-term affordable units. Anna Foster spoke in support of the ordinance and the need for more affordable housing. Others speaking at the hearing: Beth Corey A Ward 5 renter stated the ordinance will destroy the livelihood of property owners. A Ward 1 resident expressed concern about the different fees for different types of properties. The owner of A2 Guest Houses A homeowner expressed concern about affordability and asked for the ordinance to be returned to staff. There being no further comment, the Mayor declared the hearing closed.
-- **[`PH-3`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4598849&GUID=BE47E4C3-C997-4410-B0DE-62A680B8EC0B&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): Resolution to Approve Liberty Townhomes Site Plan and Development Agreement, 2658 W. Liberty St. (CPC Recommendation: Approval - 9 Yeas and 0 Nays)** — There being no one present for comment, the Mayor declared the hearing closed.
+
+**[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4577840&GUID=95FA1E59-28C8-4A54-B953-D2939B8359CE&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Section 1:265 of Chapter 11 (Risk Fund) of Title I of the Code of the City of Ann Arbor (Ordinance No. ORD-20-22)** ([start](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=2211s)) — No speakers.
+
+**[`PH-2`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4589957&GUID=7ACF876A-8A8A-407A-8023-314BB78026F5&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Title VII (Businesses and Trades) of the Code of the City of Ann Arbor by Adding a New Chapter Which Shall be Designated as Chapter 97 (Short-Term Rentals) (Ordinance No. ORD-20-24)** ([start](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=2281s)):
+1. [Kevin Grakowski](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=2313s)
+2. [A Ward 4 property](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=2628s)
+3. [An owner of a short-term rental](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3033s)
+4. [An owner of a short-term rental](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3187s)
+5. [A local realtor](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3400s)
+6. [Bridget O'Connor](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=4707s)
+7. [A property owner on White Street](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=2677s)
+8. [The owner of 1214 Brooklyn](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3493s)
+9. [Katie Dortch, property owner and resident](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3033s)
+10. [Pat Lennon](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3907s)
+11. [A Ward 5 resident](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=4110s)
+12. [An attorney representing short-term rental property owners](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3193s)
+13. [Ruth Niedler](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=5747s)
+14. [A resident and property owner](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3218s)
+15. [A short-term rental owner](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3274s)
+16. [A short-term rental owner](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3318s)
+17. [A short-term rental owner whose property is also owner occupied](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3352s)
+18. [An unidentified speaker](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3400s)
+19. [Wendy Carman](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=2439s)
+20. [Michael Stearns, Newport Road](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3038s)
+21. [Shannon Hautamaki](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=5353s)
+22. [Ralph McKee](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=5537s)
+23. [Zachary Storey, Fourth Avenue](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=3709s)
+24. [Anna Foster](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=4126s)
+25. [Others speaking at the hearing](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=4537s)
+26. [Beth Corey](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=4911s)
+27. [A Ward 5 renter](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=5148s)
+28. [A Ward 1 resident](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=5173s)
+29. [The owner of A2 Guest Houses](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=5535s)
+30. [A homeowner](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=5735s)
+
+**[`PH-3`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4598849&GUID=BE47E4C3-C997-4410-B0DE-62A680B8EC0B&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): Resolution to Approve Liberty Townhomes Site Plan and Development Agreement, 2658 W. Liberty St. (CPC Recommendation: Approval - 9 Yeas and 0 Nays)** ([start](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=2281s)) — No speakers.
 
 **General Public Comment** ([start](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=14849s)):
-- Eric Sturgis, resident, thanked Council for the conversation regarding Ranked Choice Voting.
-- Henry MacConnell, resident, urged the community to wear masks and asked Council to pass a local mask mandate.
-- Joe Spaulding, California resident, urged Ann Arbor to be a more progressive city.
+1. [Eric Sturgis](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=14928s)
+2. [Henry MacConnell](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=15063s)
+3. [Joe Spaulding](https://www.youtube.com/watch?v=bqeUX5sTu_s&t=15224s)
 
 ### Votes
 

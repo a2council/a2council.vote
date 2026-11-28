@@ -33,15 +33,16 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10266&GI
 ### Public Comment
 
 **Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=1sQ0BzimOI0&t=5166s)):
-- **Mozhgan Savabieasfahani** (*A Resolution Urging the State of Michigan to Adopt HB 4212 and SB 116, the so-called “Polluter Pays Act” (DC-1)*): Mozhgan Savabieasfahani, Ward 4, urged the City Council to clean up the Gelman 1,4 dioxane plume and supported any action to force the polluter to pay.
-- **[Blaine Coleman](https://www.youtube.com/watch?v=1sQ0BzimOI0&t=5392s)** (*A Resolution Urging the State of Michigan to Adopt HB 4212 and SB 116, the so-called “Polluter Pays Act” (DC-1)*): Blaine Coleman, resident, spoke about DC-1, A Resolution Urging the State of Michigan to Adopt HB 4212 and SB 116, the so-called "Polluter Pays Act."
-- **[Michelle Hughes](https://www.youtube.com/watch?v=1sQ0BzimOI0&t=5582s)** (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-3)*): Not present.
-- **James Fogel** (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-3)*): Not present.
-- **Kirk Westphal** (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-3)*): Not present.
-- **Henry Herskovitz** (*Center of the City Task Force Final Report - February 28, 2020 Presentation (INT-1)*): Not present.
+1. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=1sQ0BzimOI0&t=5205s) (*A Resolution Urging the State of Michigan to Adopt HB 4212 and SB 116, the so-called “Polluter Pays Act” (DC-1)*)
+2. [Blaine Coleman](https://www.youtube.com/watch?v=1sQ0BzimOI0&t=5392s) (*A Resolution Urging the State of Michigan to Adopt HB 4212 and SB 116, the so-called “Polluter Pays Act” (DC-1)*)
+3. Michelle Hughes (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-3)*) (not present)
+4. James Fogel (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-3)*) (not present)
+5. Kirk Westphal (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-3)*) (not present)
+6. Henry Herskovitz (*Center of the City Task Force Final Report - February 28, 2020 Presentation (INT-1)*) (not present)
 
-### Public Hearings ([start](https://www.youtube.com/watch?v=1sQ0BzimOI0&t=8301s))
-- **[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4386935&GUID=E80C48AF-7D2D-4397-9058-2128E2E56AD3&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): Resolution to Approve the Copozzo Annexation, 0.74 Acre, 1780 Scio Church Road (CPC Recommendation: Approval - 8 Yeas and 0 Nays)** ([video](https://www.youtube.com/watch?v=1sQ0BzimOI0&t=8339s)) — There being no one present for comment, the Mayor declared the hearing closed.
+### Public Hearings ([start](https://www.youtube.com/watch?v=1sQ0BzimOI0&t=8204s))
+
+**[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4386935&GUID=E80C48AF-7D2D-4397-9058-2128E2E56AD3&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): Resolution to Approve the Copozzo Annexation, 0.74 Acre, 1780 Scio Church Road (CPC Recommendation: Approval - 8 Yeas and 0 Nays)** ([start](https://www.youtube.com/watch?v=1sQ0BzimOI0&t=8339s)) — No speakers.
 
 ### Votes
 

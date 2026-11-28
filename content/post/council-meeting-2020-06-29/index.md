@@ -37,8 +37,8 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10660&GI
 There were no public hearings on the agenda.
 
 **General Public Comment** ([start](https://www.youtube.com/watch?v=BGwTDMReV0Q&t=354s)):
-- Joe Spalding spoke regarding the upcoming City Administrator search and the need for the City to be actively anti-racist.
-- Tom Stulberg, 1202 Traver Rd., discussed the previous speaker.
+1. [Joe Spalding](https://www.youtube.com/watch?v=BGwTDMReV0Q&t=457s)
+2. [Tom Stulberg](https://www.youtube.com/watch?v=BGwTDMReV0Q&t=671s)
 
 ### Votes
 

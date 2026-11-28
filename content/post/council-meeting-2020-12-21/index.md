@@ -33,28 +33,37 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10284&GI
 ### Public Comment
 
 **Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=329s)):
-- **Carol Skala** (*Short-term Rentals (DC-1)*): Carol Skala spoke in support of DC-1, regarding existing owners of short-term rental properties.
-- **Heidi Poscher** (*Short-term Rentals (DC-1)*): Heidi Poscher spoke about short-term rental properties and said she does not agree with making a connection between this issue and affordable housing.
-- **Katie Dortch** (*Short-term Rentals (DC-1)*): Katie Dortch, owner of a short-term rental property, spoke in support of DC-1.
-- **Lola Adefesa** (*Short-term Rentals (DC-1)*): Lola Adefesa, an owner of a short-term rental property, spoke in support of DC-1.
-- **Molly Kleinman** (*Packard Zoning (C-4)*): Molly Kleinman, a resident in Ward 4, spoke in support of the proposed rezoning at 2111 Packard.
-- **Aijo K. Pipho** (*Lockwood Development (C-3)*): Not present.
-- **Jean Leverch** (*Lockwood Development (C-3)*): Jean Leverch, resident, spoke in support of the proposed Lockwood development, stating it supports affordable housing goals.
-- **Susan Baskett** (*Lockwood Development (C-3)*): Susan Baskett, representing the SE Area Coalition of Ann Arbor, spoke in opposition stating the project is not affordable.
-- **Adam Oxner** (*Axon Purchase (CA-9)*): Adam Oxner, Ward 4 resident, expressed concern about the purchase of body camera equipment in CA-9.
-- **Adam Goodman** (*Adoption of Council Rules (DC-2)*): Adam Goodman, Ward 5 resident, spoke about Council Rules and the current process for public commentary at City Council.
+1. [Carol Skala](https://www.youtube.com/watch?v=-mH0rCiwGls&t=448s) (*Short-term Rentals (DC-1)*)
+2. [Heidi Poscher](https://www.youtube.com/watch?v=-mH0rCiwGls&t=573s) (*Short-term Rentals (DC-1)*)
+3. [Katie Dortch](https://www.youtube.com/watch?v=-mH0rCiwGls&t=685s) (*Short-term Rentals (DC-1)*)
+4. [Lola Adefesa](https://www.youtube.com/watch?v=-mH0rCiwGls&t=851s) (*Short-term Rentals (DC-1)*)
+5. [Molly Kleinman](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1045s) (*Packard Zoning (C-4)*)
+6. Aijo K. Pipho (*Lockwood Development (C-3)*) (not present)
+7. [Jean Leverch](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1237s) (*Lockwood Development (C-3)*)
+8. [Susan Baskett](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1305s) (*Lockwood Development (C-3)*)
+9. [Adam Oxner](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1563s) (*Axon Purchase (CA-9)*)
+10. [Adam Goodman](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1691s) (*Adoption of Council Rules (DC-2)*)
 
 ### Public Hearings ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=5857s))
-- **[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4686036&GUID=3E109B18-1DA8-4234-9E36-7380822AAACC&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Sections 5.16.6 and 5.18.4 of Chapter 55 (Unified Development Code) of Title V of the Code of the City of Ann Arbor (Solar Energy Systems; Exceptions to Height Limits)** ([video](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6014s)) — There being no one present for comment, the Mayor declared the hearing closed.
-- **[`PH-2`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4702765&GUID=95B6B355-6908-46A4-A49B-8ADC6382A1F1&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Section 2:63 of Chapter 29 (Water Rates) of Title II of the Code of the City of Ann Arbor (ORD-20-32)** ([video](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6014s)) — The following persons were present for comment: Ralph McKee, Ward 5, spoke in opposition, expressing concern about ongoing litigation regarding rates. Kitty Kahn, resident, spoke in opposition, expressing concern about water rates being used to pay attorney fees. Kathy Boris, Ward 5, spoke in opposition. Joseph Spaulding, of Oakland, CA A Ward 4 resident spoke in support. Eric Sturgis, resident, spoke in opposition. A Ward 2 resident spoke in support. There being no further comment, the Mayor declared the hearing closed.
 
-**General Public Comment**:
-- Joe Spaulding, of Oakland, CA, spoke about electric vehicles. He also urged Council not to suppress free speech.
-- Ed Vielmetti, Ward 4 resident, spoke about recent changes to the Michigan OMA and stated he believes interrupting can be a violation.
-- An unknown speaker talked about recent behavior at Council meetings.
-- Ralph McKee, resident, talked about short-term rental ordinance changes.
-- Alan Haber, member of the Commons Council, expressed disappointment that other members were not appointed this evening.
-- Louis Vasquez, Ward 1 resident, expressed his disappointment in Council behavior during public commentary.
+**[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4686036&GUID=3E109B18-1DA8-4234-9E36-7380822AAACC&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Sections 5.16.6 and 5.18.4 of Chapter 55 (Unified Development Code) of Title V of the Code of the City of Ann Arbor (Solar Energy Systems; Exceptions to Height Limits)** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6014s)) — No speakers.
+
+**[`PH-2`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4702765&GUID=95B6B355-6908-46A4-A49B-8ADC6382A1F1&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Section 2:63 of Chapter 29 (Water Rates) of Title II of the Code of the City of Ann Arbor (ORD-20-32)** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6014s)):
+1. [Ralph McKee](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6024s)
+2. [Kitty Kahn](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6168s)
+3. [Kathy Boris](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6280s)
+4. [Joseph Spaulding](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6467s)
+5. [A Ward 4 resident](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6531s)
+6. [Eric Sturgis](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6607s)
+7. [A Ward 2 resident](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6649s)
+
+**General Public Comment** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17246s)):
+1. [Joe Spaulding](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17312s)
+2. [Ed Vielmetti](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17492s)
+3. [An unknown speaker](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17523s)
+4. [Ralph McKee](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17794s)
+5. [Alan Haber](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17978s)
+6. [Louis Vasquez](https://www.youtube.com/watch?v=-mH0rCiwGls&t=18189s)
 
 ### Votes
 

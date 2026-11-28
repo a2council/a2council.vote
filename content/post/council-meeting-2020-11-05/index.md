@@ -33,25 +33,25 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10281&GI
 ### Public Comment
 
 **Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1271s)):
-- **Dan Bicknell** (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” (DC-4)*): Not present.
-- **[Rita Mitchell](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1351s)** (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*): Rita Mitchell, City resident, spoke in support of DC-4 and urged the City to approve Superfund status for the Gelman site.
-- **Ralph McKee** (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*): Ralph McKee, Ward 5, spoke in support of DC-4, the Resolution to Reconsider the Vote to Defeat 19-1887, regarding Superfund status for the Gelman site.
-- **[Vince Caruso](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1759s)** (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*): Not present.
-- **[Kathy Boris](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1763s)** (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*): Kathy Boris, resident, spoke in support of DC-4.
-- **Tom Stulberg** (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*): Tom Stulberg, resident, spoke in support of DC-4.
-- **James D'Amour** (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*): James D'Amour, resident, spoke in support of DC-4, and Superfund status for the Gelman plume.
-- **Allison Buck** (*Resolution to Approve an Amendment to the Bylaws of the Ann Arbor Public Art Commission - DC-3*): Allison Buck, Chair of the Public Art Commission, spoke in support of DC-3, an amendment to the Art Commission's bylaws.
-- **Michelle Hughes** (*Resolution Regarding Traffic Calming Process - DC-2*): Michelle Hughes, Ward 5, spoke in opposition to DC-2, Resolution regarding Traffic Calming Process.
-- **John Floyd -Voter Suppression**: Not present.
+1. Dan Bicknell (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” (DC-4)*) (not present)
+2. [Rita Mitchell](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1351s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
+3. [Ralph McKee](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1565s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
+4. Vince Caruso (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*) (not present)
+5. [Kathy Boris](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1763s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
+6. [Tom Stulberg](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1842s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
+7. [James D'Amour](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=2060s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
+8. [Allison Buck](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=2310s) (*Resolution to Approve an Amendment to the Bylaws of the Ann Arbor Public Art Commission - DC-3*)
+9. [Michelle Hughes](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=2487s) (*Resolution Regarding Traffic Calming Process - DC-2*)
+10. John Floyd -Voter Suppression (not present)
 
 ### Public Hearings
 
 There were no public hearings on the agenda.
 
 **General Public Comment** ([start](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=15768s)):
-- John Floyd, Ward 5, expressed concern with comments made by the City Attorney regarding privileged communications.
-- Ralph McKee, Ward 5, spoke about the proposed Gelman consent judgment.
-- Linda Berauer, City resident, thanked Council for their vote on the Superfund resolution.
+1. [John Floyd](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=15841s)
+2. [Ralph McKee](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=16024s)
+3. [Linda Berauer, City resident](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=16171s)
 
 ### Votes
 

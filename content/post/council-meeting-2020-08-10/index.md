@@ -37,14 +37,14 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10688&GI
 There were no public hearings on the agenda.
 
 **General Public Comment** ([start](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3022s)):
-- John Moran, resident, discussed the decision of the University of Michigan to bring back students to campus and his concerns that it will lead to Ann Arbor becoming a Covid-19 hotspot.
-- Chuck Loucks, resident, discussed the option of moving City elections back to odd years.
-- Zachary Storey, resident, discussed Councilmember Hayner's comments at the previous meeting and Councilmember Griswold's recent comments regarding student behavior.
-- Luis Vasquez, resident, discussed his disappointment in the placement of public commentary at the end of the agenda for special meetings. He also discussed the notion that the Mayor's veto of the approval of tonight's resolution would trigger a citizen lead petition drive, as it had not done so in the past.
-- Jamie Magiera, resident, discussed his disappointment regarding tonight's vote. He encouraged Mayor Taylor to veto the resolution.
-- Joe Spaulding, California resident, discussed how the Councilmembers who voted against the resolution this evening would see this used against them in future re-election efforts.
-- Eric Sturgis, resident, thanked Councilmember Griswold for her work on Congresswoman Debbie Dingell's unity breakfast. He also discussed his belief that the voters should be allowed to decide the issue of non-partisan elections.
-- Rita Mitchell, resident, stated she appreciated the effort of Councilmember Lumm to bring the issue of non-partisan elections for Council and Mayor to a public vote. She thanked the council members who voted in favor of taking the issue of non-partisan elections to the public for a decision.
+1. [John Moran](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3227s)
+2. [Chuck Loucks](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3466s)
+3. [Zachary Storey](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3510s)
+4. [Luis Vasquez](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3720s)
+5. [Jamie Magiera](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3820s)
+6. [Joe Spaulding](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=4000s)
+7. [Eric Sturgis](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=4026s)
+8. [Rita Mitchell](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3252s)
 
 ### Votes
 

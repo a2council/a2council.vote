@@ -36,29 +36,29 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10682&GI
 
 There were no public hearings on the agenda.
 
-**General Public Comment** ([start](https://www.youtube.com/watch?v=wLavWYXUNf0&t=538s)):
-- Bridget Healy, with the United Way of Washtenaw County, spoke in support of the proposed millage for affordable housing.
-- Michelle Hughes, resident, spoke in support of the proposed affordable housing millage and urged Council to place the issue on the ballot.
-- Joe Spaulding spoke in support of the proposed affordable housing millage.
-- An unidentified speaker urged Council to keep the millage as a 20-year millage to ensure success.
-- A resident spoke in support of affordable housing.
-- Glenn Ziegler, Ward 5, expressed concerns about the process for presenting the proposed affordable housing millage, stating it was very rushed. He also expressed concern about development in the floodplain.
-- Ralph McKee, Ward 5, stated he supports affordable housing, but expressed concern about this millage. He stated affordable housing policies need to lead to home ownership.
-- A Ward 4 resident spoke in support of affordable housing.
-- Emily Canosa, resident, urged Council to table this item to a future meeting to allow for more conversation.
-- Jake Campbell, resident, spoke in support of a 20-year millage for affordable housing.
-- Kathy Boris, Ward 5, spoke in opposition to the proposed affordable housing millage, stating a new tax will adversely affect existing low-income homeowners and renters.
-- Lynn Dorset, resident, spoke about the proposed affordable housing millage.
-- Anna Foster, Ward 5, spoke in support of the proposed affordable housing millage.
-- David DeVarti, former Councilmember, spoke in support of a milllage for affordable housing.
-- A Ward 1 resident spoke in support of a millage for affordable housing.
-- Evan Redmond, Ward 3 Council candidate, spoke in support of a millage for affordable housing.
-- Ian Robinson, Ward 4, spoke in support of the proposed affordable housing millage.
-- Chuck Warpehoski, former Councilmember, spoke in support of a ballot proposal for affordable housing.
-- Tom Stuhlberg, resident, talked about the history of racism in home ownership.
-- Tony Brown, Ward 3 Council candidate, expressed concern that there is no path to home ownership for some residents.
-- Jamie Magiera, Ward 4, spoke in support of a proposed affordable housing millage.
-- A Ward 1 resident spoke in support, but stated he is disappointed that UM is not helping.
+**General Public Comment** ([start](https://www.youtube.com/watch?v=wLavWYXUNf0&t=521s)):
+1. [Bridget Healy, with the United Way of Washtenaw County](https://www.youtube.com/watch?v=wLavWYXUNf0&t=639s)
+2. [Michelle Hughes](https://www.youtube.com/watch?v=wLavWYXUNf0&t=747s)
+3. [Joe Spaulding](https://www.youtube.com/watch?v=wLavWYXUNf0&t=773s)
+4. [An unidentified speaker](https://www.youtube.com/watch?v=wLavWYXUNf0&t=945s)
+5. [A resident](https://www.youtube.com/watch?v=wLavWYXUNf0&t=1074s)
+6. [Glenn Ziegler](https://www.youtube.com/watch?v=wLavWYXUNf0&t=1300s)
+7. [Ralph McKee](https://www.youtube.com/watch?v=wLavWYXUNf0&t=1490s)
+8. [A Ward 4 resident](https://www.youtube.com/watch?v=wLavWYXUNf0&t=1675s)
+9. [Emily Canosa](https://www.youtube.com/watch?v=wLavWYXUNf0&t=1751s)
+10. [Jake Campbell](https://www.youtube.com/watch?v=wLavWYXUNf0&t=1817s)
+11. [Kathy Boris](https://www.youtube.com/watch?v=wLavWYXUNf0&t=1934s)
+12. [Lynn Dorset](https://www.youtube.com/watch?v=wLavWYXUNf0&t=2104s)
+13. [Anna Foster](https://www.youtube.com/watch?v=wLavWYXUNf0&t=2293s)
+14. [David DeVarti](https://www.youtube.com/watch?v=wLavWYXUNf0&t=2481s)
+15. [A Ward 1 resident](https://www.youtube.com/watch?v=wLavWYXUNf0&t=2681s)
+16. [Evan Redmond](https://www.youtube.com/watch?v=wLavWYXUNf0&t=2871s)
+17. [Ian Robinson](https://www.youtube.com/watch?v=wLavWYXUNf0&t=2989s)
+18. [Chuck Warpehoski](https://www.youtube.com/watch?v=wLavWYXUNf0&t=3162s)
+19. [Tom Stuhlberg](https://www.youtube.com/watch?v=wLavWYXUNf0&t=3374s)
+20. [Tony Brown](https://www.youtube.com/watch?v=wLavWYXUNf0&t=3558s)
+21. [Jamie Magiera](https://www.youtube.com/watch?v=wLavWYXUNf0&t=3689s)
+22. [A Ward 1 resident](https://www.youtube.com/watch?v=wLavWYXUNf0&t=3867s)
 
 ### Votes
 

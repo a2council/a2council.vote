@@ -33,20 +33,22 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10263&GI
 ### Public Comment
 
 **Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=708s)):
-- **Mozhgan Savabieasfahani** (*EPA will take Decades to Decide on Gelman Clean-up (DC-1)*): Mozhgan Savabieasfahani, PO Box 7038, urged Council to take action on the Gelman Plume contamination.
-- **Blaine Coleman** (*EPA will take Decades to Decide on Gelman Clean-up (DC-1)*): Blaine Coleman, PO Box 7038, urged Council to take action regarding the conflict in Palestine and the clean-up of the Gelman Plume.
-- **[Erica Briggs](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=1118s)** (*Resolution for City Council Communications*): Erica Briggs, Ward Five, spoke in opposition to DC-4, Resolution for Council Communications, stating it is micro-management of staff and shows distrust.
-- **Marilyn Wedenoja** (*Mental health and Public Safety Millage*): Marilyn Wedenoja spoke in opposition to DC-3 and expressed concern about the misuse of the Public Safety and Mental Health millage rebate funds.
-- **[Glen Nelson](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=1378s)** (*Mental Health and Public Safety Millage*): Glen Nelson, resident, spoke in opposition to the use of the City's mental health millage for purposes other than mental health programs.
-- **Molly Kleinman** (*Resolution to Establish a City Council Mobility Committee*): Molly Kleinman, Chair of the City's Transportation Commission, spoke in opposition to DC-3, creating a Council Mobility Committee, stating it is a duplication of the Transportation Commission's work.
+1. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=740s) (*EPA will take Decades to Decide on Gelman Clean-up (DC-1)*)
+2. [Blaine Coleman](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=793s) (*EPA will take Decades to Decide on Gelman Clean-up (DC-1)*)
+3. [Erica Briggs](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=1118s) (*Resolution for City Council Communications*)
+4. [Marilyn Wedenoja](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=1290s) (*Mental health and Public Safety Millage*)
+5. [Glen Nelson](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=1378s) (*Mental Health and Public Safety Millage*)
+6. [Molly Kleinman](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=1670s) (*Resolution to Establish a City Council Mobility Committee*)
 
 ### Public Hearings ([start](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=5114s))
-- **[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4303617&GUID=1BAF3736-610C-4DD6-85F8-B1041357F555&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Section 1:237 of Chapter 8 (Organization of Boards and Commissions) of the Code of the City of Ann Arbor (Ordinance No. ORD-20-01)** ([video](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=5149s)) — There being no one present for comment, the Mayor declared the hearing closed.
-- **[`PH-2`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4313231&GUID=F9F69BD0-E064-4572-B25F-10EDDACC2144&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): Resolution to Approve the Hosford Annexation, 3.56 Acres, 2260 Traver Road (CPC Recommendation: Approval - 7 Yeas and 0 Nays)** ([video](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=5160s)) — There being no one present for comment, the Mayor declared the hearing closed.
 
-**General Public Comment**:
-- Adam Oxner, Ward Four, spoke in opposition to DC-3 and DC-4. He stated the Mobility Resolution needs more clarity about the intent.
-- An unidentified speaker talked about a housing initiative called Housing First.
+**[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4303617&GUID=1BAF3736-610C-4DD6-85F8-B1041357F555&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Section 1:237 of Chapter 8 (Organization of Boards and Commissions) of the Code of the City of Ann Arbor (Ordinance No. ORD-20-01)** ([start](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=5149s)) — No speakers.
+
+**[`PH-2`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4313231&GUID=F9F69BD0-E064-4572-B25F-10EDDACC2144&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): Resolution to Approve the Hosford Annexation, 3.56 Acres, 2260 Traver Road (CPC Recommendation: Approval - 7 Yeas and 0 Nays)** ([start](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=5160s)) — No speakers.
+
+**General Public Comment** ([start](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=11003s)):
+1. [Adam Oxner](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=11031s)
+2. [An unidentified speaker](https://www.youtube.com/watch?v=gTfHFXTm-8M&t=11158s)
 
 ### Votes
 
