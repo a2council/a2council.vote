@@ -46,22 +46,22 @@ The meeting opened with 2 introduction(s): [Independent Community Police Oversig
 ### Public Comment
 
 **General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=-uN986pTiCA&t=787s)) — 16 speakers:
-1. [Ken Garber](https://www.youtube.com/watch?v=-uN986pTiCA&t=832s) (3m 18s)
+1. [Ken Garber](https://www.youtube.com/watch?v=-uN986pTiCA&t=832s) (3m 06s)
 2. [Eleanor Linn](https://www.youtube.com/watch?v=-uN986pTiCA&t=1041s) (2m 43s)
 3. [Brandon Dimcheff](https://www.youtube.com/watch?v=-uN986pTiCA&t=1204s) (3m 17s)
 4. [Lindell Jurgens](https://www.youtube.com/watch?v=-uN986pTiCA&t=1401s) (3m 06s)
 5. [Eric Ivancich](https://www.youtube.com/watch?v=-uN986pTiCA&t=1587s) (1m 50s)
-6. [Nikki Andrews](https://www.youtube.com/watch?v=-uN986pTiCA&t=1717s) (1m 51s)
-7. [Lisa Jevens](https://www.youtube.com/watch?v=-uN986pTiCA&t=1828s) (3m 08s)
-8. [Michelle Hughes](https://www.youtube.com/watch?v=-uN986pTiCA&t=2016s) (3m 19s)
+6. [Nikki Andrews](https://www.youtube.com/watch?v=-uN986pTiCA&t=1717s) (1m 35s)
+7. [Lisa Jevens](https://www.youtube.com/watch?v=-uN986pTiCA&t=1828s) (2m 54s)
+8. [Michelle Hughes](https://www.youtube.com/watch?v=-uN986pTiCA&t=2016s) (3m 07s)
 9. [Ellen Ramsburgh](https://www.youtube.com/watch?v=-uN986pTiCA&t=2215s) (3m 01s)
 10. [Marc Gerstein](https://www.youtube.com/watch?v=-uN986pTiCA&t=2396s) (3m 07s)
-11. [Adam Jaskiewicz](https://www.youtube.com/watch?v=-uN986pTiCA&t=2583s) (3m 23s)
-12. [Hank Barry](https://www.youtube.com/watch?v=-uN986pTiCA&t=2786s) (2m 44s)
-13. [Brian Chambers](https://www.youtube.com/watch?v=-uN986pTiCA&t=2950s) (3m 30s)
+11. [Adam Jaskiewicz](https://www.youtube.com/watch?v=-uN986pTiCA&t=2583s) (3m 04s)
+12. [Hank Barry](https://www.youtube.com/watch?v=-uN986pTiCA&t=2786s) (2m 27s)
+13. [Brian Chambers](https://www.youtube.com/watch?v=-uN986pTiCA&t=2950s) (3m 17s)
 14. [Edward Vielmetti](https://www.youtube.com/watch?v=-uN986pTiCA&t=3163s) (2m 25s)
 15. [John Godfrey](https://www.youtube.com/watch?v=-uN986pTiCA&t=3308s) (3m 01s)
-16. [Jeff Crockett](https://www.youtube.com/watch?v=-uN986pTiCA&t=3499s) (3m 00s)
+16. [Jeff Crockett](https://www.youtube.com/watch?v=-uN986pTiCA&t=3499s) (3m 17s)
 
 ### Votes
 

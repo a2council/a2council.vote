@@ -42,7 +42,7 @@ The meeting opened with 1 introduction(s): [Independent Community Police Oversig
 5. [David Garcia](https://www.youtube.com/watch?v=h4zH_Qm16SM&t=1110s) (2m 50s)
 6. [Leslie Stambaugh](https://www.youtube.com/watch?v=h4zH_Qm16SM&t=1284s) (3m 16s)
 7. [Alexis Ried](https://www.youtube.com/watch?v=h4zH_Qm16SM&t=1484s) (1m 20s)
-8. [Zachary Damon](https://www.youtube.com/watch?v=h4zH_Qm16SM&t=1568s) (2m 41s)
+8. [Zachary Damon](https://www.youtube.com/watch?v=h4zH_Qm16SM&t=1568s) (2m 24s)
 9. [Jess Riley](https://www.youtube.com/watch?v=h4zH_Qm16SM&t=1733s) (1m 09s)
 10. [Sean Higgins](https://www.youtube.com/watch?v=h4zH_Qm16SM&t=1806s) (1m 42s)
 11. [Greg Woodring](https://www.youtube.com/watch?v=h4zH_Qm16SM&t=1912s) (3m 08s)

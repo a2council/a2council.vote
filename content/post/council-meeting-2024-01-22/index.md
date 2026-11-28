@@ -44,7 +44,7 @@ The meeting opened with 1 introduction(s): [Downtown Development Authority (DDA)
 ### Public Comment
 
 **General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=719s)) — 8 speakers:
-1. [Luis Vazquez](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=745s) (3m 04s)
+1. [Luis Vazquez](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=745s) (2m 45s)
 2. [Alan Haber](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=933s) (3m 17s)
 3. [Alex Lowe](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1134s) (2m 55s)
 4. [Michelle Julet](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1313s) (3m 17s)

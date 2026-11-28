@@ -44,7 +44,7 @@ The meeting opened with 1 introduction(s): [Ann Arbor Area Transportation Author
 ### Public Comment
 
 **General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=7Y00CIIktIU&t=307s)) — 12 speakers:
-1. [Brian Donovan](https://www.youtube.com/watch?v=7Y00CIIktIU&t=660s) (3m 21s)
+1. [Brian Donovan](https://www.youtube.com/watch?v=7Y00CIIktIU&t=660s) (3m 04s)
 2. [Adam Goodman](https://www.youtube.com/watch?v=7Y00CIIktIU&t=865s) (3m 11s)
 3. [James Nichols](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1060s) (3m 00s)
 4. [Alvin Poon](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1244s) (3m 07s)

@@ -51,12 +51,12 @@ There are five resolutions. [DC-1](http://a2gov.legistar.com/LegislationDetail.
 7. [Barry Dunietz](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1684s) (3m 07s)
 8. [Alan Haber](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1885s) (3m 21s)
 9. [Jennifer Heimberg](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2090s) (3m 21s)
-10. [Chandler Meyers](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2295s) (3m 13s)
+10. [Chandler Meyers](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2295s) (3m 00s)
 11. [Lora Galpern](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2492s) (3m 30s)
 12. [Charles Song](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2704s) (2m 46s)
 13. [Brian Coburn](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2873s) (1m 30s)
 14. [Erin Ospina](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2966s) (3m 27s)
-15. [Ariel Levy](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=3177s) (3m 07s)
+15. [Ariel Levy](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=3177s) (3m 35s)
 16. [Jared Katzman](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=3414s) (3m 00s)
 
 ### Votes

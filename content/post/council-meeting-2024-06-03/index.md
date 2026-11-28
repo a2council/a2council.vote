@@ -53,7 +53,7 @@ The meeting opened with 4 introduction(s): [Independent Community Police Oversig
 1. [Rita Mitchell](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2065s) (3m 15s)
 2. [Peter Eckstein](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2264s) (2m 32s)
 3. [Ralph Mckee](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2416s) (3m 16s)
-4. [Tom Stulberg](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2612s) (4m 09s)
+4. [Tom Stulberg](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2612s) (3m 35s)
 5. [Holly Eliot](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2861s) (3m 26s)
 6. [Alan Haber](https://www.youtube.com/watch?v=guFi0K3e7CY&t=3067s) (3m 00s)
 
