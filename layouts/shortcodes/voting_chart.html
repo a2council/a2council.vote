@@ -12,8 +12,13 @@
 {{ end }}
 {{ $rows := getCSV $delimiter $src }}
 
+{{ $youtubeID := $.Page.Params.youtube_id }}
+
 <table class="table table-bordered voting-chart">
-  {{ $headerRow := after 3 (index $rows 0) }}
+  {{ $rawHeader := index $rows 0 }}
+  {{ $hasTimestamp := eq (index $rawHeader 4) "timestamp" }}
+  {{ $colStart := cond $hasTimestamp 5 4 }}
+  {{ $headerRow := slice (index $rawHeader 3) | append (after $colStart $rawHeader) }}
   {{ $rows = after 1 $rows }}
   <thead>
     <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
@@ -24,13 +29,17 @@
     {{ $link := index . 0 }}
     {{ $item := index . 2 }}
     {{ $description := index . 3 }}
-    {{ $col := after 4 . }}
+    {{ $timestamp := cond $hasTimestamp (index . 4) "" }}
+    {{ $col := after $colStart . }}
     <td>
       <strong>
       {{ if $link }}
         <a href="{{ $link }}" target="_blank">{{ $item | markdownify | emojify }}</a>
       {{ else }}
         {{ $item | markdownify | emojify }}
+      {{ end }}
+      {{ if and $youtubeID $timestamp }}
+        <a href="https://www.youtube.com/watch?v={{ $youtubeID }}&t={{ $timestamp }}s" target="_blank" title="Watch discussion on YouTube">🎥</a>
       {{ end }}
 
       </strong>
