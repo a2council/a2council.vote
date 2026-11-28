@@ -45,22 +45,23 @@ The meeting opened with 2 introduction(s): [Independent Community Police Oversig
 
 ### Public Comment
 
-**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=-uN986pTiCA&t=787s)) — 15 speakers:
-1. [Ken Garber](https://www.youtube.com/watch?v=-uN986pTiCA&t=832s) (3m 18s)
-2. [Eleanor Linn](https://www.youtube.com/watch?v=-uN986pTiCA&t=1041s) (2m 43s)
-3. [Brandon Dimcheff](https://www.youtube.com/watch?v=-uN986pTiCA&t=1204s) (3m 17s)
-4. [Lindell Jurgens](https://www.youtube.com/watch?v=-uN986pTiCA&t=1408s) (2m 20s)
-5. [Eric Ivancich](https://www.youtube.com/watch?v=-uN986pTiCA&t=1550s) (2m 27s)
-6. [Nikki Andrews](https://www.youtube.com/watch?v=-uN986pTiCA&t=1717s) (1m 35s)
-7. [Lisa Jevens](https://www.youtube.com/watch?v=-uN986pTiCA&t=1828s) (2m 54s)
-8. [Michelle Hughes](https://www.youtube.com/watch?v=-uN986pTiCA&t=2016s) (3m 07s)
-9. [Ellen Ramsburgh](https://www.youtube.com/watch?v=-uN986pTiCA&t=2215s) (3m 01s)
-10. [Marc Gerstein](https://www.youtube.com/watch?v=-uN986pTiCA&t=2396s) (3m 07s)
-12. [Hank Barry](https://www.youtube.com/watch?v=-uN986pTiCA&t=2786s) (2m 27s)
-13. [Brian Chambers](https://www.youtube.com/watch?v=-uN986pTiCA&t=2950s) (3m 17s)
-14. [Edward Vielmetti](https://www.youtube.com/watch?v=-uN986pTiCA&t=3163s) (2m 16s)
-15. [John Godfrey](https://www.youtube.com/watch?v=-uN986pTiCA&t=3308s) (3m 01s)
-16. [Jeff Crockett](https://www.youtube.com/watch?v=-uN986pTiCA&t=3499s) (3m 00s)
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=-uN986pTiCA&t=787s)) — 16 speakers:
+1. [Ken Garber](https://www.youtube.com/watch?v=-uN986pTiCA&t=832s) (3m 30s)
+2. [Eleanor Linn](https://www.youtube.com/watch?v=-uN986pTiCA&t=1204s) (3m 30s)
+3. [Brandon Dimcheff](https://www.youtube.com/watch?v=-uN986pTiCA&t=1697s) (3m 30s)
+4. [Lindell Jurgens](https://www.youtube.com/watch?v=-uN986pTiCA&t=2213s) (3m 30s)
+5. [Eric Ivancich](https://www.youtube.com/watch?v=-uN986pTiCA&t=2583s) (3m 00s)
+6. [Nikki Andrews](https://www.youtube.com/watch?v=-uN986pTiCA&t=2767s) (2m 44s)
+7. [Lisa Jevens](https://www.youtube.com/watch?v=-uN986pTiCA&t=2935s) (3m 30s)
+8. [Michelle Hughes](https://www.youtube.com/watch?v=-uN986pTiCA&t=3154s) (3m 21s)
+9. [Ellen Ramsburgh](https://www.youtube.com/watch?v=-uN986pTiCA&t=3359s) (3m 21s)
+10. [Marc Gerstein](https://www.youtube.com/watch?v=-uN986pTiCA&t=3564s) (3m 21s)
+11. [Adam Jaskiewicz](https://www.youtube.com/watch?v=-uN986pTiCA&t=3769s) (3m 21s)
+12. [Hank Barry](https://www.youtube.com/watch?v=-uN986pTiCA&t=3974s) (3m 21s)
+13. [Brian Chambers](https://www.youtube.com/watch?v=-uN986pTiCA&t=4179s) (3m 21s)
+14. [Edward Vielmetti](https://www.youtube.com/watch?v=-uN986pTiCA&t=4384s) (3m 21s)
+15. [John Godfrey](https://www.youtube.com/watch?v=-uN986pTiCA&t=4589s) (3m 21s)
+16. [Jeff Crockett](https://www.youtube.com/watch?v=-uN986pTiCA&t=4794s) (0m 20s)
 
 ### Votes
 

@@ -43,17 +43,18 @@ The meeting opened with 1 introduction(s): [Ann Arbor Area Transportation Author
 
 ### Public Comment
 
-**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=7Y00CIIktIU&t=307s)) — 11 speakers:
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=7Y00CIIktIU&t=307s)) — 12 speakers:
 1. [Brian Donovan](https://www.youtube.com/watch?v=7Y00CIIktIU&t=660s) (3m 21s)
 2. [Adam Goodman](https://www.youtube.com/watch?v=7Y00CIIktIU&t=865s) (3m 11s)
 3. [James Nichols](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1060s) (3m 00s)
 4. [Alvin Poon](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1244s) (3m 07s)
-5. [Adam Grant](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1435s) (3m 30s)
+5. [Adam Grant](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1435s) (2m 48s)
+6. [Arthur Thomas](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1607s) (3m 18s)
 7. [Tom Stulberg](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1809s) (3m 30s)
 8. [Henry Herskovitz](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2065s) (3m 06s)
 9. [Alex Zittleman](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2255s) (3m 19s)
-10. [Ralph McKee](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2458s) (3m 17s)
-11. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2659s) (3m 17s)
+10. [Ralph McKee](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2458s) (3m 13s)
+11. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2655s) (3m 21s)
 12. [Blaine Coleman](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2860s) (3m 30s)
 
 ### Votes

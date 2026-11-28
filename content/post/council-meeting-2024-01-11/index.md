@@ -41,21 +41,23 @@ There are five resolutions. [DC-1](http://a2gov.legistar.com/LegislationDetail.
 
 ### Public Comment
 
-**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=630s)) — 13 speakers (1 no-show):
-1. [Omar Abdala](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=634s) (2m 59s)
-2. [Cameron Kaufman](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=817s) (3m 30s)
-3. [Liz Kennedy](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1048s) (3m 30s)
-5. [Dwight Wilson](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1438s) (3m 30s)
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=630s)) — 15 speakers (1 no-show):
+1. [Omar Abdala](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=817s) (3m 30s)
+2. [Cameron Kaufman](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1230s) (3m 24s)
+3. [Liz Kennedy](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1438s) (3m 30s)
+4. [Joshua Hedgecock](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1885s) (3m 21s)
+5. [Dwight Wilson](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2090s) (3m 21s)
 6. Humera Kahtri (no-show)
-7. [Barry Dunietz](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1889s) (3m 30s)
-8. Alan Haber (no-show)
-9. [Jennifer Heimberg](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2090s) (3m 25s)
-10. [Chandler Meyers](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2496s) (3m 24s)
-12. [Charles Song](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2704s) (3m 11s)
-13. [Brian Coburn](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2899s) (1m 07s)
-14. [Erin Ospina](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2970s) (3m 23s)
-15. [Ariel Levy](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=3177s) (3m 30s)
-16. [Jared Katzman](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=3412s) (3m 30s)
+7. [Barry Dunietz](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1684s) (3m 17s)
+8. [Alan Haber](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1885s) (3m 21s)
+9. [Jennifer Heimberg](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=3569s) (3m 21s)
+10. [Chandler Meyers](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=3774s) (3m 21s)
+11. [Lora Galpern](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=3979s) (3m 21s)
+12. [Charles Song](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=4184s) (3m 21s)
+13. [Brian Coburn](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=4389s) (3m 21s)
+14. [Erin Ospina](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=4594s) (3m 21s)
+15. [Ariel Levy](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=4799s) (3m 21s)
+16. [Jared Katzman](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=5004s) (0m 20s)
 
 ### Votes
 

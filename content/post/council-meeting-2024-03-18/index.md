@@ -41,15 +41,17 @@ The meeting opened with 2 introduction(s): [Downtown Development Authority (DDA)
 
 ### Public Comment
 
-**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=1129s)) — 8 speakers:
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=1129s)) — 10 speakers:
+1. [Alex Lowe](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=1160s) (3m 13s)
 2. [Les Crots](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=1357s) (3m 18s)
 3. [Ellen Johnson](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=1559s) (3m 19s)
 4. [Simone Taylor](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=1762s) (2m 51s)
 5. [John Godfrey](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=1937s) (2m 55s)
 6. [Aaron Cooper](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2116s) (0m 59s)
-7. [Susan Hansen](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2179s) (3m 06s)
+7. [Susan Hansen](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2179s) (3m 02s)
 8. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2365s) (3m 24s)
-9. [Alan Haber](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2573s) (3m 30s)
+9. [Alan Haber](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2573s) (3m 23s)
+10. [Blaine Coleman](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2780s) (3m 30s)
 
 ### Votes
 

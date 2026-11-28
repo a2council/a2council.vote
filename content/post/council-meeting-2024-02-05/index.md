@@ -41,8 +41,9 @@ The meeting opened with 1 introduction(s): [Independent Community Police Oversig
 
 ### Public Comment
 
-**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=651s)) — 13 speakers:
-1. [Ralph McKee](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=711s) (3m 30s)
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=651s)) — 15 speakers:
+1. [Ralph McKee](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=711s) (3m 05s)
+2. [Kathy Griswold](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=900s) (2m 49s)
 3. [Lisa Jevens](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=1073s) (3m 24s)
 4. [Justin Schoff](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=1281s) (3m 15s)
 5. [Kathryn Plotner](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=1480s) (1m 42s)
@@ -50,11 +51,12 @@ The meeting opened with 1 introduction(s): [Independent Community Police Oversig
 7. [Greg Woodring](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=1769s) (2m 55s)
 8. [Kathleen Murphey](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=1948s) (3m 30s)
 9. [Gus Teschke](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2175s) (2m 46s)
-10. [Tamara Garwood](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2345s) (3m 30s)
-12. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2523s) (2m 27s)
-13. [Blaine Coleman](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2683s) (2m 55s)
-14. [Tom Stulberg](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=3066s) (3m 11s)
-15. [Steven Beattie](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=3261s) (3m 00s)
+10. [Tamara Garwood](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2345s) (2m 53s)
+11. [Parnell McCarter](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2522s) (2m 24s)
+12. [Blaine Coleman](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2670s) (3m 04s)
+13. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2858s) (3m 14s)
+14. [Tom Stulberg](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=3056s) (3m 21s)
+15. [Steven Beattie](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=3261s) (3m 30s)
 
 ### Votes
 

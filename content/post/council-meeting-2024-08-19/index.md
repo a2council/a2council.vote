@@ -34,9 +34,10 @@ The meeting opened with 1 introduction(s): [Ann Arbor Area Transportation Author
 
 ### Public Comment
 
-**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=519s)) — 5 speakers (1 no-show):
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=519s)) — 6 speakers (1 no-show):
 1. Odell Palacio (no-show)
-2. [Tom Stulberg](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=554s) (3m 30s)
+2. [Tom Stulberg](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=550s) (3m 30s)
+3. [Kathy Griswold](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=842s) (3m 08s)
 4. [Henry Herskovitz](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=1034s) (3m 10s)
 5. [Ralph Mckee](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=1228s) (2m 43s)
 6. [Evan Souliotis](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=1395s) (3m 09s)

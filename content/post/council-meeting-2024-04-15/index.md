@@ -45,21 +45,24 @@ The meeting opened with 2 introduction(s): [Ann Arbor Area Transportation Author
 
 ### Public Comment
 
-**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=YefVgCvuTVk&t=2839s)) — 12 speakers (2 no-shows):
-1. [Allan Newman](https://www.youtube.com/watch?v=YefVgCvuTVk&t=2851s) (3m 30s)
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=YefVgCvuTVk&t=2839s)) — 15 speakers (2 no-shows):
+1. [Allan Newman](https://www.youtube.com/watch?v=YefVgCvuTVk&t=2851s) (2m 57s)
+2. [Brian Geiringer](https://www.youtube.com/watch?v=YefVgCvuTVk&t=3032s) (2m 25s)
 3. [Adam Grant](https://www.youtube.com/watch?v=YefVgCvuTVk&t=3181s) (2m 53s)
-4. [Matt Bossart](https://www.youtube.com/watch?v=YefVgCvuTVk&t=3358s) (2m 13s)
+4. [Matt Bossart](https://www.youtube.com/watch?v=YefVgCvuTVk&t=3358s) (2m 09s)
 5. Karl Barton (no-show)
-6. [Henry Herskovitz](https://www.youtube.com/watch?v=YefVgCvuTVk&t=3495s) (3m 24s)
-7. [Roger Kerson](https://www.youtube.com/watch?v=YefVgCvuTVk&t=3703s) (3m 07s)
-8. [Marisa Mercurio](https://www.youtube.com/watch?v=YefVgCvuTVk&t=3894s) (3m 30s)
-9. Milton Baker (no-show)
+6. [Henry Herskovitz](https://www.youtube.com/watch?v=YefVgCvuTVk&t=3491s) (3m 28s)
+7. [Roger Kerson](https://www.youtube.com/watch?v=YefVgCvuTVk&t=3703s) (3m 03s)
+8. [Marisa Mercurio](https://www.youtube.com/watch?v=YefVgCvuTVk&t=3890s) (1m 37s)
+9. [Milton Baker](https://www.youtube.com/watch?v=YefVgCvuTVk&t=3991s) (2m 43s)
+10. Kathy Griswold (no-show)
 11. [Greg Woodring](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4158s) (2m 01s)
 12. [John Walker](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4283s) (3m 30s)
 13. [Margaret Goodly](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4512s) (1m 56s)
-14. [James Osborn](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4632s) (2m 57s)
-15. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4809s) (3m 05s)
-16. [Blaine Coleman](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4999s) (3m 30s)
+14. [James Osborn](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4632s) (2m 53s)
+15. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4809s) (3m 01s)
+16. [Blaine Coleman](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4994s) (3m 30s)
+17. [Ellen Johnson](https://www.youtube.com/watch?v=YefVgCvuTVk&t=5212s) (3m 30s)
 
 ### Votes
 

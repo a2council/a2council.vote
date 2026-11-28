@@ -32,9 +32,10 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141279&GU
 
 ### Public Comment
 
-**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=380s)) — 9 speakers:
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=380s)) — 10 speakers:
 1. [Rita Turner-Sheerin](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=411s) (2m 43s)
-2. [Eric Ivancich](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=578s) (3m 30s)
+2. [Eric Ivancich](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=578s) (2m 28s)
+3. [Adam Goodman](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=730s) (3m 16s)
 4. [James Sheerin](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=930s) (1m 46s)
 5. [Rita Mitchell](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=1040s) (3m 02s)
 6. [Robert Stencel](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=1226s) (1m 52s)
