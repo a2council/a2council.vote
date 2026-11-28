@@ -53,9 +53,9 @@ The meeting opened with 1 introduction(s): [Independent Community Police Oversig
 1. [Andrew Sugerman](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=516s) (3m 30s)
 2. [Adam Goodman](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=747s) (2m 58s)
 3. [Alex Lowe](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=929s) (3m 30s)
-4. [Thomas Stulberg](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=1207s) (3m 18s)
-5. [Michelle Hughes](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=1409s) (3m 21s)
-6. [Kathy Stroud](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=1614s) (3m 14s)
+4. [Thomas Stulberg](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=984s) (3m 30s)
+5. [Michelle Hughes](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=1219s) (3m 07s)
+6. [Kathy Stroud](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=1416s) (3m 00s)
 
 **Public Hearing (`PH-2`: An Ordinance to Amend Chapter 55, 711 Church St. PUD)** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2140s)) — 22 speakers:
 1. [Mark Irwin (1321 Forest Ct.)](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2158s) (2m 32s)
