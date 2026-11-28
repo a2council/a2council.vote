@@ -51,9 +51,9 @@ The meeting opened with 1 introduction(s): [Independent Community Police Oversig
 8. [Kathleen Murphey](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=1948s) (3m 30s)
 9. [Gus Teschke](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2175s) (2m 46s)
 10. [Tamara Garwood](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2345s) (3m 30s)
-12. [Blaine Coleman](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2670s) (0m 15s)
+12. [Blaine Coleman](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2683s) (2m 55s)
 13. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2523s) (3m 30s)
-14. [Tom Stulberg](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=3056s) (0m 15s)
+14. [Tom Stulberg](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=3066s) (3m 11s)
 15. [Steven Beattie](https://www.youtube.com/watch?v=Dt3TsAPXKk0&t=2862s) (3m 30s)
 
 ### Votes
