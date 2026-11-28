@@ -25,11 +25,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+youtube_id: "guFi0K3e7CY"
 ---
 
-Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141275&GUID=98D6185A-D2FF-4471-A990-3DAFACBD5496&Options=info|&Search=).
+Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141275&GUID=98D6185A-D2FF-4471-A990-3DAFACBD5496&Options=info|&Search=) and the [YouTube video](https://www.youtube.com/watch?v=guFi0K3e7CY) of the meeting.
 
-Here's the [YouTube video](https://www.youtube.com/watch?v=guFi0K3e7CY) of the meeting.
 
 There was a long, 34-item Consent Agenda at this meeting. Mayor Taylor recused himself from [CA-30](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6702376&GUID=E759F056-13F7-4678-9AAC-FE147E6D3FF3&Options=&Search=), an agreement with the Sam Bernstein Law Firm to pursue insulin pricing litigation, due to a conflict of interest. [CA-9](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6702495&GUID=3D3CACBD-3295-476D-9A9A-6FC3EB058FAE&Options=&Search=) was an agreement for an exclusive negotiating period for 4M to develop the long-blighted site at 415 W. Washington. CMs Eyer and Radina voted no, preferring a more traditional RFC process for the site. [CA-13](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6702366&GUID=C7B98D61-5B4A-48C1-9C5A-61A79C3C1791&Options=&Search=) was the renewal for the Spin scooter/e-bike contract. It was amended to shorten the term to 3mo instead of 1y with the city having an option to extend each quarter up to the original term.
 
@@ -44,5 +44,19 @@ There was a long, 34-item Consent Agenda at this meeting. Mayor Taylor recused h
 [DC-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6709371&GUID=E676B8CB-C628-4A20-8BFE-D87B022E3C30&Options=&Search=) was a resolution that hopes to ensure that facial recognition technology is used responsibly and equitably by the Ann Arbor Police Department.
 
 [DC-4](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6709653&GUID=A9D1541E-67AF-4767-BB3A-FD1736F77743&Options=&Search=) was a Resolution Authorizing Application and Implementation of Michigan Shared Streets and Spaces Grant.
+
+The meeting opened with 4 introduction(s): [Independent Community Police Oversight Commission (ICPOC) Update](https://www.youtube.com/watch?v=guFi0K3e7CY&t=539s) (`INT-1`), [Proclamation Celebrating June 2024 as LGBTQ+ Pride Month](https://www.youtube.com/watch?v=guFi0K3e7CY&t=733s) (`INT-2`), [Ray Detter Local History Award to Scarlett Middle School Students](https://www.youtube.com/watch?v=guFi0K3e7CY&t=829s) (`INT-3`), [Annual Historic District Commission Awards](https://www.youtube.com/watch?v=guFi0K3e7CY&t=906s) (`INT-4`).
+
+### Public Comment
+
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2043s)) — 6 speakers:
+1. [Rita Mitchell](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2065s) (3m 15s)
+2. [Peter Eckstein](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2264s) (2m 32s)
+3. [Ralph Mckee](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2416s) (3m 16s)
+4. [Tom Stulberg](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2612s) (3m 35s)
+5. [Holly Eliot](https://www.youtube.com/watch?v=guFi0K3e7CY&t=2861s) (3m 26s)
+6. [Alan Haber](https://www.youtube.com/watch?v=guFi0K3e7CY&t=3067s) (3m 00s)
+
+### Votes
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

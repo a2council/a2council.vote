@@ -25,11 +25,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+youtube_id: "IP4uaH2Vtsk"
 ---
 
-Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141277&GUID=914AAFC9-65C9-4E9B-8CE0-C2B441CB71F5&Options=&Search=). 
+Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141277&GUID=914AAFC9-65C9-4E9B-8CE0-C2B441CB71F5&Options=&Search=) and the [YouTube video](https://www.youtube.com/watch?v=IP4uaH2Vtsk) of the meeting. 
 
-Here's the [YouTube video](https://www.youtube.com/watch?v=IP4uaH2Vtsk) of the meeting.
 
 The meeting kicks off with a 19-item consent agenda. [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6728600&GUID=C5B0836A-8465-4AF8-B541-24DF70F27492&Options=&Search=), [CA-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6728601&GUID=FA86E163-2132-4E1A-BC4B-D137A975A53F&Options=&Search=), [CA-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6730614&GUID=B665277E-CDBE-4F82-AAD5-50C88E55AE22&Options=&Search=), and [CA-4](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6730615&GUID=14247CCC-E5D4-4056-B6B0-7CA24A0B9D86&Options=&Search=) are all street closures for Firefighter Spray Park in the District, Sonic Lunches, Student Move-In, and UM Football Games. 
 
@@ -51,5 +51,16 @@ There were no public hearings on the docket. 
 -   Bicentennial Park Improvements ($400K)
 -   Support for Safe House ($100K)
 
+### Public Comment
+
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=IP4uaH2Vtsk&t=225s)) — 6 speakers:
+1. [Greg Pratt](https://www.youtube.com/watch?v=IP4uaH2Vtsk&t=236s) (2m 32s)
+2. [Kathy Griswold](https://www.youtube.com/watch?v=IP4uaH2Vtsk&t=392s) (2m 54s)
+3. [Ralph Mckee](https://www.youtube.com/watch?v=IP4uaH2Vtsk&t=570s) (3m 30s)
+4. [Alan Haber](https://www.youtube.com/watch?v=IP4uaH2Vtsk&t=839s) (0m 43s)
+5. [Eleanore Ablan-Owen](https://www.youtube.com/watch?v=IP4uaH2Vtsk&t=886s) (3m 30s)
+6. [Ann Hanson](https://www.youtube.com/watch?v=IP4uaH2Vtsk&t=1413s) (3m 30s)
+
+### Votes
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}
