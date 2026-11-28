@@ -25,12 +25,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+youtube_id: "oEAiGd1wvuM"
 ---
 
+Here's the [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1141274&GUID=F154CBCB-300C-4AA0-B298-9F0E9AA17F4B&Options=info%7c&Search=) and the [YouTube video](https://www.youtube.com/watch?v=oEAiGd1wvuM) of the meeting.
 
-Here's the [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1141274&GUID=F154CBCB-300C-4AA0-B298-9F0E9AA17F4B&Options=info%7c&Search=).
-
-Here's the [YouTube video](https://www.youtube.com/watch?v=oEAiGd1wvuM) of the meeting.
 
 The Consent Agenda had 11 items, 9 of which were street closings for events. The other two were [CA-10](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6662045&GUID=716FC0A1-E8BC-4794-99DB-B3D15A26E4AA&Options=&Search=), an a millage grant agreement between the city and the Ann Arbor Housing Development Corporation, and [CA-11](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6664729&GUID=3C886C59-6B42-4EF6-BCA6-F095AD96F47B&Options=&Search=), the ADA transition plan for making city parks more accessible. All were approved unanimously.
 
@@ -58,5 +57,23 @@ The following amendments passed:
 -   $100k to send out a mailer of factual information. The idea is to help out people who have a hard time using the internet. Let them know who their council members are, and about city programs people can take advantage of, and have phone numbers of who to call for what. The money just covers printing and mailing. The council intends to write this themselves, at the Administration Committee. They haven't decided exactly what will go in it yet.
 
 One more amendment, to prioritize flashing warning lights at an individual crosswalk on Stone School rather than have it go through the normal prioritization process, failed.
+
+The meeting opened with 1 introduction(s): [Downtown Development Authority (DDA) Update](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=239s) (`INT-1`).
+
+### Public Comment
+
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=899s)) — 10 speakers:
+1. [Ken Garber](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=929s) (3m 22s)
+2. [Jeane Ross](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=1135s) (1m 39s)
+3. [Kathy Griswold](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=1238s) (2m 58s)
+4. [Jeff Hayner](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=1420s) (3m 25s)
+5. [Sean Higgins](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=1629s) (1m 20s)
+6. [Michelle Hughes](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=1713s) (3m 04s)
+7. [Tom Stulberg](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=1901s) (3m 01s)
+8. [Jeff Crockett](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=2086s) (3m 19s)
+9. [Alan Haber](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=2289s) (2m 48s)
+10. [Christine Crockett](https://www.youtube.com/watch?v=oEAiGd1wvuM&t=2461s) (3m 30s)
+
+### Votes
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

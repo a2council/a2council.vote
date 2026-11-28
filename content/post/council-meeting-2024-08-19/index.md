@@ -25,10 +25,24 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+youtube_id: "_sL7lxIcz-c"
 ---
 
-Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141280&GUID=D9F90847-E0B9-4D20-9067-F3573B8574C8). 
+Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141280&GUID=D9F90847-E0B9-4D20-9067-F3573B8574C8) and the [YouTube video](https://www.youtube.com/watch?v=_sL7lxIcz-c) of the meeting.
 
-Here's the [YouTube video](https://www.youtube.com/watch?v=_sL7lxIcz-c) of the meeting.
+The meeting opened with 1 introduction(s): [Ann Arbor Area Transportation Authority](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=350s) (`INT-1`).
+
+### Public Comment
+
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=519s)) — 5 speakers (1 no-show):
+1. Odell Palacio (no-show)
+2. [Tom Stulberg](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=554s) (3m 30s)
+4. [Henry Herskovitz](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=1034s) (3m 10s)
+5. [Ralph Mckee](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=1228s) (2m 43s)
+6. [Evan Souliotis](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=1395s) (3m 09s)
+7. [Adam Goodman](https://www.youtube.com/watch?v=_sL7lxIcz-c&t=1588s) (3m 30s)
+
+### Votes
+
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

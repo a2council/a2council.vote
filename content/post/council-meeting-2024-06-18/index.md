@@ -25,11 +25,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+youtube_id: "MWj5B5ZKGxY"
 ---
 
-Here's the [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1141276&GUID=8A63AB9A-1230-422D-B976-3D95BE614497&Options=info%7c&Search=).
+Here's the [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1141276&GUID=8A63AB9A-1230-422D-B976-3D95BE614497&Options=info%7c&Search=) and the [YouTube video](https://www.youtube.com/watch?v=MWj5B5ZKGxY) of the meeting.
 
-Here's the [YouTube video](https://www.youtube.com/watch?v=MWj5B5ZKGxY) of the meeting.
 
 There were 28 items on the consent agenda. [CA-5](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6717071&GUID=C1ADDC71-22A3-408E-B890-FE22E57DB99E&Options=&Search=) was pulled for Jennifer Hall of the Housing Commission to [explain](https://www.youtube.com/live/MWj5B5ZKGxY?si=9Zc7Ug4ZkfldZjJ0&t=2024) the [changes](http://a2gov.legistar.com/View.ashx?M=F&ID=13008353&GUID=B1D47500-4EBF-4DD2-849F-6EF716A2B6EF) proposed to the Affordable Housing Fund. All consent agenda items were approved unanimously.
 
@@ -42,5 +42,19 @@ There were three public hearings on small township annexations. DB-1, 2, and 3 w
 [DC-3](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6716330&GUID=436E328B-4D19-49FD-989C-389367AD86F0&Options=&Search=) is a liquor license for Alo's at 221 W. Liberty. This is the old Pizza Pino/Aroma space. Alo's is a project by Max Sussman of Pizza Replicator fame. It passed unanimously.
 
 [DC-4](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6725919&GUID=44346F5E-0E01-40F9-A143-882BFFA8701A&Options=&Search=) is a resolution to study a reparations program that would remediate historical injustices and discrimination flowing from the practice of slavery in the United States. It passed unanimously.
+
+The meeting opened with 1 introduction(s): [Ann Arbor Area Transportation Authority Update](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=311s) (`INT-1`).
+
+### Public Comment
+
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=559s)) — 5 speakers (1 no-show):
+1. [Teesha Montague](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=587s) (3m 18s)
+2. [Ralph Mckee](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=789s) (3m 07s)
+3. [Kathy Griswold](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=980s) (2m 58s)
+4. [Alan Haber](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=1162s) (3m 30s)
+5. Jennifer Heimberg (no-show)
+6. [Henry Herskovitz](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=1395s) (3m 30s)
+
+### Votes
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

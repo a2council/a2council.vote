@@ -25,11 +25,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+youtube_id: "0mQUS7yKvSA"
 ---
 
-Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141237&GUID=D829935B-65FC-47F0-AF06-05E74B934FCF&Options=&Search=).
+Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141237&GUID=D829935B-65FC-47F0-AF06-05E74B934FCF&Options=&Search=) and the [YouTube video](https://www.youtube.com/watch?v=0mQUS7yKvSA) of the meeting.
 
-Here's the [YouTube video](https://www.youtube.com/watch?v=0mQUS7yKvSA) of the meeting.
 
 The evening kicks off with a 26-item consent agenda. The first 4 items are all street closures. [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6647521&GUID=8548B812-119E-4F7B-81F8-83E9D51D100F&Options=&Search=) is for the Bicentennial Birthday Celebration. [CA-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6646479&GUID=51DA5F74-7A5F-4A2F-9F6C-B3079D2C0F28&Options=&Search=) is for Top of the Park. [CA-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6646481&GUID=0FF35578-21ED-4BB9-A25E-36A89CBBE112&Options=&Search=) is for the YMCA Community Block Party. And [CA-4](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6646480&GUID=A9E69763-D49F-4DE5-8C9D-CF1C12D410A2&Options=&Search=) is for Sonic Lunch. There is also [CA-12](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6643534&GUID=589304DF-5BE8-4CA1-89DC-FD64BC958D3A&Options=&Search=) which is a special assessment for closing the Stone School sidewalk gap. 
 
@@ -44,5 +44,49 @@ Finally we get to [PH-9](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6
 There is one ordinance first reading tonight. [C-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6647545&GUID=700F5EF6-6B74-4F90-B9B3-C1A2DFB373E2&Options=&Search=) is for the 732 Packard PUD. This is for a 14-story apartment between Packard and State.
 
 On to the resolutions. [DS-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6637918&GUID=0AEB7D44-414D-40C8-B1DC-0498FCCA3AE7&Options=&Search=) is a resolution authorize a summary publication of the Multimodal Transportation Impact Analysis. [DC-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6655739&GUID=87D05057-38B4-4BC0-B67B-CE3B2D129AC4&Options=&Search=) is a resolution to determine a ballot question for a charter amendment for the creation of a sustainable energy utility (SEU).
+
+The meeting opened with 1 introduction(s): [Independent Community Police Oversight Commission (ICPOC) Update](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=297s) (`INT-1`).
+
+### Public Comment
+
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=480s)) — 5 speakers:
+1. [Andrew Sugerman](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=516s) (3m 30s)
+2. [Adam Goodman](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=747s) (2m 58s)
+3. [Alex Lowe](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=929s) (3m 30s)
+5. [Michelle Hughes](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=1207s) (3m 18s)
+6. [Kathy Stroud](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=1409s) (3m 30s)
+
+**Public Hearing (`PH-1`: An Ordinance to Amend Sections 5.28.1.B, 5.29.8.A, 5.29.6 and 5.29.8 of)** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2015s)) — 17 speakers:
+1. [Hank Berry](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2020s) (0m 15s)
+2. [Ellen Ramsburgh](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2035s) (0m 15s)
+3. [Bradley Moore](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2050s) (0m 15s)
+4. [Jeff Hayner](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2065s) (0m 15s)
+5. [Eleanor Linn](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2080s) (0m 15s)
+6. [Kirk Westphal](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2095s) (0m 15s)
+7. [Vince Caruso](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2110s) (0m 15s)
+8. [Mark Scerbo](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2125s) (0m 15s)
+9. [Adam Goodman](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2140s) (0m 15s)
+10. [Alex Lowe](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2155s) (0m 15s)
+11. [Luiz Vazquez](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2170s) (0m 15s)
+12. [Michelle Hughes](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2185s) (0m 15s)
+13. [Greg Matthews](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2200s) (0m 15s)
+14. [Kitty Kahn](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2215s) (0m 15s)
+15. [SaraEllen Strongman](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2230s) (0m 15s)
+16. [Brandon Dimcheff](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2245s) (0m 15s)
+17. [Tom Stulberg](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2260s) (0m 15s)
+
+**Public Hearing (`PH-3`: Enactment No:)** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2128s)) — 4 speakers:
+1. [Chris Johnson](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2164s) (3m 30s)
+2. [Ellen Ramsburgh](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2476s) (0m 39s)
+3. [Alex Lowe](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2518s) (3m 30s)
+4. [Greg Matthews](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=4744s) (3m 30s)
+
+**Public Hearing (`PH-5`: An Ordinance to Amend Section 2:69 of Chapter 29 (Stormwater Rates) of)** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6436s)) — 4 speakers:
+1. [Jeff Hayner](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6441s) (2m 41s)
+2. [Brandon Dimcheff](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6605s) (1m 09s)
+3. [Alex Lowe](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6677s) (0m 53s)
+4. [Adam Jaskiewicz](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6733s) (0m 44s)
+
+### Votes
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

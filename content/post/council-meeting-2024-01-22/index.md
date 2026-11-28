@@ -25,11 +25,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+youtube_id: "fTdLRSb3lT8"
 ---
 
-Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1147230&GUID=F5664319-5B18-4098-8D6E-2D30B9FEF8B8&Options=&Search=). 
+Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1147230&GUID=F5664319-5B18-4098-8D6E-2D30B9FEF8B8&Options=&Search=) and the [YouTube video](https://www.youtube.com/watch?v=fTdLRSb3lT8) of the meeting. 
 
-Here's the [YouTube video](https://www.youtube.com/watch?v=fTdLRSb3lT8) of the meeting.
 
 The evening kicks off with an 8-item consent agenda. [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6476018&GUID=077D4167-842E-449B-9407-4BED3D5D4B7B&Options=&Search=) is the street closure for the Shamrocks & Shenanigans Run. Elsewhere in the consent agenda we have [CA-7](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6476046&GUID=76563B3C-0930-4AC4-B8B6-356C8174A018&Options=&Search=), the development agreement for the affordable housing project going in at 121 Catherine. 
 
@@ -38,5 +38,20 @@ There are 4 public hearings on the docket this evening. [PH-1/B-1](https://a2go
 There is one ordinance first reading on tonight's agenda. [C-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6476016&GUID=CB2F4676-CB8B-4E82-A17D-86C4C6F4457E&Options=&Search=) removes the requirement for a conflicting land use buffer between similar land use types. 
 
 Further down the agenda we get to the resolutions. [DC-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6483525&GUID=9FB7D8C8-A9F3-4E46-AA2C-1987A194015A&Options=&Search=) is a resolution to approve hiring Marua K. Thomas as the Executive Director of the DDA. [DC-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6483526&GUID=459DB91B-8657-478D-B892-F969BA591FFB&Options=&Search=) is a resolution to add Lubny (Лубни́) Ukraine as a sister city. [DS-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6476020&GUID=DD360E3E-0924-496F-B705-9FA7358C3601&Options=&Search=) and [DS-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6476021&GUID=487E63C5-DE40-4302-8EDB-DC36A371C255&Options=&Search=) are resolutions to publish the changes to the UDC from B-2 and B-3 respectively.
+
+The meeting opened with 1 introduction(s): [Downtown Development Authority (DDA) Update](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=243s) (`INT-1`).
+
+### Public Comment
+
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=719s)) — 7 speakers:
+1. [Luis Vazquez](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=749s) (3m 30s)
+3. [Alex Lowe](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1134s) (2m 55s)
+4. [Michelle Julet](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1313s) (3m 17s)
+5. [Jeff Hayner](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1514s) (3m 07s)
+6. [Peter Eckstein](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1705s) (0m 15s)
+7. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1709s) (3m 30s)
+8. [Blaine Coleman](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=2093s) (3m 30s)
+
+### Votes
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

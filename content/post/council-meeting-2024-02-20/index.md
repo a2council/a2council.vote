@@ -25,11 +25,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+youtube_id: "7Y00CIIktIU"
 ---
 
-Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141232&GUID=16540AE6-CE61-473A-BA09-7A98513BFE03&Options=&Search=). 
+Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141232&GUID=16540AE6-CE61-473A-BA09-7A98513BFE03&Options=&Search=) and the [YouTube video](https://www.youtube.com/watch?v=7Y00CIIktIU) of the meeting. 
 
-Here's the [YouTube video](https://www.youtube.com/watch?v=7Y00CIIktIU) of the meeting.
 
 The evening kicks off with a modest, 10-item consent agenda. Of note, [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6509126&GUID=99DD9915-A0C1-4A85-AD6D-454D6B2D47D0&Options=&Search=), $800k for gas-powered golf cart leases. [CA-6](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6509124&GUID=63E4F9A7-D2F9-477D-BFD1-EFF2F235C076&Options=&Search=) is $140,000 for a grant for the Pauline-Runnymede Path. And the E. Medical Center Drive returns in [CA-8](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6509125&GUID=55F89262-A18E-4527-802C-B08A334A3312&Options=&Search=).
 
@@ -38,5 +38,24 @@ There is one public hearing on the agenda tonight. [PH-1/B-1](https://a2gov.leg
 There is one ordinance first reading. [C-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6516922&GUID=DABF7458-A183-4F5A-A102-E77B6E06DF00&Options=&Search=&FullText=1) is on changes to the early leasing ordinance that prevents landlords from making renewal offers to current tenants earlier than 180 days from the start of the current lease; clarifies and adds to the list of required information that landlords must include in a written renewal offer, including a requirement that the landlord list all changes in the terms and conditions from the current lease; merges two sections into one to reduce duplicate and conflicting provisions; and modifies all deadlines and timing to be counted from the start of the lease instead of counted from the end of the lease for clarity.
 
 For resolutions, [DC-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6516295&GUID=2E43A248-B6F5-4AC5-B90C-F0D4281B3CB2&Options=&Search=) is for approving an agreement for legal services for help with acquisition of easements. [DC-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6516858&GUID=5BCC9E66-F4A8-454F-A81E-69C87EC0D770&Options=&Search=) is in support of strengthening the city of Ann Arbor's Fair Chance Hiring Practices. Finally [DS-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6516942&GUID=D3588E0B-1336-4FCE-91AF-85113EBB9852&Options=&Search=) is for publication of the ordinance changes from PH-1/B-1.
+
+The meeting opened with 1 introduction(s): [Ann Arbor Area Transportation Authority (AAATA) Update](https://www.youtube.com/watch?v=7Y00CIIktIU&t=287s) (`INT-1`).
+
+### Public Comment
+
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=7Y00CIIktIU&t=307s)) — 11 speakers:
+1. [Brian Donovan](https://www.youtube.com/watch?v=7Y00CIIktIU&t=660s) (3m 21s)
+2. [Adam Goodman](https://www.youtube.com/watch?v=7Y00CIIktIU&t=865s) (3m 11s)
+3. [James Nichols](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1060s) (3m 00s)
+4. [Alvin Poon](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1244s) (3m 07s)
+5. [Adam Grant](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1435s) (3m 30s)
+7. [Tom Stulberg](https://www.youtube.com/watch?v=7Y00CIIktIU&t=1809s) (3m 30s)
+8. [Henry Herskovitz](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2065s) (3m 06s)
+9. [Alex Zittleman](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2255s) (3m 19s)
+10. [Ralph McKee](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2458s) (3m 17s)
+11. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2659s) (3m 17s)
+12. [Blaine Coleman](https://www.youtube.com/watch?v=7Y00CIIktIU&t=2860s) (3m 30s)
+
+### Votes
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

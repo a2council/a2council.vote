@@ -25,10 +25,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+youtube_id: "EPNrNkZARmA"
 ---
 
-Here's the [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1141281&GUID=AAE1BCEF-0F5B-40E2-AED3-5DC8DD58107D). 
+Here's the [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1141281&GUID=AAE1BCEF-0F5B-40E2-AED3-5DC8DD58107D) and the [YouTube video](https://www.youtube.com/watch?v=EPNrNkZARmA) of the meeting.
 
-Here's the [YouTube video](https://www.youtube.com/watch?v=EPNrNkZARmA) of the meeting.
+The meeting opened with 2 introduction(s): [Independent Community Police Oversight Commission (ICPOC) Update](https://www.youtube.com/watch?v=EPNrNkZARmA&t=186s) (`INT-1`), [New City Flag in Recognition of 2024 Bicentennial](https://www.youtube.com/watch?v=EPNrNkZARmA&t=422s) (`INT-2`).
+
+### Public Comment
+
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=EPNrNkZARmA&t=643s)) — 2 speakers:
+1. [Kathy Griswold](https://www.youtube.com/watch?v=EPNrNkZARmA&t=671s) (3m 02s)
+2. [Asher Lopatin](https://www.youtube.com/watch?v=EPNrNkZARmA&t=857s) (3m 30s)
+
+**Public Hearing (`PH-2`: An Ordinance to Amend Section 5.10.2 of Chapter 55 (Unified)** ([start](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2631s)) — 3 speakers:
+1. [Luis Vasquez](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2636s) (0m 15s)
+2. [Brandon Dimcheff](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2651s) (0m 15s)
+3. [Adam Jaskiewicz](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2666s) (0m 15s)
+
+### Votes
+
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

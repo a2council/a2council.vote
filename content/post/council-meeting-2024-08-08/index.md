@@ -25,10 +25,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+youtube_id: "a0zF4ZovUSE"
 ---
 
-Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141279&GUID=EEF6DE3F-0874-4C20-B627-F53262B61E3F). 
+Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141279&GUID=EEF6DE3F-0874-4C20-B627-F53262B61E3F) and the [YouTube video](https://www.youtube.com/watch?v=a0zF4ZovUSE) of the meeting.
 
-Here's the [YouTube video](https://www.youtube.com/watch?v=a0zF4ZovUSE) of the meeting.
+### Public Comment
+
+**General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=380s)) — 9 speakers:
+1. [Rita Turner-Sheerin](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=411s) (2m 43s)
+2. [Eric Ivancich](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=578s) (3m 30s)
+4. [James Sheerin](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=930s) (1m 46s)
+5. [Rita Mitchell](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=1040s) (3m 02s)
+6. [Robert Stencel](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=1226s) (1m 52s)
+7. [Ralph Mckee](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=1342s) (2m 58s)
+8. [Kathy Griswold](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=1524s) (3m 04s)
+9. [Matthew Dreisbach](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=1712s) (2m 15s)
+10. [Evan Souliotis](https://www.youtube.com/watch?v=a0zF4ZovUSE&t=1851s) (3m 30s)
+
+### Votes
+
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

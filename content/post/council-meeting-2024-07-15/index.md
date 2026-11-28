@@ -25,10 +25,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+youtube_id: "JdpE0o47D3k"
 ---
 
-Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141278&GUID=AF5CC25D-96B1-49F9-8764-7F24381D0FFA). 
+Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141278&GUID=AF5CC25D-96B1-49F9-8764-7F24381D0FFA) and the [YouTube video](https://www.youtube.com/watch?v=JdpE0o47D3k) of the meeting.
 
-Here's the [YouTube video](https://www.youtube.com/watch?v=JdpE0o47D3k) of the meeting.
+### Votes
+
 
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}
