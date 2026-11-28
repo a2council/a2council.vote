@@ -57,8 +57,8 @@ The meeting opened with 2 introduction(s): [Ann Arbor Area Transportation Author
 11. [Greg Woodring](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4158s) (2m 01s)
 12. [John Walker](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4283s) (3m 30s)
 13. [Margaret Goodly](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4512s) (1m 56s)
-14. [James Osborn](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4632s) (0m 15s)
-15. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4636s) (3m 30s)
+14. [James Osborn](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4632s) (2m 57s)
+15. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4809s) (3m 05s)
 16. [Blaine Coleman](https://www.youtube.com/watch?v=YefVgCvuTVk&t=4999s) (3m 30s)
 
 ### Votes

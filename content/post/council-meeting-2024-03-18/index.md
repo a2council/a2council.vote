@@ -47,8 +47,8 @@ The meeting opened with 2 introduction(s): [Downtown Development Authority (DDA)
 4. [Simone Taylor](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=1762s) (2m 51s)
 5. [John Godfrey](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=1937s) (2m 55s)
 6. [Aaron Cooper](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2116s) (0m 59s)
-7. [Susan Hansen](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2179s) (0m 15s)
-8. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2183s) (3m 30s)
+7. [Susan Hansen](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2179s) (3m 06s)
+8. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2365s) (3m 24s)
 9. [Alan Haber](https://www.youtube.com/watch?v=g6PJwgHD7jc&t=2573s) (3m 30s)
 
 ### Votes

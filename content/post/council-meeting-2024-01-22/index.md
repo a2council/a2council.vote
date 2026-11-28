@@ -48,8 +48,8 @@ The meeting opened with 1 introduction(s): [Downtown Development Authority (DDA)
 3. [Alex Lowe](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1134s) (2m 55s)
 4. [Michelle Julet](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1313s) (3m 17s)
 5. [Jeff Hayner](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1514s) (3m 07s)
-6. [Peter Eckstein](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1705s) (0m 15s)
-7. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1709s) (3m 30s)
+6. [Peter Eckstein](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1705s) (2m 59s)
+7. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=1884s) (3m 25s)
 8. [Blaine Coleman](https://www.youtube.com/watch?v=fTdLRSb3lT8&t=2093s) (3m 30s)
 
 ### Votes
