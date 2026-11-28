@@ -38,10 +38,10 @@ The meeting opened with 2 introduction(s): [Independent Community Police Oversig
 1. [Kathy Griswold](https://www.youtube.com/watch?v=EPNrNkZARmA&t=671s) (3m 02s)
 2. [Asher Lopatin](https://www.youtube.com/watch?v=EPNrNkZARmA&t=857s) (3m 30s)
 
-**Public Hearing (`PH-2`: An Ordinance to Amend Section 5.10.2 of Chapter 55 (Unified)** ([start](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2631s)) — 3 speakers:
-1. [Luis Vasquez](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2636s) (0m 15s)
-2. [Brandon Dimcheff](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2651s) (0m 15s)
-3. [Adam Jaskiewicz](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2666s) (0m 15s)
+**Public Hearing (`PH-2`: An Ordinance to Amend Section 5.10.2 of Chapter 55 (Unified)** ([start](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2685s)) — 3 speakers:
+1. [Luis Vasquez](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2826s) (1m 22s)
+2. [Brandon Dimcheff](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2923s) (0m 37s)
+3. [Adam Jaskiewicz](https://www.youtube.com/watch?v=EPNrNkZARmA&t=2972s) (0m 49s)
 
 ### Votes
 
