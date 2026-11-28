@@ -57,7 +57,7 @@ The meeting opened with 1 introduction(s): [Independent Community Police Oversig
 5. [Michelle Hughes](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=1219s) (3m 07s)
 6. [Kathy Stroud](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=1416s) (3m 00s)
 
-**Public Hearing (`PH-2`: An Ordinance to Amend Chapter 55, 711 Church St. PUD)** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2140s)) — 22 speakers:
+**Public Hearing (`PH-2`: An Ordinance to Amend Chapter 55, 711 Church St. PUD)** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2140s)) — 23 speakers:
 1. [Mark Irwin (1321 Forest Ct.)](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2158s) (2m 32s)
 2. [Hank Berry](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2315s) (2m 30s)
 3. [Ellen Ramsburgh](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=2476s) (2m 48s)
@@ -68,8 +68,8 @@ The meeting opened with 1 introduction(s): [Independent Community Police Oversig
 8. [Teacher at Towsley School (Emily)](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=3221s) (2m 49s)
 9. [Parent at Towsley School (Dan)](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=3394s) (2m 57s)
 10. [Ward 3 resident (Eric)](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=3593s) (1m 05s)
-11. [Vince Caruso / Adam Jaskiewicz](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=3671s) (2m 40s)
-12. [Caller](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=3835s) (2m 56s)
+11. [Adam Jaskiewicz](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=3671s) (2m 19s)
+12. [Vince Caruso](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=3835s) (2m 56s)
 13. [Mark Scerbo](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=4024s) (1m 06s)
 14. [Adam Goodman](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=4107s) (3m 30s)
 15. [Alex Lowe](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=4321s) (2m 07s)
@@ -82,10 +82,18 @@ The meeting opened with 1 introduction(s): [Independent Community Police Oversig
 22. [Brandon Dimcheff](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=5244s) (0m 56s)
 23. [Tom Stulberg](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=5321s) (3m 21s)
 
-**Public Hearing (`PH-3`: 711 Church PUD Site Plan and Development Agreement)** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=5526s)) — 1 speaker:
-1. [Speaker](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=5535s) (3m 03s)
+**Public Hearing (`PH-3`: 711 Church PUD Site Plan and Development Agreement)** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=5526s)) — 6 speakers:
+1. [Emily (Towsley Children's House teacher)](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=5547s) (2m 52s)
+2. [Chris Johnson](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=5727s) (0m 52s)
+3. [Ellen Ramsburgh](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=5789s) (1m 15s)
+4. [Nate Blunt](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=5876s) (1m 07s)
+5. [Alex Lowe](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=5967s) (1m 40s)
+6. [Greg Matthews](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6142s) (0m 39s)
 
-**Public Hearing (`PH-5`: An Ordinance to Amend Section 2:69 of Chapter 29 (Stormwater Rates) of)** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6436s)) — 4 speakers:
+**Public Hearing (`PH-4`: An Ordinance to Amend Section 2:63 of Chapter 29 (Water Rates) (ORD-24-07))** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6196s)) — 1 speaker:
+1. [Jeff Hayner](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6215s) (3m 11s)
+
+**Public Hearing (`PH-5`: An Ordinance to Amend Section 2:69 of Chapter 29 (Stormwater Rates) (ORD-24-08))** ([start](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6436s)) — 4 speakers:
 1. [Jeff Hayner](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6441s) (2m 21s)
 2. [Brandon Dimcheff](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6605s) (1m 09s)
 3. [Alex Lowe](https://www.youtube.com/watch?v=0mQUS7yKvSA&t=6677s) (0m 53s)
