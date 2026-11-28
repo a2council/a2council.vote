@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141231&GUID=181C1BAF-EFAE-4F78-9B9C-CA9142D298C7&Options=&Search=).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=Dt3TsAPXKk0) of the meeting.
+
 The evening kicks off with a modest, 12-item consent agenda. Of note, [CA-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6495939&GUID=336BA872-01E5-4AF4-964E-EA0A6E303930&Options=&Search=), $534k for golf course equipment.
 
 There are two public hearings on the docket this evening. [PH-1/DS-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6495943&GUID=D27032FE-8CB8-41CF-8070-A1C01BFB655E&Options=&Search=) is a resolution to approve fees for the Fire Department ambulance transport and lift assists. [PH-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6496034&GUID=1ADFAFEF-67BC-4FAA-BDC8-5B17F8469D2B&Options=&Search=) is for the Stone School Road Sidewalk Special Assessment. There are no ordinance first readings tonight.

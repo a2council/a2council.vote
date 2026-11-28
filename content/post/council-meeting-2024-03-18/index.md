@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141234&GUID=C2088826-7FE4-4736-A98B-17F0A870AF85&Options=info|&Search=). 
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=g6PJwgHD7jc) of the meeting.
+
 The evening kicks off with an 8-item consent agenda. Of note, [CA-5](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6566277&GUID=FAC779FF-C542-4A2A-8496-2945A02BA592&Options=&Search=) and [CA-6](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6566277&GUID=FAC779FF-C542-4A2A-8496-2945A02BA592&Options=&Search=) which combine to be just under $1 million for sidewalk repair and cutting. [CA-7](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6568175&GUID=7C6DE278-C9DD-47FD-AEBF-31BD0B4A47F9&Options=&Search=) is a $1,000,000 grant from the Michigan Economic Development Corporation for the splash pad at Bicentennial Park. [CA-8](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6566275&GUID=D204042C-7E2F-479F-AFBB-177EADD08AC2&Options=&Search=) is for the sale of 123 W. Summit (formerly part of 721 N. Main) to the Ann Arbor Housing Development Corporation for affordable housing.
 
 There is one public hearing on the agenda tonight. [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6551472&GUID=4D77DEE9-94F7-42DA-B405-3018DC6F9078&Options=&Search=) is the second reading of changes to the greenbelt rules.

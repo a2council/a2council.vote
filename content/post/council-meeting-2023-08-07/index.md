@@ -28,6 +28,8 @@ projects: []
 ---
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062178&GUID=B8648D38-14BD-483C-AB0A-8A1C5F526088&Options=&Search=).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=OdWTqtEnrds) of the meeting.
+
 The evening kicks off with a 21-item consent agenda. This meeting continues the new tradition of placing street closures at the end of the agenda, with [CA-21](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6300202&GUID=9AFB3BAE-38E1-49CD-9799-1CD0C3DFF11E&Options=&Search=), a street closure for the Go Blue Mix, Sept. 2. 
 
 There is one public hearing on the docket this evening. [PH-1/B-1](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062178&GUID=B8648D38-14BD-483C-AB0A-8A1C5F526088&Options=&Search=) is on changes to Transportation Commission. Specifically, it's a resolution that changes the rule that only seat on the commission be reserved for someone who owns a transportation business. This seat has been extremely difficult to fill and has been vacant since Jim of HEH chose not to be reappointed.

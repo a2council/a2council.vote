@@ -30,6 +30,8 @@ projects: []
 
 Here's the [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1141274&GUID=F154CBCB-300C-4AA0-B298-9F0E9AA17F4B&Options=info%7c&Search=).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=oEAiGd1wvuM) of the meeting.
+
 The Consent Agenda had 11 items, 9 of which were street closings for events. The other two were [CA-10](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6662045&GUID=716FC0A1-E8BC-4794-99DB-B3D15A26E4AA&Options=&Search=), an a millage grant agreement between the city and the Ann Arbor Housing Development Corporation, and [CA-11](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6664729&GUID=3C886C59-6B42-4EF6-BCA6-F095AD96F47B&Options=&Search=), the ADA transition plan for making city parks more accessible. All were approved unanimously.
 
 There was one ordinance at second reading: [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6609242&GUID=DA6C2012-6579-4C92-BD1E-C141B46BDCF9&Options=&Search=) was a simple annexation of a two-lot township island.

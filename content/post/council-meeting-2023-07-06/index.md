@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062176&GUID=56E9F3C2-EADA-444D-A032-83787ECDB03A&Options=&Search=).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=jo6xEssKmoM) of the meeting.
+
 There are 20 items on the consent agenda. We've got one street closure: [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6267518&GUID=1449BB1D-AB59-4D8A-AE2A-9E21C0E4685A&Options=&Search=) the Make your Mark event on July 18.
 
 There are two public hearings on the agenda this evening. [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6262484&GUID=CAD21C07-930B-445C-953B-0DA6F94E0E5E&Options=&Search=) is for the second reading of the driving equity ordinance. [PH-2/B-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6263972&GUID=045A17DE-5DA6-4761-B2A8-D111E4E200BE&Options=&Search=) is for the second reading of the ordinance to allow people to put free items on the curb for 48h.

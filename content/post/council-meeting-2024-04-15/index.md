@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141236&GUID=45D6C613-7D4A-4BE7-9F06-667BDE2B91D2&Options=&Search=). 
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=YefVgCvuTVk) of the meeting.
+
 The evening kicks off with the Administrator's proposed 2025 [budget](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6610021&GUID=62199D56-014A-40F1-B207-370A3E9A32B5&Options=&Search=) presentation. 
 
 After that we come to a 5-item consent agenda. Of note, [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6609244&GUID=C32312EB-1399-48CA-B84F-38367757FD3C&Options=&Search=) a street closing for the 2024 Glacier Highlands Neighborhood Association annual Memorial Day Parade.

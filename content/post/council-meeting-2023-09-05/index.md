@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062180&GUID=5D95AE16-32E0-4256-A9A9-1F9D311ABF33&Options=&Search=). 
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=Tq3ej-caliM) of the meeting.
+
 The evening starts off with an 11-item consent agenda. Just one street closing. [C-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6324009&GUID=E2B0B85A-3215-42E7-9526-4CD548BBA2AC&Options=&Search=) is for Little Amal - The Walk on Saturday, September 23. 
 
 There are seven public hearings. [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6300535&GUID=63B41C04-F68A-4B18-9E57-0F1FEB13B1DF&Options=&Search=) is to allow specific automobile-related uses in TC-1. [PH-2/B-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6312254&GUID=993AB8D9-89B1-439D-B337-892E927BE486&Options=&Search=) is for the second reading of an ordinance to require home energy rating disclosure. [PH-3/B-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6312254&GUID=993AB8D9-89B1-439D-B337-892E927BE486&Options=&Search=) is on the second reading of an ordinance to allow Cannabis micro-businesses.

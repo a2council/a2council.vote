@@ -29,4 +29,6 @@ projects: []
 
 Today's [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=914281&GUID=230B029C-16EF-4AC8-A329-F3B6A29DA48A&Options=&Search=) has several items of interest, including Transit Corridor zoning on West Stadium, a couple of consent agenda items, Right to Renew second reading and public hearing, a proposal to make Ann Arbor elections nonpartisan, and a return of the postponed No Turn on Red downtown.
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=an6Y2KS6nUI) of the meeting.
+
 {{< voting_chart path="chart.csv" header="true" caption="Voting Chart" >}}

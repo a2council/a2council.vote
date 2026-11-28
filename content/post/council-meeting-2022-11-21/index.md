@@ -29,6 +29,8 @@ projects: []
 
 Today's [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=914284&GUID=3BFD1492-8C98-4D71-B4ED-9B3DC4952A34&Options=info|&Search=) is short. It's also the first meeting with incoming CMs Harrison, Watson, Ghazi Edwin, Akmon, and Cornell.
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=kgF6LlWXgTw) of the meeting.
+
 * CA-1, a resolution to close streets for Kindlefest was pulled due to Kindlefest not needing street closures.
 * A resolution to [elect](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5936166&GUID=1AF742E6-D747-474B-B41A-9CB700167056&Options=&Search=) CM Radina Mayor Pro Tem.
 * There is a public hearing for a minor text change to update dates on the [sidewalk maintenance ordinance](http://a2gov.legistar.com/View.ashx?M=F&ID=11413632&GUID=551B773A-78E0-4D0C-ABCB-D4E4FE67E614).

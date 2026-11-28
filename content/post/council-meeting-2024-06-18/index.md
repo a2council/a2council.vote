@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1141276&GUID=8A63AB9A-1230-422D-B976-3D95BE614497&Options=info%7c&Search=).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=MWj5B5ZKGxY) of the meeting.
+
 There were 28 items on the consent agenda. [CA-5](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6717071&GUID=C1ADDC71-22A3-408E-B890-FE22E57DB99E&Options=&Search=) was pulled for Jennifer Hall of the Housing Commission to [explain](https://www.youtube.com/live/MWj5B5ZKGxY?si=9Zc7Ug4ZkfldZjJ0&t=2024) the [changes](http://a2gov.legistar.com/View.ashx?M=F&ID=13008353&GUID=B1D47500-4EBF-4DD2-849F-6EF716A2B6EF) proposed to the Affordable Housing Fund. All consent agenda items were approved unanimously.
 
 There were three public hearings on small township annexations. DB-1, 2, and 3 were the corresponding council actions, approved unanimously. Only one person spoke, and it was to ask why the city is annexing [444 Huntington Place](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6716326&GUID=ED3160C9-E9DF-4177-953C-02DE0DDEABCC&Options=&Search=).

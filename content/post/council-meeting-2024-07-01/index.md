@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141277&GUID=914AAFC9-65C9-4E9B-8CE0-C2B441CB71F5&Options=&Search=). 
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=IP4uaH2Vtsk) of the meeting.
+
 The meeting kicks off with a 19-item consent agenda. [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6728600&GUID=C5B0836A-8465-4AF8-B541-24DF70F27492&Options=&Search=), [CA-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6728601&GUID=FA86E163-2132-4E1A-BC4B-D137A975A53F&Options=&Search=), [CA-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6730614&GUID=B665277E-CDBE-4F82-AAD5-50C88E55AE22&Options=&Search=), and [CA-4](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6730615&GUID=14247CCC-E5D4-4056-B6B0-7CA24A0B9D86&Options=&Search=) are all street closures for Firefighter Spray Park in the District, Sonic Lunches, Student Move-In, and UM Football Games. 
 
 There were also a 4 conservation easements in items [CA-15](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6730606&GUID=F609969F-AF09-48CE-B64A-113A17B9C908&Options=&Search=), [CA-16](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6730607&GUID=E2C4DDE8-7B50-4BCE-AFC5-9AA399A9CAD5&Options=&Search=), [CA-17](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6730608&GUID=F9F09F2D-F1FD-46AD-A65F-7B8CBD876872&Options=&Search=), and [CA-18](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6730612&GUID=A518B698-A27F-4B5D-B276-56AB6616FCB6&Options=&Search=).

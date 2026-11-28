@@ -28,6 +28,8 @@ projects: []
 ---
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062171&GUID=CA414ADD-66B8-48BE-9373-6DCAFA7EECC3&Options=info%7C&Search=).
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=oaYHCuOpXPg) of the meeting.
+
 Even before we get to the consent agenda, there is a report that may be of interest. [AC-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6167729&GUID=11070037-B403-412C-924A-25A28D3DB13D&Options=&Search=) is the response to resolution R-22-362. This is a report from the Administrator on the viability of food trucks at the Library Lot.
 
 On to the consent agenda. [CA-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6122680&GUID=8CA6F98C-22B0-43D8-8B82-7FC8B84476D3&Options=&Search=), [CA-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6122679&GUID=4941E38C-154C-48AD-BBC5-182D9408260D&Options=&Search=), and [CA-3](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6122690&GUID=DA669741-01A6-48AC-A7DB-4C138AE3CF2A&Options=&Search=) are street closures for Top of the Park, Sonic Lunch, and the ALLIANCE Opening Ceremony Dinner, respectively. There is also [CA-14](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6124799&GUID=9D65CC3D-0D29-4EC8-84E5-085A0325CB33&Options=&Search=), a resolution with Interface Studios for services related to rewriting Ann Arbor's Comprehensive Plan. 

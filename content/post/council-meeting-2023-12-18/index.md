@@ -29,6 +29,8 @@ projects: []
 
 Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062187&GUID=2E465431-BA69-45E6-99B2-2D5F86AE77CB&Options=&Search=). 
 
+Here's the [YouTube video](https://www.youtube.com/watch?v=NdtAHyM55vs) of the meeting.
+
 The evening kicks off with an 18-item consent agenda. Of note is [CA-4](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6444762&GUID=1EC59CF4-13FF-4E71-8FAC-9B2264C80CB5&Options=&Search=), the contract for the Barton portion of the Border to Border trail.
 
 There are three public hearings on the docket tonight. [PH-1/B-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6417563&GUID=635BB369-5818-44FE-ABB3-74524A3B9E09&Options=&Search=) is the second reading of the leaf blower ordinance. [PH-2/B-2](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6411032&GUID=DBA62C82-1E39-47FF-B5FC-EA982134213D&Options=&Search=) is the second reading of an ordinance to annex 5.9 acres from Ann Arbor Township at 2520 and 2540 Pontiac Trail to R4A. [PH-3/DB-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6444759&GUID=296D8141-5CE6-4380-BF42-BBD093DE86E1&Options=&Search=) is a resolution approving the Village of Ann Arbor site plan on the annexed land. This project at 1710 Dhu Varren Road will have 604 units across 78.5 acres.
