@@ -47,8 +47,8 @@ The meeting opened with 1 introduction(s): [Proclamation Welcoming Visitors from
 11. [Kathy Griswold](https://www.youtube.com/watch?v=1_DH-IaTK2M&t=2941s) (3m 30s)
 
 **Public Hearing (`PH-1`: An Ordinance to Amend Sections 5.20.3 of Chapter 55 (Unified)** ([start](https://www.youtube.com/watch?v=1_DH-IaTK2M&t=3586s)) — 2 speakers:
-1. [Ken Garber](https://www.youtube.com/watch?v=1_DH-IaTK2M&t=3591s) (0m 15s)
-2. [Alex Lowe](https://www.youtube.com/watch?v=1_DH-IaTK2M&t=3606s) (0m 46s)
+1. [Ken Garber](https://www.youtube.com/watch?v=1_DH-IaTK2M&t=3665s) (2m 45s)
+2. [Alex Lowe](https://www.youtube.com/watch?v=1_DH-IaTK2M&t=3849s) (0m 52s)
 
 ### Votes
 
