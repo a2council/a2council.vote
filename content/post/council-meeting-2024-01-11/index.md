@@ -47,7 +47,7 @@ There are five resolutions. [DC-1](http://a2gov.legistar.com/LegislationDetail.
 3. [Liz Kennedy](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1045s) (3m 02s)
 4. [Joshua Hedgecock](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1230s) (3m 24s)
 5. [Dwight Wilson](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1438s) (2m 55s)
-6. Humera Kahtri (no-show)
+6. [Humera Kahtri](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1613s) (no-show)
 7. [Barry Dunietz](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1684s) (3m 07s)
 8. [Alan Haber](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=1885s) (3m 21s)
 9. [Jennifer Heimberg](https://www.youtube.com/watch?v=VrhfeJ0wjhE&t=2090s) (3m 21s)

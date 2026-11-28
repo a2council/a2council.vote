@@ -52,7 +52,7 @@ The meeting opened with 1 introduction(s): [Ann Arbor Area Transportation Author
 2. [Ralph Mckee](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=789s) (3m 07s)
 3. [Kathy Griswold](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=980s) (2m 58s)
 4. [Alan Haber](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=1162s) (3m 30s)
-5. Jennifer Heimberg (no-show)
+5. [Jennifer Heimberg](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=1366s) (no-show)
 6. [Henry Herskovitz](https://www.youtube.com/watch?v=MWj5B5ZKGxY&t=1395s) (3m 30s)
 
 ### Votes

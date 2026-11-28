@@ -46,7 +46,7 @@ The meeting opened with 1 introduction(s): [Independent Community Police Oversig
 **General Public Comment (Reserved Time)** ([start](https://www.youtube.com/watch?v=-HUnjluKjgQ&t=911s)) — 6 speakers (1 no-show):
 1. [Peter Houk](https://www.youtube.com/watch?v=-HUnjluKjgQ&t=915s) (2m 31s)
 2. [Alan Haber](https://www.youtube.com/watch?v=-HUnjluKjgQ&t=1070s) (3m 30s)
-3. Valerie Snowdon (no-show)
+3. [Valerie Snowdon](https://www.youtube.com/watch?v=-HUnjluKjgQ&t=1280s) (no-show)
 4. [Kirk Westphal](https://www.youtube.com/watch?v=-HUnjluKjgQ&t=1284s) (3m 30s)
 5. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=-HUnjluKjgQ&t=1498s) (3m 30s)
 6. [Kathy Griswold](https://www.youtube.com/watch?v=-HUnjluKjgQ&t=1739s) (2m 51s)
