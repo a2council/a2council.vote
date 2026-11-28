@@ -36,15 +36,15 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10688&GI
 
 There were no public hearings on the agenda.
 
-**General Public Comment** ([start](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3022s)):
-1. [John Moran](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3227s)
-2. [Chuck Loucks](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3466s)
-3. [Zachary Storey](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3510s)
-4. [Luis Vasquez](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3720s)
-5. [Jamie Magiera](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3820s)
-6. [Joe Spaulding](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=4000s)
-7. [Eric Sturgis](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=4026s)
-8. [Rita Mitchell](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3252s)
+**General Public Comment** ([start](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3151s)):
+1. [John Moran](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3240s) (3m 39s)
+2. [Chuck Loucks](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3477s) (0m 45s)
+3. [Zachary Storey](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3530s) (3m 19s)
+4. [Luis Vasquez](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3739s) (1m 38s)
+5. [Jamie Magiera](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=3847s) (2m 42s)
+6. [Joe Spaulding](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=4018s) (0m 23s)
+7. [Eric Sturgis](https://www.youtube.com/watch?v=Y6-VahOgmvU&t=4048s) (1m 47s)
+8. Rita Mitchell
 
 ### Votes
 

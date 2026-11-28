@@ -32,20 +32,20 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10267&GI
 
 ### Public Comment
 
-**Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=jLaydAzelpo&t=194s)):
-1. [Tim Hull](https://www.youtube.com/watch?v=jLaydAzelpo&t=531s) (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-2)*)
-2. [Kai Petainen](https://www.youtube.com/watch?v=jLaydAzelpo&t=685s) (*Resolution Recognizing Eppie Potts (DC-5)*)
-3. [Alan Haber](https://www.youtube.com/watch?v=jLaydAzelpo&t=829s) (*Virtual Earth Day Week & Community Commons*)
-4. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=jLaydAzelpo&t=1044s) (*Fight for $15.00 Minimum Wage- Vote for the Doctor*)
-5. [Blaine Coleman](https://www.youtube.com/watch?v=jLaydAzelpo&t=1250s) (*PhD Savabieasfahani City Council Campaign- Vote for the Doctor.com*)
+**Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=jLaydAzelpo&t=205s)):
+1. [Tim Hull](https://www.youtube.com/watch?v=jLaydAzelpo&t=579s) (2m 36s) (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-2)*)
+2. [Kai Petainen](https://www.youtube.com/watch?v=jLaydAzelpo&t=746s) (1m 29s) (*Resolution Recognizing Eppie Potts (DC-5)*)
+3. [Alan Haber](https://www.youtube.com/watch?v=jLaydAzelpo&t=841s) (3m 48s) (*Virtual Earth Day Week & Community Commons*)
+4. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=jLaydAzelpo&t=1069s) (3m 07s) (*Fight for $15.00 Minimum Wage- Vote for the Doctor*)
+5. [Blaine Coleman](https://www.youtube.com/watch?v=jLaydAzelpo&t=1263s) (3m 11s) (*PhD Savabieasfahani City Council Campaign- Vote for the Doctor.com*)
 
-### Public Hearings ([start](https://www.youtube.com/watch?v=jLaydAzelpo&t=3156s))
+### Public Hearings ([start](https://www.youtube.com/watch?v=jLaydAzelpo&t=3169s))
 
-**[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4336737&GUID=4C9AAA21-C441-4119-8D58-9B8CCE759A39&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Chapter 55 (Ann Arbor Unified Development Code), Rezoning of 0.6 Acre from C2B (Business Service District) to C3 (Fringe Commercial District), MSGCU Rezoning, 2151 West Stadium Boulevard (CPC Recommendation: Approval - 6 Yeas and 0 Nays) (Ordinance No. ORD-20-04)** ([start](https://www.youtube.com/watch?v=jLaydAzelpo&t=6034s)):
-1. [Ed Vielmetti](https://www.youtube.com/watch?v=jLaydAzelpo&t=9212s)
+**[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4336737&GUID=4C9AAA21-C441-4119-8D58-9B8CCE759A39&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Chapter 55 (Ann Arbor Unified Development Code), Rezoning of 0.6 Acre from C2B (Business Service District) to C3 (Fringe Commercial District), MSGCU Rezoning, 2151 West Stadium Boulevard (CPC Recommendation: Approval - 6 Yeas and 0 Nays) (Ordinance No. ORD-20-04)** ([start](https://www.youtube.com/watch?v=jLaydAzelpo&t=9183s)):
+1. [Ed Vielmetti](https://www.youtube.com/watch?v=jLaydAzelpo&t=9325s) (0m 55s)
 
-**General Public Comment** ([start](https://www.youtube.com/watch?v=jLaydAzelpo&t=18275s)):
-1. [Jaime Magiera](https://www.youtube.com/watch?v=jLaydAzelpo&t=18346s)
+**General Public Comment** ([start](https://www.youtube.com/watch?v=jLaydAzelpo&t=18286s)):
+1. [Jaime Magiera](https://www.youtube.com/watch?v=jLaydAzelpo&t=18563s) (0m 39s)
 
 ### Votes
 

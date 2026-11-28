@@ -32,27 +32,27 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10282&GI
 
 ### Public Comment
 
-**Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1375s)):
-1. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1450s) (*Resolution Accepting the Results of the 2020 November Elections and Recognizing President-elect Joseph Biden and Vice President-elect Kamala Harris (DC-3)*)
-2. [Blaine Coleman](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1683s) (*Resolution Accepting the Results of the 2020 November Elections and Recognizing President-elect Joseph Biden and Vice President-elect Kamala Harris (DC-3)*)
-3. [Glen Nelson](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1885s) (*Resolution to Accept and Appropriate Michigan Supreme Court State Court Administrative Office Mental Health Court Grant Award and Approve Grant Contract (CA-5)*)
-4. [Tom Stulberg](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=2160s) (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-2)*)
-5. [Ralph McKee](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=2379s) (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-2) and Resolution Directing the Planning Commission to Study and Update the South State Street Corridor Plan (DC-4)*)
-6. [Michelle Hughes](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=2554s) (*Resolution to Approve the Purchase of Police Vehicles from Signature Ford (CA-6)*)
+**Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1393s)):
+1. [Mozhgan Savabieasfahani](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1500s) (3m 15s) (*Resolution Accepting the Results of the 2020 November Elections and Recognizing President-elect Joseph Biden and Vice President-elect Kamala Harris (DC-3)*)
+2. [Blaine Coleman](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1709s) (3m 03s) (*Resolution Accepting the Results of the 2020 November Elections and Recognizing President-elect Joseph Biden and Vice President-elect Kamala Harris (DC-3)*)
+3. [Glen Nelson](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=1944s) (1m 43s) (*Resolution to Accept and Appropriate Michigan Supreme Court State Court Administrative Office Mental Health Court Grant Award and Approve Grant Contract (CA-5)*)
+4. [Tom Stulberg](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=2181s) (3m 23s) (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-2)*)
+5. [Ralph McKee](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=2404s) (2m 42s) (*Resolution Directing the Planning Commission to Create a Transit Supported Development District (DC-2) and Resolution Directing the Planning Commission to Study and Update the South State Street Corridor Plan (DC-4)*)
+6. [Michelle Hughes](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=2585s) (3m 06s) (*Resolution to Approve the Purchase of Police Vehicles from Signature Ford (CA-6)*)
 
 ### Public Hearings
 
 There were no public hearings on the agenda.
 
-**General Public Comment** ([start](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=13613s)):
-1. [Ralph McKee](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=13686s)
-2. [Joe Spaulding](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=13853s)
-3. [Kai Petainen](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14018s)
-4. [Edward Vielmetti](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=13723s)
-5. [Zachary Storey](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14269s)
-6. [Alan Haber](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14511s)
-7. [Michelle Hughes](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14675s)
-8. [Eric Sturgis](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14744s)
+**General Public Comment** ([start](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=13629s)):
+1. [Ralph McKee](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=13708s) (2m 31s)
+2. [Joe Spaulding](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=13874s) (2m 32s)
+3. [Kai Petainen](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14040s) (1m 57s)
+4. [Edward Vielmetti](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14182s) (1m 41s)
+5. [Zachary Storey](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14302s) (2m 13s)
+6. [Alan Haber](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14438s) (1m 18s)
+7. [Michelle Hughes](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14696s) (2m 45s)
+8. [Eric Sturgis](https://www.youtube.com/watch?v=iYpwXjIaGHA&t=14532s) (2m 25s)
 
 ### Votes
 

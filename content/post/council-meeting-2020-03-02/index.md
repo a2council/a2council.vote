@@ -48,8 +48,7 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10265&GI
 **[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4336745&GUID=9ECC51B2-8617-471E-BD66-911A3649AA89&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): Resolution to Approve The Standard at Ann Arbor Site Plan and Development Agreement at 405 South Main Street (CPC Recommendation: Approval - 9 Yeas and 0 Nays)**:
 1. Ethel Potts
 2. Ralph McKee
-3. The architect
-4. Adam Oxner
+3. Adam Oxner
 
 **[`PH-2`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4324288&GUID=1219DD42-CF39-48E4-B9A3-C6114F116467&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): Resolution to Approve the Lohmann Annexation, 1.52 Acres, 2511 Newport Road (CPC Recommendation: Approval - 9 Yeas and 0 Nays)** — No speakers.
 

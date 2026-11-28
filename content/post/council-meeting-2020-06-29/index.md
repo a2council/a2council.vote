@@ -36,9 +36,9 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10660&GI
 
 There were no public hearings on the agenda.
 
-**General Public Comment** ([start](https://www.youtube.com/watch?v=BGwTDMReV0Q&t=354s)):
-1. [Joe Spalding](https://www.youtube.com/watch?v=BGwTDMReV0Q&t=457s)
-2. [Tom Stulberg](https://www.youtube.com/watch?v=BGwTDMReV0Q&t=671s)
+**General Public Comment** ([start](https://www.youtube.com/watch?v=BGwTDMReV0Q&t=374s)):
+1. [Joe Spalding](https://www.youtube.com/watch?v=BGwTDMReV0Q&t=476s) (3m 22s)
+2. [Tom Stulberg](https://www.youtube.com/watch?v=BGwTDMReV0Q&t=690s) (0m 31s)
 
 ### Votes
 

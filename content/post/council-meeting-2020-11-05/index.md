@@ -32,26 +32,26 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10281&GI
 
 ### Public Comment
 
-**Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1271s)):
+**Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1287s)):
 1. Dan Bicknell (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” (DC-4)*) (not present)
-2. [Rita Mitchell](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1351s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
-3. [Ralph McKee](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1565s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
+2. [Rita Mitchell](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1402s) (2m 51s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
+3. [Ralph McKee](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1590s) (2m 57s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
 4. Vince Caruso (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*) (not present)
-5. [Kathy Boris](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1763s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
-6. [Tom Stulberg](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1842s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
-7. [James D'Amour](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=2060s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
-8. [Allison Buck](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=2310s) (*Resolution to Approve an Amendment to the Bylaws of the Ann Arbor Public Art Commission - DC-3*)
-9. [Michelle Hughes](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=2487s) (*Resolution Regarding Traffic Calming Process - DC-2*)
+5. [Kathy Boris](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=2766s) (3m 27s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
+6. [Tom Stulberg](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=1877s) (3m 13s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
+7. [James D'Amour](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=2128s) (3m 07s) (*Reconsideration of Vote to Defeat 19-1887, the “Resolution Supporting the Environmental Protection Agency’s Active Involvement with the Gelman Site and Encouraging its Listing of the same as a “Superfund” Site” - DC-4*)
+8. [Allison Buck](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=2339s) (2m 35s) (*Resolution to Approve an Amendment to the Bylaws of the Ann Arbor Public Art Commission - DC-3*)
+9. [Michelle Hughes](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=2506s) (2m 31s) (*Resolution Regarding Traffic Calming Process - DC-2*)
 10. John Floyd -Voter Suppression (not present)
 
 ### Public Hearings
 
 There were no public hearings on the agenda.
 
-**General Public Comment** ([start](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=15768s)):
-1. [John Floyd](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=15841s)
-2. [Ralph McKee](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=16024s)
-3. [Linda Berauer, City resident](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=16171s)
+**General Public Comment** ([start](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=15784s)):
+1. [John Floyd](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=15876s) (2m 41s)
+2. [Ralph McKee](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=16054s) (1m 59s)
+3. [Linda Berauer, City resident](https://www.youtube.com/watch?v=Plh6WpVQB0k&t=16195s) (1m 18s)
 
 ### Votes
 

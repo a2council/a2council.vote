@@ -32,38 +32,38 @@ Here's the [agenda](https://a2gov.legistar.com/MeetingDetail.aspx?LEGID=10284&GI
 
 ### Public Comment
 
-**Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=329s)):
-1. [Carol Skala](https://www.youtube.com/watch?v=-mH0rCiwGls&t=448s) (*Short-term Rentals (DC-1)*)
-2. [Heidi Poscher](https://www.youtube.com/watch?v=-mH0rCiwGls&t=573s) (*Short-term Rentals (DC-1)*)
-3. [Katie Dortch](https://www.youtube.com/watch?v=-mH0rCiwGls&t=685s) (*Short-term Rentals (DC-1)*)
-4. [Lola Adefesa](https://www.youtube.com/watch?v=-mH0rCiwGls&t=851s) (*Short-term Rentals (DC-1)*)
-5. [Molly Kleinman](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1045s) (*Packard Zoning (C-4)*)
+**Public Commentary (Reserved Time)** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=349s)):
+1. [Carol Skala](https://www.youtube.com/watch?v=-mH0rCiwGls&t=461s) (2m 05s) (*Short-term Rentals (DC-1)*)
+2. [Heidi Poscher](https://www.youtube.com/watch?v=-mH0rCiwGls&t=609s) (1m 29s) (*Short-term Rentals (DC-1)*)
+3. [Katie Dortch](https://www.youtube.com/watch?v=-mH0rCiwGls&t=718s) (2m 22s) (*Short-term Rentals (DC-1)*)
+4. [Lola Adefesa](https://www.youtube.com/watch?v=-mH0rCiwGls&t=883s) (2m 53s) (*Short-term Rentals (DC-1)*)
+5. [Molly Kleinman](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1075s) (1m 34s) (*Packard Zoning (C-4)*)
 6. Aijo K. Pipho (*Lockwood Development (C-3)*) (not present)
-7. [Jean Leverch](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1237s) (*Lockwood Development (C-3)*)
-8. [Susan Baskett](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1305s) (*Lockwood Development (C-3)*)
-9. [Adam Oxner](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1563s) (*Axon Purchase (CA-9)*)
-10. [Adam Goodman](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1691s) (*Adoption of Council Rules (DC-2)*)
+7. [Jean Leverch](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1254s) (1m 46s) (*Lockwood Development (C-3)*)
+8. [Susan Baskett](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1378s) (3m 14s) (*Lockwood Development (C-3)*)
+9. [Adam Oxner](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1592s) (1m 44s) (*Axon Purchase (CA-9)*)
+10. [Adam Goodman](https://www.youtube.com/watch?v=-mH0rCiwGls&t=1713s) (3m 52s) (*Adoption of Council Rules (DC-2)*)
 
-### Public Hearings ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=5857s))
+### Public Hearings ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=5866s))
 
-**[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4686036&GUID=3E109B18-1DA8-4234-9E36-7380822AAACC&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Sections 5.16.6 and 5.18.4 of Chapter 55 (Unified Development Code) of Title V of the Code of the City of Ann Arbor (Solar Energy Systems; Exceptions to Height Limits)** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6014s)) — No speakers.
+**[`PH-1`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4686036&GUID=3E109B18-1DA8-4234-9E36-7380822AAACC&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Sections 5.16.6 and 5.18.4 of Chapter 55 (Unified Development Code) of Title V of the Code of the City of Ann Arbor (Solar Energy Systems; Exceptions to Height Limits)** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=5953s)) — No speakers.
 
-**[`PH-2`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4702765&GUID=95B6B355-6908-46A4-A49B-8ADC6382A1F1&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Section 2:63 of Chapter 29 (Water Rates) of Title II of the Code of the City of Ann Arbor (ORD-20-32)** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6014s)):
-1. [Ralph McKee](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6024s)
-2. [Kitty Kahn](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6168s)
-3. [Kathy Boris](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6280s)
-4. [Joseph Spaulding](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6467s)
-5. [A Ward 4 resident](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6531s)
-6. [Eric Sturgis](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6607s)
-7. [A Ward 2 resident](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6649s)
+**[`PH-2`](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4702765&GUID=95B6B355-6908-46A4-A49B-8ADC6382A1F1&G=505481FE-B2ED-4B34-9A92-FDB26536D1E1&Options=&Search=): An Ordinance to Amend Section 2:63 of Chapter 29 (Water Rates) of Title II of the Code of the City of Ann Arbor (ORD-20-32)** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6009s)):
+1. [Ralph McKee](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6035s) (2m 23s)
+2. [Kitty Kahn](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6201s) (1m 24s)
+3. [Kathy Boris](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6304s) (2m 48s)
+4. [Joseph Spaulding](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6492s) (0m 41s)
+5. [A Ward 4 resident](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6549s) (0m 59s)
+6. [Eric Sturgis](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6624s) (0m 39s)
+7. [A Ward 2 resident](https://www.youtube.com/watch?v=-mH0rCiwGls&t=6695s) (2m 48s)
 
-**General Public Comment** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17246s)):
-1. [Joe Spaulding](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17312s)
-2. [Ed Vielmetti](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17492s)
-3. [An unknown speaker](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17523s)
-4. [Ralph McKee](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17794s)
-5. [Alan Haber](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17978s)
-6. [Louis Vasquez](https://www.youtube.com/watch?v=-mH0rCiwGls&t=18189s)
+**General Public Comment** ([start](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17255s)):
+1. [Joe Spaulding](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17331s) (2m 52s)
+2. [Ed Vielmetti](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17520s) (1m 05s)
+3. [An unknown speaker](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17612s) (3m 13s)
+4. [Ralph McKee](https://www.youtube.com/watch?v=-mH0rCiwGls&t=17821s) (2m 41s)
+5. [Alan Haber](https://www.youtube.com/watch?v=-mH0rCiwGls&t=18008s) (3m 06s)
+6. [Louis Vasquez](https://www.youtube.com/watch?v=-mH0rCiwGls&t=18215s) (2m 41s)
 
 ### Votes
 
